@@ -1,12 +1,13 @@
 ---
 showcase:
   enable: true
-  title: Hello, I’m Andreas.
-  subtitle: Front-End Developer
-  description: I work at <a target='_blank' href='https://radity.com/'>Radity</a>,
-    a software development company in Switzerland. And I am a Raditian. You get the
-    idea where theme name comes from. Keep cool, stay in touch. You can download this
-    theme from <a target='_blank' href='https://github.com/radity/raditian-free-hugo-theme'>github</a>.
+  title: Quincy. Transformed.
+  subtitle: Building community and solidarity in Quincy
+  description: Quincy For Transformative Change is a grassroots organization that
+    formed in the wake of the Black Lives Matter protests in summer 2020 after the
+    murder of George Floyd. The primary focus of the group is to organize, promote,
+    and facilitate collaborative and strategic antiracist actions and initiatives
+    that seek to break down structures of oppression and discrimination.
   image:
     x: img/showcase/showcase.png
     _2x: img/showcase/showcase@2x.png
@@ -17,26 +18,10 @@ showcase:
     btnText: Contact
     URL: https://radity.com/en/contact/
   socialLinks:
-  - icon: linkedin
-    URL: https://www.linkedin.com/company/radity/
-  - icon: github
-    URL: https://github.com/radity
-  - icon: twitter
-    URL: https://twitter.com/radity
-  - icon: dribbble
-    URL: https://dribbble.com/radity
-  - icon: behance
-    URL: https://www.behance.net/radity-digital
-  - icon: youtube
-    URL: https://www.youtube.com/channel/UCojEc6SPO-W1_CoeHhK9-Zw
   - icon: instagram
-    URL: https://www.instagram.com/teamradity/
+    URL: https://instagram.com/quincyftc/
   - icon: facebook
-    URL: https://www.facebook.com/raditycom/
-  - icon: codepen
-    URL: "#"
-  - icon: yelp
-    URL: https://www.yelp.com/
+    URL: https://www.facebook.com/quincychange/
 about:
   enable: true
   title: Who am I?
