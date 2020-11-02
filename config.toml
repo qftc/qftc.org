@@ -77,7 +77,7 @@ theme = "raditian-free-hugo-theme"
     #text2 = ""
 
   [params.footer]
-      copyright = "This website is licensed under CC-BY-4.0."
+      copyright = "Content under a [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/deed.en)."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
