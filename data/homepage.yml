@@ -2,7 +2,7 @@
 showcase:
   enable: true
   title: Quincy. Transformed.
-  subtitle: Building community and solidarity in Quincy
+  subtitle: Organizing our community
   description: Quincy For Transformative Change is a grassroots organization that
     formed in the wake of the Black Lives Matter protests in summer 2020 after the
     murder of George Floyd. The primary focus of the group is to organize, promote,
@@ -21,17 +21,28 @@ showcase:
   - icon: instagram
     URL: https://instagram.com/quincyftc/
   - icon: facebook
-    URL: https://www.facebook.com/quincychange/
+    URL: https://facebook.com/quincychange/
 about:
   enable: true
-  title: Who am I?
-  content: <p class="lead"> I am back, after a few days of vacationing with family.
-    Weather was awesome, the beach was full of nasty jelly-fish, yuk! All-in-all,
-    life has been good. I hope life has been as good for all of you. </p> <p class="lead">
-    My area of focus lies in designing web and mobile products, user research as well
-    as leading of design & front-end teams. I enjoy designing and coding the UI as
-    much as talking with users to iterate and improve the experiences that reach business
-    goals. </p>
+  title: Who we are
+  content: '<p class="lead"> Quincy For Transformative Change is a grassroots organization
+    that formed in the wake of a series of Black Lives Matter protests in summer 2020
+    after the murder of George Floyd. The initial protest, "Quincy Candlelight Vigil
+    to Stand in Support of Black Lives" on June 2nd in downtown Quincy, drew over
+    4500 attendees from all over Massachusetts. We seek to empower the residents of
+    Quincy to take action in our community, advocate for marginalized folks, and break
+    down structures of oppression and discrimination with collaborative antiracist
+    actions and initiatives. </p> <p class="lead"> Our mission statement: "The mission
+    of Quincy For Transformative Change is to bring together people in the Quincy
+    area to end systemic injustice. While we are just one city, we are also part of
+    a larger movement. As an anti-racist organization, we believe that all human beings
+    are inherently worthy, and deserve to have the same agency and opportunities free
+    from discrimination on the basis of race, gender, sexual orientation, socioeconomic
+    class, disability, religion, age, immigration status, or physical appearance.
+    We value diversity, and we seek to transform Quincy by addressing and eliminating
+    unjust policies and practices that stand in the way of fair treatment and opportunity
+    for all. Our primary goals are to educate/inform, advocate, and take action in
+    solidarity with Black lives to create and maintain a more inclusive Quincy." </p>'
   button:
     icon: icon-smile-fill
     btnText: About Me
@@ -74,7 +85,7 @@ experience:
     company: Cyberse
     duration: Jun 2009 - Mar 2010
 client_and_work:
-  title: Clients & Works
+  title: Our Friends
   enable: true
   clients:
   - logo:
