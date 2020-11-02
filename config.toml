@@ -1,4 +1,4 @@
-baseURL = "https://raditian-hugo.radity.com/"
+baseURL = "https://qftc.org/"
 languageCode = "en-us"
 theme = "raditian-free-hugo-theme"
 
@@ -27,48 +27,58 @@ theme = "raditian-free-hugo-theme"
 
   [[menu.header]]
   name = "About"
-  URL = "#about"
+  URL = "/#about"
   weight = 2
 
   [[menu.header]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Join"
+  URL = "/join"
   weight = 3
 
   [[menu.header]]
   name = "Contact"
-  URL = "#contact"
+  URL = "/contact"
   weight = 4
+
+  [[menu.header]]
+  name = "Events"
+  URL = "/events"
+  weight = 5
 
 
   [[menu.footer]]
   name = "About"
-  URL = "#about"
+  URL = "/#about"
   weight = 2
 
   [[menu.footer]]
-  name = "Portfolio"
-  URL = "#portfolio"
+  name = "Join"
+  URL = "/join"
   weight = 3
 
   [[menu.footer]]
   name = "Contact"
-  URL = "#contact"
+  URL = "/contact"
   weight = 4
+
+  [[menu.footer]]
+  name = "Events"
+  URL = "/events"
+  weight = 5
 
 
 [params]
 
-  sections = ["showcase", "about", "education", "experience", "client-and-work", "testimonial", "contact", "newsletter"]
+  sections = ["showcase", "about", "newsletter"]
 
-  googleTagManagerID = "GTM-000000" # Google Analytics works with Google Tag Manager
+  googleTagManagerID = "GTM-KGL7LBK" # Google Analytics works with Google Tag Manager
 
   [params.logo]
-    text1 = "Andreas"
-    text2 = "Ellure"
+    text1 = "Quincy For Transformative Change"
+    #text2 = ""
 
   [params.footer]
-      copyright = "© Raditian. All rights reserved."
+      copyright = "This website is licensed under CC-BY-4.0."
       [params.footer.radity_logo]
         x = "img/general/design-and-code-radity.png"
         _2x = "img/general/design-and-code-radity@2x.png"
