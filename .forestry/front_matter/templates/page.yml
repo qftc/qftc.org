@@ -1,0 +1,352 @@
+---
+label: Page
+hide_body: true
+fields:
+- type: field_group
+  name: showcase
+  label: showcase
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: subtitle
+    label: subtitle
+  - type: textarea
+    name: description
+    label: description
+  - type: field_group
+    name: image
+    label: image
+    fields:
+    - type: file
+      name: x
+      label: x
+    - type: file
+      name: _2x
+      label: _2x
+  - type: field_group
+    name: imageMobile
+    label: imageMobile
+    fields:
+    - type: file
+      name: x
+      label: x
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: btnText
+      label: btnText
+    - type: text
+      name: URL
+      label: URL
+  - type: field_group_list
+    name: socialLinks
+    label: socialLinks
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: URL
+      label: URL
+- type: field_group
+  name: about
+  label: about
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: content
+    label: content
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: btnText
+      label: btnText
+    - type: text
+      name: URL
+      label: URL
+  - type: field_group
+    name: image
+    label: image
+    fields:
+    - type: file
+      name: x
+      label: x
+    - type: file
+      name: _2x
+      label: _2x
+- type: field_group
+  name: education
+  label: education
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: university
+      label: university
+    - type: text
+      name: year
+      label: year
+    - type: text
+      name: degree
+      label: degree
+- type: field_group
+  name: experience
+  label: experience
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: textarea
+    name: description
+    label: description
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: btnText
+      label: btnText
+    - type: text
+      name: URL
+      label: URL
+  - type: field_group
+    name: button2
+    label: button2
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: btnText
+      label: btnText
+    - type: text
+      name: URL
+      label: URL
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: company
+      label: company
+    - type: text
+      name: duration
+      label: duration
+- type: field_group
+  name: client_and_work
+  label: client_and_work
+  fields:
+  - type: text
+    name: title
+    label: title
+  - type: boolean
+    name: enable
+    label: enable
+  - type: field_group_list
+    name: clients
+    label: clients
+    fields:
+    - type: field_group
+      name: logo
+      label: logo
+      fields:
+      - type: file
+        name: x
+        label: x
+      - type: file
+        name: _2x
+        label: _2x
+    - type: text
+      name: alt
+      label: alt
+  - type: field_group_list
+    name: works
+    label: works
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: textarea
+      name: description
+      label: description
+    - type: field_group
+      name: button
+      label: button
+      fields:
+      - type: text
+        name: icon
+        label: icon
+      - type: text
+        name: btnText
+        label: btnText
+      - type: text
+        name: URL
+        label: URL
+    - type: field_group
+      name: image
+      label: image
+      fields:
+      - type: file
+        name: x
+        label: x
+      - type: file
+        name: _2x
+        label: _2x
+    - type: boolean
+      name: is_even
+      label: is_even
+- type: field_group
+  name: testimonial
+  label: testimonial
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group_list
+    name: items
+    label: items
+    fields:
+    - type: text
+      name: name
+      label: name
+    - type: text
+      name: position
+      label: position
+    - type: textarea
+      name: content
+      label: content
+    - type: field_group
+      name: image
+      label: image
+      fields:
+      - type: file
+        name: x
+        label: x
+      - type: file
+        name: _2x
+        label: _2x
+- type: field_group
+  name: contact
+  label: contact
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: field_group
+    name: form
+    label: form
+    fields:
+    - type: text
+      name: action
+      label: action
+    - type: text
+      name: full_name
+      label: full_name
+    - type: text
+      name: email
+      label: email
+    - type: text
+      name: message
+      label: message
+  - type: field_group
+    name: phone
+    label: phone
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: number
+      label: number
+  - type: field_group
+    name: email
+    label: email
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: email
+      label: email
+  - type: field_group
+    name: address
+    label: address
+    fields:
+    - type: text
+      name: title
+      label: title
+    - type: text
+      name: address
+      label: address
+  - type: field_group
+    name: button
+    label: button
+    fields:
+    - type: text
+      name: icon
+      label: icon
+    - type: text
+      name: btnText
+      label: btnText
+- type: field_group
+  name: newsletter
+  label: newsletter
+  fields:
+  - type: boolean
+    name: enable
+    label: enable
+  - type: text
+    name: title
+    label: title
+  - type: text
+    name: success_message
+    label: success_message
+  - type: text
+    name: error_message
+    label: error_message
+  - type: text
+    name: note
+    label: note
