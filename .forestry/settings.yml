@@ -5,6 +5,12 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: data
+  label: Data
+  create: all
+  match: "*.yml"
+  new_doc_ext: ".yml"
+- type: directory
   path: content
   label: Pages
   create: all
