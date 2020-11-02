@@ -1,3 +1,4 @@
 [submodule "themes/raditian-free-hugo-theme"]
 	path = themes/raditian-free-hugo-theme
 	url = https://github.com/qftc/raditian-free-hugo-theme.git
+	branch = main
