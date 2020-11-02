@@ -9,7 +9,7 @@ sections:
   label: Data
   create: all
   match: "*.yml"
-  new_doc_ext: ".yml"
+  new_doc_ext: yml
 - type: directory
   path: content
   label: Pages
