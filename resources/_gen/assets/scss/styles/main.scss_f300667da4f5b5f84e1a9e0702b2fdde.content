@@ -1057,6 +1057,11 @@ html {
   .align-self-xl-stretch {
     align-self: stretch !important; } }
 
+.hero {
+  background: black;
+  color: white;
+  text-align: center; }
+
 .section-dark {
   background: black; }
   .section-dark * {

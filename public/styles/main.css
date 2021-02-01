@@ -1057,5 +1057,10 @@ html {
   .align-self-xl-stretch {
     align-self: stretch !important; } }
 
-body {
-  background: red; }
+.section-dark {
+  background: black; }
+  .section-dark * {
+    color: white; }
+
+.section-light {
+  background: white; }
