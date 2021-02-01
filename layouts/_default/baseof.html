@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>{{.Title}}</title>
+  {{ $sass := resources.Get "styles/main.scss" }}
+  {{ $style := $sass | resources.ToCSS }}
+  <link rel="stylesheet" href="{{ $style.Permalink }}">
+</head>
+<body>
+  <nav>
+  </nav>
+  {{ block "main" . }}
+  {{ end }}
+</body>
+</html>

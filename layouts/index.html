@@ -1,0 +1,17 @@
+{{ define "main" }}
+  <section class="hero-home">
+    <h1>{{ .Params.hero.headline }}</h1>
+    <h2>{{ .Params.hero.subheadline }}</h2>
+  </section>
+  <section class="section-dark">
+    <div class="container">
+      <div class="row">
+        <div class="col-lg-6">
+          <h3>{{ .Params.who_we_are.headline }}</h3>
+          <p>{{ .Params.who_we_are.subheadline}}</p>
+        </div>
+      </div>
+    </div>
+  </section>
+  <section class="section-light"></section>
+{{ end }}

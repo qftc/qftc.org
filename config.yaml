@@ -1,0 +1,10 @@
+baseURL: "http://example.org/"
+defaultContentLanguage: en
+languages:
+  zh:
+    languagedirection: rtl
+    title: Chinese versions
+    weight: 2
+  en:
+    title: English Version
+    weight: 1

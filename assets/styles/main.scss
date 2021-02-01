@@ -1,0 +1,17 @@
+@import 'grid/bootstrap-grid';
+
+body {
+  
+}
+
+.section-dark {
+  background: black;
+
+  * {
+    color: white;
+  }
+}
+
+.section-light {
+  background: white;
+}
