@@ -1,13 +1,47 @@
+@import 'normalize';
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
 @import 'grid/bootstrap-grid';
 
+$browser-context: 16;
+
+@function em($pixels, $context: $browser-context) {
+  @return #{$pixels/$context}em;
+}
+
 body {
-  
+  -webkit-font-smoothing: antialiased;
+  font-family: 'Roboto';
 }
 
 .hero {
   background: black;
   color: white;
   text-align: center;
+  padding-top: 162px;
+}
+
+.hero-home {
+  padding-top: 160px;
+}
+
+nav {
+  align-items: center;
+  display: flex;
+  justify-content: space-between;
+  height: 82px;
+  padding: 0 60px;
+  position: fixed;
+  width: 100%;
+}
+
+.nav-links {
+  text-align: right;
+
+  a {
+    font-size: em(20);
+    display: inline-block;
+    padding: 0 em(15);
+  }
 }
 
 .section-dark {
