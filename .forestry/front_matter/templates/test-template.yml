@@ -1,0 +1,27 @@
+---
+label: test-template
+hide_body: false
+fields:
+- type: text
+  name: title
+  label: title
+- type: field_group
+  name: hero
+  label: hero
+  fields:
+  - type: text
+    name: headline
+    label: headline
+  - type: text
+    name: subheadline
+    label: subheadline
+- type: field_group
+  name: who_we_are
+  label: who_we_are
+  fields:
+  - type: text
+    name: headline
+    label: headline
+  - type: textarea
+    name: details
+    label: details
