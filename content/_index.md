@@ -11,6 +11,4 @@ who_we_are:
     collaborative and strategic antiracist actions and initiatives that seek to break
     down structures of oppression and discrimination.
 draft: true
-
 ---
-The content is loading an you are now very happy

@@ -1,5 +1,12 @@
 {{ define "main" }}
-  ABOUT TEMPLATE
-  {{.Title}}
-  {{.Content}}
+  <section class="hero">
+    <h1>{{ .Title }}</h1>
+  </section>
+  <section class="section-light">
+    {{ range .Pages }}
+      <li>
+        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+      </li>
+    {{ end }}
+  </section>
 {{ end }}
