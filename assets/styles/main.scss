@@ -2,6 +2,12 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;500;900&display=swap');
 @import 'grid/bootstrap-grid';
 
+
+$blue: #437CEC;
+$yellow: #FFDF59;
+$light-blue: #A1C4FF;
+$light-yellow: #FFF6C0;
+
 $browser-context: 16;
 
 @function em($pixels, $context: $browser-context) {
@@ -13,25 +19,71 @@ body {
   font-family: 'Roboto';
 }
 
+.center-text {
+  text-align: center;
+}
+
+h1 {
+  font-weight: 700;
+}
+
+h2 {
+  font-weight: 400;
+}
+
+h3 {
+  font-size: em(42);
+  margin-bottom: 40px;
+}
+
+h4 {
+  border-left: 6px solid $blue;
+  color: $light-blue;
+  font-size: em(28);
+  font-style: italic;
+  line-height: 1.5em;
+  margin-bottom: 50px;
+  padding-left: 30px;
+}
+
 .hero {
   background: black;
   color: white;
   text-align: center;
-  padding-top: 162px;
+  padding: 162px 0 80px;
+
+  h1 {
+    font-size: em(60);
+  }
 }
 
 .hero-home {
-  padding-top: 160px;
+  padding: 160px 8% 100px;
+
+  h1 {
+    font-size: em(90);
+    margin-bottom: em(40, 90);
+  }
+
+  h2 {
+    display: block;
+    font-size: em(32);
+    line-height: 1.5em;
+    max-width: 606px;
+    width: 100%;
+  }
 }
 
 nav {
   align-items: center;
+  background: white;
   display: flex;
   justify-content: space-between;
   height: 82px;
   padding: 0 60px;
   position: fixed;
   width: 100%;
+  z-index: 9999999;
 }
 
 .nav-links {
@@ -44,14 +96,25 @@ nav {
   }
 }
 
+.paragraph-large {
+  font-size: em(22);
+  line-height: 1.5em;
+}
+
 .section-dark {
   background: black;
+  padding: 100px 0;
 
   * {
     color: white;
+  }
+
+  h4 {
+    color: $light-blue;
   }
 }
 
 .section-light {
   background: white;
+  padding: 100px 0;
 }
