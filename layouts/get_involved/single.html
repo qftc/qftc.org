@@ -1,5 +1,27 @@
 {{ define "main" }}
-  ABOUT TEMPLATE
-  {{.Title}}
-  {{.Content}}
+  <section class="hero">
+    <h1>{{ .Title }}</h1>
+  </section>
+  <section class="section-light"></section>
+  <section class="section-dark">
+    <h3>{{ .Params.take_action.headline }} </h3>
+    <div class="container">
+      <div class="row">
+      </div>
+    </div>
+  </section>
+  <section class="section-light">
+    <div class="container">
+      <div class="row">
+        {{ range .Params.task_forces.list }}
+          <div class="task-force col-xl-6 col-sm-12 center-text">
+            <h5>{{ .name }}</h5>
+            <img src="{{ .icon_url }}">
+            <p>{{ .blurb }}</p>
+          </div>
+        {{ end }}
+      </div>
+    </div>
+  </section>
+  <section class="section-light"></section>
 {{ end }}
