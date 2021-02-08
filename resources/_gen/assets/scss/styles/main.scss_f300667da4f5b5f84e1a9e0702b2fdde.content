@@ -1260,6 +1260,11 @@ h4 {
   margin-bottom: 50px;
   padding-left: 30px; }
 
+h5 {
+  font-size: 1.5em;
+  font-weight: 700;
+  margin-bottom: 20px; }
+
 .hero {
   background: black;
   color: white;
@@ -1313,3 +1318,9 @@ nav {
 .section-light {
   background: white;
   padding: 100px 0; }
+
+.task-force {
+  padding: 0 40px 60px 40px; }
+  .task-force p {
+    font-size: 1.125em;
+    line-height: 1.5; }

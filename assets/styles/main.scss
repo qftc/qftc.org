@@ -46,6 +46,12 @@ h4 {
   padding-left: 30px;
 }
 
+h5 {
+  font-size: em(24);
+  font-weight: 700;
+  margin-bottom: 20px;
+}
+
 .hero {
   background: black;
   color: white;
@@ -118,3 +124,12 @@ nav {
   background: white;
   padding: 100px 0;
 }
+
+.task-force {
+  padding: 0 40px 60px 40px;
+
+  p {
+    font-size: em(18);
+    line-height: 1.5;
+  }
+} 

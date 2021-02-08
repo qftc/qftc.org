@@ -3,10 +3,12 @@
     <h1>{{ .Title }}</h1>
   </section>
   <section class="section-light">
-    {{ range .Pages }}
-      <li>
-        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
-      </li>
-    {{ end }}
+    <div class="container">
+      {{ range .Pages }}
+        <li>
+          <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+        </li>
+      {{ end }}
+    </div>
   </section>
 {{ end }}

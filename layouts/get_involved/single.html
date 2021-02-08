@@ -4,24 +4,39 @@
   </section>
   <section class="section-light"></section>
   <section class="section-dark">
-    <h3>{{ .Params.take_action.headline }} </h3>
     <div class="container">
       <div class="row">
+        <div class="col-md-10 offset-xl-1 col-12">
+          <h3> {{ .Params.take_action.headline }} </h3>
+        </div>
       </div>
     </div>
   </section>
   <section class="section-light">
+    <h3 class="center-text"> {{ .Params.task_forces.headline }} </h3>
     <div class="container">
       <div class="row">
         {{ range .Params.task_forces.list }}
-          <div class="task-force col-xl-6 col-sm-12 center-text">
-            <h5>{{ .name }}</h5>
+          <div class="task-force col-md-6 col-12 center-text">
             <img src="{{ .icon_url }}">
+            <h5>{{ .name }}</h5>
             <p>{{ .blurb }}</p>
           </div>
         {{ end }}
       </div>
     </div>
   </section>
-  <section class="section-light"></section>
+  <section class="section-dark">
+    <h3 class="center-text"> {{ .Params.other_groups.headline }} </h3>
+    <div class="container">
+      <div class="row justify-content-center">
+        {{ range .Params.other_groups.list }}
+          <a href="{{ .url }}" class="task-force col-md-6 col-12 center-text">
+            <h5>{{ .name }}</h5>
+            <p>{{ .blurb }}</p>
+          </a>
+        {{ end }}
+      </div>
+    </div>
+  </section>
 {{ end }}
