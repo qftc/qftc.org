@@ -13,5 +13,11 @@
       </div>
     </div>
   </section>
-  <section class="section-light"></section>
+  <section class="section-light">
+    {{ range where .Data.Pages "layout" "single" }}
+      <li>
+        <a href="{{.Permalink}}">{{.Title}}</a>
+      </li>
+    {{ end }}
+  </section>
 {{ end }}
