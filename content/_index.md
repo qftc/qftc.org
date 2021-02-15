@@ -3,6 +3,9 @@ title: Home
 hero:
   headline: We are QFTC
   subheadline: Changing and transforming Quincy towards justice, inclusion, and anti-racism
+  cta:
+    text: Get Involved
+    url: /get_involved
 who_we_are:
   headline: Who We Are
   details: Quincy For Transformative Change is a grassroots organization that formed

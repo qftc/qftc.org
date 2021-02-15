@@ -2,12 +2,15 @@
   <section class="hero-home">
     <h1>{{ .Params.hero.headline }}</h1>
     <h2>{{ .Params.hero.subheadline }}</h2>
+    <a href="{{ .Params.hero.cta.url }}" class="button button-blue">
+      <div class="text">{{ .Params.hero.cta.text }}</div>
+    </a>
   </section>
   <section class="section-dark">
     <div class="container">
       <div class="row justify-content-center center-text">
         <div class="col-lg-8 col-m-10">
-          <h3>{{ .Params.who_we_are.headline }}</h3>
+          <h3 class="h3-center">{{ .Params.who_we_are.headline }}</h3>
           <p class="paragraph-large">{{ .Params.who_we_are.details }}</p>
         </div>
       </div>

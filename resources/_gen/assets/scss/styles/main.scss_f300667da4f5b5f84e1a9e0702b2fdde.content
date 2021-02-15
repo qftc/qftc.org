@@ -1238,6 +1238,54 @@ body {
   -webkit-font-smoothing: antialiased;
   font-family: 'Roboto'; }
 
+.button {
+  color: white;
+  display: inline-block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1;
+  padding: 30px 20px;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase; }
+  .button .text {
+    color: white;
+    position: relative;
+    z-index: 999; }
+  .button:before {
+    background: #437CEC;
+    bottom: 0px;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s, background 0.3s;
+    transform: translate(-3px, -3px);
+    z-index: 9; }
+  .button:after {
+    bottom: 0px;
+    border: 2px solid #A1C4FF;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s;
+    transform: translate(3px, 3px);
+    z-index: 99; }
+  .button:hover:before {
+    background: black;
+    transform: translate(0px, 0px); }
+  .button:hover:after {
+    transform: translate(0px, 0px); }
+  .button:active:before {
+    background: #437CEC; }
+
 .center-text {
   text-align: center; }
 
@@ -1249,7 +1297,22 @@ h2 {
 
 h3 {
   font-size: 2.625em;
-  margin-bottom: 40px; }
+  padding-bottom: 50px;
+  position: relative; }
+  h3:after {
+    background: url("/images/headline-squiggle.svg");
+    bottom: 0;
+    content: '';
+    display: block;
+    position: absolute;
+    height: 34px;
+    right: 50%;
+    transform: translateX(50%);
+    width: 280px; }
+
+.h3-left:after {
+  left: 0%;
+  transform: translateX(0%); }
 
 h4 {
   border-left: 6px solid #437CEC;
@@ -1269,9 +1332,18 @@ h5 {
   background: black;
   color: white;
   text-align: center;
-  padding: 162px 0 80px; }
+  padding: 162px 0 80px;
+  position: relative; }
   .hero h1 {
     font-size: 3.75em; }
+  .hero:before {
+    background: url("/images/blue-dot-background.svg");
+    content: '';
+    display: block;
+    height: 46px;
+    position: absolute;
+    bottom: 3px;
+    width: 100%; }
 
 .hero-home {
   padding: 160px 8% 100px; }
@@ -1282,6 +1354,7 @@ h5 {
     display: block;
     font-size: 2em;
     line-height: 1.5em;
+    margin-bottom: 40px;
     max-width: 606px;
     width: 100%; }
 
@@ -1309,11 +1382,20 @@ nav {
 
 .section-dark {
   background: black;
-  padding: 100px 0; }
+  padding: 100px 0;
+  position: relative; }
   .section-dark * {
     color: white; }
   .section-dark h4 {
     color: #A1C4FF; }
+  .section-dark:before {
+    background: url("/images/blue-dot-background.svg");
+    content: '';
+    display: block;
+    height: 46px;
+    position: absolute;
+    top: 3px;
+    width: 100%; }
 
 .section-light {
   background: white;
