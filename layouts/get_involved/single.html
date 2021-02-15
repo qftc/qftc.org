@@ -31,10 +31,12 @@
     <div class="container">
       <div class="row justify-content-center">
         {{ range .Params.other_groups.list }}
-          <a href="{{ .url }}" class="task-force col-md-6 col-12 center-text">
-            <h5>{{ .name }}</h5>
-            <p>{{ .blurb }}</p>
-          </a>
+          <div class="col-md-4 col-12">
+            <a href="{{ .url }}" class="other-group center-text">
+              <h5>{{ .name }}</h5>
+              <p class="other-group-blurb">{{ .blurb }}</p>
+            </a>
+          </div>
         {{ end }}
       </div>
     </div>

@@ -1378,6 +1378,30 @@ nav {
     display: inline-block;
     padding: 0 0.9375em; }
 
+.other-group {
+  display: block;
+  background: rgba(255, 246, 192, 0.3);
+  border-radius: 8px;
+  margin-bottom: 20px;
+  padding: 40px 0;
+  position: relative;
+  text-decoration: none; }
+  .other-group h5 {
+    margin: 0; }
+  .other-group:hover .other-group-blurb {
+    opacity: 1; }
+
+.other-group-blurb {
+  background: rgba(0, 0, 0, 0.8);
+  bottom: 0;
+  opacity: 0;
+  position: absolute;
+  top: 0;
+  z-index: 99;
+  width: 100%;
+  text-decoration: none;
+  transition: opacity 0.3s; }
+
 .paragraph-large {
   font-size: 1.375em;
   line-height: 1.5em; }
