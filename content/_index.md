@@ -7,6 +7,7 @@ hero:
     text: Get Involved
     url: /get_involved
 who_we_are:
+  background_path: "/images/who-we-are-background.jpg"
   headline: Who We Are
   details: Quincy For Transformative Change is a grassroots organization that formed
     in the wake of the Black Lives Matter protests in summer 2020 after the murder

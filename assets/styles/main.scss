@@ -128,6 +128,7 @@ h4 {
   font-style: italic;
   line-height: 1.5em;
   margin-bottom: 50px;
+  margin-top: 40px;
   padding-left: 30px;
 }
 
@@ -138,7 +139,8 @@ h5 {
 }
 
 .hero {
-  background: black;
+  background: url("/images/hero-background.jpg");
+  background-size: cover;
   color: white;
   text-align: center;
   padding: 162px 0 80px;
@@ -206,6 +208,7 @@ nav {
 
 .section-dark {
   background: black;
+  background-size: cover;
   padding: 100px 0;
   position: relative;
 
