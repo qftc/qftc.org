@@ -25,6 +25,7 @@ body {
   font-size: em(18); 
   font-weight: bold;
   line-height: 1;
+  outline: none;
   padding: 30px 20px;
   position: relative;
   text-decoration: none;
@@ -67,6 +68,147 @@ body {
   }
 
   &:hover {
+    &:before {
+      background: black;
+      transform: translate(0px, 0px);
+    }
+
+    &:after {
+      transform: translate(0px, 0px);
+    }
+  }
+
+  &:active {
+    &:before {
+      background: $blue;
+    }
+  }
+}
+
+.button-secondary {
+  color: black;
+  display: inline-block;
+  font-size: em(18); 
+  font-weight: bold;
+  line-height: 1;
+  outline: none;
+  padding: 20px 20px;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  .text {
+    color: black;
+    position: relative;
+    z-index: 999;
+  }
+
+  &:before {
+    background: $yellow;
+    bottom: 0px;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s, background 0.3s;
+    transform: translate(-3px, -3px);
+    z-index: 9;
+  }
+
+  &:after {
+    bottom: 0px;
+    border: 2px solid $light-yellow;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s;
+    transform: translate(3px, 3px);
+    z-index: 99;
+  }
+
+  &:hover {
+    .text {
+      color: white;
+    }
+
+    &:before {
+      background: black;
+      transform: translate(0px, 0px);
+    }
+
+    &:after {
+      transform: translate(0px, 0px);
+    }
+  }
+
+  &:active {
+    &:before {
+      background: $blue;
+    }
+  }
+}
+
+.button-page-nav {
+  color: black;
+  display: inline-block;
+  font-size: em(18); 
+  font-weight: bold;
+  line-height: 1;
+  margin: 0 10px;
+  outline: none;
+  padding: 15px 20px;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase;
+
+  .text {
+    color: black;
+    position: relative;
+    z-index: 999;
+  }
+
+  &:before {
+    background: $light-blue;
+    bottom: 0px;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s, background 0.3s;
+    transform: translate(-3px, -3px);
+    z-index: 9;
+  }
+
+  &:after {
+    bottom: 0px;
+    border: 2px solid $blue;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s;
+    transform: translate(3px, 3px);
+    z-index: 99;
+  }
+
+  &:hover {
+    .text {
+      color: white;
+    }
+
     &:before {
       background: black;
       transform: translate(0px, 0px);
@@ -201,12 +343,16 @@ nav {
   }
 }
 
+.other-groups {
+  margin-top: 40px;
+}
+
 .other-group {
   display: block;
   background: rgba($light-yellow, 0.3);
   border-radius: 8px;
-  margin-bottom: 20px;
-  padding: 40px 0;
+  margin-bottom: 30px;
+  padding: 70px 0;
   position: relative;
   text-decoration: none;
 
@@ -214,23 +360,57 @@ nav {
     margin: 0;
   }
 
+  &:after {
+    bottom: 0px;
+    border: 2px solid $yellow;
+    border-radius: 8px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s;
+    transform: translate(7px, 7px);
+    z-index: 99;
+  }
+
   &:hover {
     .other-group-blurb {
       opacity: 1;
+    }
+
+    &:after {
+      transform: translate(0px, 0px);
     }
   }
 }
 
 .other-group-blurb {
-  background: rgba(black, 0.8);
+  background: rgba(black, 0.7);
+  backdrop-filter: blur(10px);
   bottom: 0;
+  font-size: em(15);
+  margin: 0;
   opacity: 0;
+  padding: 20px;
   position: absolute;
   top: 0;
   z-index: 99;
   width: 100%;
+  text-align: left;
   text-decoration: none;
   transition: opacity 0.3s;
+}
+
+.page-nav {
+  background: white;
+  border-top: 1px solid black;
+  padding: 20px 0;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
+  top: 82px;
+  z-index: 99999;
 }
 
 .paragraph-large {

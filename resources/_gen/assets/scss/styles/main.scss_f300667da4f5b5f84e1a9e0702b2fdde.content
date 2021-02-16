@@ -1244,6 +1244,7 @@ body {
   font-size: 1.125em;
   font-weight: bold;
   line-height: 1;
+  outline: none;
   padding: 30px 20px;
   position: relative;
   text-decoration: none;
@@ -1284,6 +1285,109 @@ body {
   .button:hover:after {
     transform: translate(0px, 0px); }
   .button:active:before {
+    background: #437CEC; }
+
+.button-secondary {
+  color: black;
+  display: inline-block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1;
+  outline: none;
+  padding: 20px 20px;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase; }
+  .button-secondary .text {
+    color: black;
+    position: relative;
+    z-index: 999; }
+  .button-secondary:before {
+    background: #FFDF59;
+    bottom: 0px;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s, background 0.3s;
+    transform: translate(-3px, -3px);
+    z-index: 9; }
+  .button-secondary:after {
+    bottom: 0px;
+    border: 2px solid #FFF6C0;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s;
+    transform: translate(3px, 3px);
+    z-index: 99; }
+  .button-secondary:hover .text {
+    color: white; }
+  .button-secondary:hover:before {
+    background: black;
+    transform: translate(0px, 0px); }
+  .button-secondary:hover:after {
+    transform: translate(0px, 0px); }
+  .button-secondary:active:before {
+    background: #437CEC; }
+
+.button-page-nav {
+  color: black;
+  display: inline-block;
+  font-size: 1.125em;
+  font-weight: bold;
+  line-height: 1;
+  margin: 0 10px;
+  outline: none;
+  padding: 15px 20px;
+  position: relative;
+  text-decoration: none;
+  text-transform: uppercase; }
+  .button-page-nav .text {
+    color: black;
+    position: relative;
+    z-index: 999; }
+  .button-page-nav:before {
+    background: #A1C4FF;
+    bottom: 0px;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s, background 0.3s;
+    transform: translate(-3px, -3px);
+    z-index: 9; }
+  .button-page-nav:after {
+    bottom: 0px;
+    border: 2px solid #437CEC;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s;
+    transform: translate(3px, 3px);
+    z-index: 99; }
+  .button-page-nav:hover .text {
+    color: white; }
+  .button-page-nav:hover:before {
+    background: black;
+    transform: translate(0px, 0px); }
+  .button-page-nav:hover:after {
+    transform: translate(0px, 0px); }
+  .button-page-nav:active:before {
     background: #437CEC; }
 
 .center-text {
@@ -1378,29 +1482,62 @@ nav {
     display: inline-block;
     padding: 0 0.9375em; }
 
+.other-groups {
+  margin-top: 40px; }
+
 .other-group {
   display: block;
   background: rgba(255, 246, 192, 0.3);
   border-radius: 8px;
-  margin-bottom: 20px;
-  padding: 40px 0;
+  margin-bottom: 30px;
+  padding: 70px 0;
   position: relative;
   text-decoration: none; }
   .other-group h5 {
     margin: 0; }
+  .other-group:after {
+    bottom: 0px;
+    border: 2px solid #FFDF59;
+    border-radius: 8px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s;
+    transform: translate(7px, 7px);
+    z-index: 99; }
   .other-group:hover .other-group-blurb {
     opacity: 1; }
+  .other-group:hover:after {
+    transform: translate(0px, 0px); }
 
 .other-group-blurb {
-  background: rgba(0, 0, 0, 0.8);
+  background: rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(10px);
   bottom: 0;
+  font-size: 0.9375em;
+  margin: 0;
   opacity: 0;
+  padding: 20px;
   position: absolute;
   top: 0;
   z-index: 99;
   width: 100%;
+  text-align: left;
   text-decoration: none;
   transition: opacity 0.3s; }
+
+.page-nav {
+  background: white;
+  border-top: 1px solid black;
+  padding: 20px 0;
+  position: -webkit-sticky;
+  /* Safari */
+  position: sticky;
+  top: 82px;
+  z-index: 99999; }
 
 .paragraph-large {
   font-size: 1.375em;

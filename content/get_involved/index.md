@@ -49,6 +49,7 @@ task_forces:
       blurb:
         We address issues of institutional and systemic discrimination within Quincy’s criminal justice system.
 other_groups:
+  background_path: '/images/other-groups-background.jpg'
   headline: Other Local Groups
   list:
 

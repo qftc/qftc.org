@@ -2,7 +2,19 @@
   <section class="hero">
     <h1>{{ .Title }}</h1>
   </section>
-  <section class="section-light"></section>
+  <section class="page-nav center-text">
+    <a href="#" class="button-page-nav">
+      <div class="text">{{ .Params.take_action.headline }}</div>
+    </a>
+
+    <a href="#" class="button-page-nav">
+      <div class="text">{{ .Params.task_forces.headline }}</div>
+    </a>
+
+    <a href="#" class="button-page-nav">
+      <div class="text">{{ .Params.other_groups.headline }}</div>
+    </a>
+  </section>
   <section class="section-dark">
     <div class="container">
       <div class="row">
@@ -26,13 +38,13 @@
       </div>
     </div>
   </section>
-  <section class="section-dark">
+  <section class="section-dark" style="background-image: url('{{ .Params.other_groups.background_path }}');">
     <h3 class="center-text"> {{ .Params.other_groups.headline }} </h3>
-    <div class="container">
+    <div class="container other-groups">
       <div class="row justify-content-center">
         {{ range .Params.other_groups.list }}
-          <div class="col-md-4 col-12">
-            <a href="{{ .url }}" class="other-group center-text">
+          <div class="col-lg-4 col-md-6 col-12">
+            <a href="{{ .url }}" class="other-group center-text" target="_blank">
               <h5>{{ .name }}</h5>
               <p class="other-group-blurb">{{ .blurb }}</p>
             </a>
