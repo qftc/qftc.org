@@ -1498,9 +1498,15 @@ nav {
 .nav-links {
   text-align: right; }
   .nav-links a {
+    color: black;
     font-size: 1.25em;
     display: inline-block;
-    padding: 0 0.9375em; }
+    line-height: 1.5;
+    margin: 0 0.9375em;
+    text-decoration: none; }
+    .nav-links a.active {
+      box-shadow: inset 0 -3px 0 black;
+      font-weight: bold; }
 
 .nav-start {
   background: rgba(255, 255, 255, 0); }
@@ -1567,6 +1573,33 @@ nav {
 .paragraph-large {
   font-size: 1.375em;
   line-height: 1.5em; }
+
+section {
+  position: relative; }
+
+.section-blob-bottom-left {
+  display: block;
+  left: 0px;
+  position: absolute;
+  bottom: 0px; }
+
+.section-blob-bottom-right {
+  display: block;
+  right: 0px;
+  position: absolute;
+  bottom: 0px; }
+
+.section-blob-top-left {
+  display: block;
+  position: absolute;
+  left: 0px;
+  top: 0px; }
+
+.section-blob-top-right {
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 0px; }
 
 .section-dark {
   background: black;

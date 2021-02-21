@@ -12,11 +12,11 @@
   <nav class="nav">
     <div>logo</div>
     <div class="nav-links">
-      <a href="/" class="nav-link">Home</a>
-      <a href="/about_us" class="nav-link">About Us</a>
-      <a href="/get_involved" class="nav-link">Get Involved</a>
-      <a href="/posts" class="nav-link">QFTC Archive</a>
-      <a href="/contact_us" class="nav-link">Contact Us</a>
+      <a href="/" class="nav-link {{ if eq .Title "Home" }} active {{ end }}">Home</a>
+      <a href="/about_us" class="nav-link {{ if eq .Title "About Us" }} active {{ end }}">About Us</a>
+      <a href="/get_involved" class="nav-link {{ if eq .Title "Get Involved" }} active {{ end }}">Get Involved</a>
+      <a href="/posts" class="nav-link {{ if eq .Title "QFTC Archive" }} active {{ end }}">QFTC Archive</a>
+      <a href="/contact_us" class="nav-link {{ if eq .Title "Contact Us" }} active {{ end }}">Contact Us</a>
     </div>
   </nav>
   {{ block "main" . }}

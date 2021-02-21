@@ -1,5 +1,5 @@
 ---
-title: 'About us'
+title: 'About Us'
 type: 'about_us'
 layout: 'single'
 draft: true
