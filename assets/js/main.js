@@ -21,15 +21,13 @@ window.smoothScroll = () => {
 
 window.navFill = () => {
   let nav = document.querySelector('nav');
-  let hero = document.querySelector('.hero-home');
-  let triggerPoint = hero.clientHeight - 100;
 
   nav.classList.add('nav-start');
 
   document.addEventListener('scroll', (e) => {
     let scrollToPosition = window.scrollY
     
-    if (scrollToPosition >= triggerPoint) {
+    if (scrollToPosition >= 82) {
       nav.classList.remove('nav-start');
     } else {
       nav.classList.add('nav-start')

@@ -346,6 +346,49 @@ h5 {
   z-index: 9;
 }
 
+.hero-home-content {
+  margin: 0 auto;
+  max-width: 1214px;
+  width: 100%;
+}
+
+.hero-home-image {
+  position: relative;
+  z-index: 99;
+}
+
+.hero-home-image-dots {
+  display: block;
+  bottom: -10%;
+  left: -8%;
+  position: absolute;
+  width: 100%;
+}
+
+.hero-home-image-frame {
+  border-radius: 8px;
+  box-shadow: 0px 11px 30px rgba(0,0,0, 0.26);
+  overflow: hidden;
+  position: relative;
+  z-index: 99;
+}
+
+.hero-home-image-picture {
+  display: block;
+  width: 100%;
+}
+
+.hero-home-image-stroke {
+  border: 2px solid $blue;
+  border-radius: 8px;
+  bottom: -14px;
+  left: 14px;
+  position: absolute;
+  right: -14px;
+  top: 14px;
+  z-index: 999;
+}
+
 nav {
   align-items: center;
   background: rgba(white, 1);

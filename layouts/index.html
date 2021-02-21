@@ -2,11 +2,24 @@
   <section class="hero-home">
     <img src="images/hero-blob-blue.svg" class="hero-home-blob-blue">
     <img src="images/hero-blob-yellow.svg" class="hero-home-blob-yellow">
-    <h1>{{ .Params.hero.headline }}</h1>
-    <h2>{{ .Params.hero.subheadline }}</h2>
-    <a href="{{ .Params.hero.cta.url }}" class="button button-blue">
-      <div class="text">{{ .Params.hero.cta.text }}</div>
-    </a>
+    <div class="row hero-home-content">
+      <div class="col-7">
+        <h1>{{ .Params.hero.headline }}</h1>
+        <h2>{{ .Params.hero.subheadline }}</h2>
+        <a href="{{ .Params.hero.cta.url }}" class="button button-blue">
+          <div class="text">{{ .Params.hero.cta.text }}</div>
+        </a>
+      </div>
+      <div class="col-5">
+        <div class="hero-home-image">
+          <img src="images/hero-home-image-dots.svg" class="hero-home-image-dots">
+          <div class="hero-home-image-frame">
+            <img src="images/hero-home-image.jpg" class="hero-home-image-picture">
+          </div>
+          <div class="hero-home-image-stroke"></div>
+        </div>
+      </div>
+    </div>
   </section>
   <section class="section-dark" style="background-image: url('{{ .Params.who_we_are.background_path }}');">
     <div class="container">
