@@ -10,23 +10,38 @@
   <script type="text/javascript" src="http://example.org/js/main.js" defer></script>
 </head>
 <body>
-  <nav>
+  <nav class="nav">
     <div>logo</div>
     <div class="nav-links">
-      <a href="/" class="nav-link">Home</a>
-      <a href="/about_us" class="nav-link">About Us</a>
-      <a href="/get_involved" class="nav-link">Get Involved</a>
-      <a href="/posts" class="nav-link">QFTC Archive</a>
-      <a href="/contact_us" class="nav-link">Contact Us</a>
+      <a href="/" class="nav-link ">Home</a>
+      <a href="/about_us" class="nav-link ">About Us</a>
+      <a href="/get_involved" class="nav-link ">Get Involved</a>
+      <a href="/posts" class="nav-link ">QFTC Archive</a>
+      <a href="/contact_us" class="nav-link ">Contact Us</a>
     </div>
   </nav>
   
   <section class="hero-home">
-    <h1></h1>
-    <h2></h2>
-    <a href="" class="button button-blue">
-      <div class="text"></div>
-    </a>
+    <img src="images/hero-blob-blue.svg" class="hero-home-blob-blue">
+    <img src="images/hero-blob-yellow.svg" class="hero-home-blob-yellow">
+    <div class="row hero-home-content">
+      <div class="col-7">
+        <h1></h1>
+        <h2></h2>
+        <a href="" class="button button-blue">
+          <div class="text"></div>
+        </a>
+      </div>
+      <div class="col-5">
+        <div class="hero-home-image">
+          <img src="images/hero-home-image-dots.svg" class="hero-home-image-dots">
+          <div class="hero-home-image-frame">
+            <img src="images/hero-home-image.jpg" class="hero-home-image-picture">
+          </div>
+          <div class="hero-home-image-stroke"></div>
+        </div>
+      </div>
+    </div>
   </section>
   <section class="section-dark" style="background-image: url('');">
     <div class="container">
@@ -41,6 +56,12 @@
   <section class="section-light">
     
   </section>
+
+  <script type="text/javascript">
+    window.onload = (event) => {
+      navFill();
+    }
+  </script>
 
   <footer>
   </footer>

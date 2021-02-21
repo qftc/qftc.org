@@ -2,7 +2,7 @@
 title: 'Get Involved'
 type: 'get_involved'
 layout: 'single'
-draft: true
+draft: false
 take_action:
   headline: Act Now
 task_forces:
