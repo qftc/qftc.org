@@ -1234,9 +1234,6 @@ html {
   .align-self-xl-stretch {
     align-self: stretch !important; } }
 
-html {
-  scroll-behavior: smooth; }
-
 body {
   -webkit-font-smoothing: antialiased;
   font-family: 'Roboto'; }

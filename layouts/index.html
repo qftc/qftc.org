@@ -1,5 +1,7 @@
 {{ define "main" }}
   <section class="hero-home">
+    <img src="images/hero-blob-blue.svg" class="hero-home-blob-blue">
+    <img src="images/hero-blob-yellow.svg" class="hero-home-blob-yellow">
     <h1>{{ .Params.hero.headline }}</h1>
     <h2>{{ .Params.hero.subheadline }}</h2>
     <a href="{{ .Params.hero.cta.url }}" class="button button-blue">
@@ -23,4 +25,10 @@
       </li>
     {{ end }}
   </section>
+
+  <script type="text/javascript">
+    window.onload = (event) => {
+      navFill();
+    }
+  </script>
 {{ end }}

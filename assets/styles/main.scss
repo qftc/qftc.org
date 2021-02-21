@@ -309,10 +309,13 @@ h5 {
 
 .hero-home {
   padding: 160px 8% 100px;
+  position: relative;
 
   h1 {
     font-size: em(90);
     margin-bottom: em(40, 90);
+    position: relative;
+    z-index: 99;
   }
 
   h2 {
@@ -321,18 +324,39 @@ h5 {
     line-height: 1.5em;
     margin-bottom: 40px;
     max-width: 606px;
+    position: relative;
     width: 100%;
+    z-index: 99;
   }
 }
 
+.hero-home-blob-blue {
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  z-index: 9;
+}
+
+.hero-home-blob-yellow {
+  display: block;
+  left: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 9;
+}
+
+.hero-home-blob-yellow {}
+
 nav {
   align-items: center;
-  background: white;
+  background: rgba(white, 1);
   display: flex;
   justify-content: space-between;
   height: 82px;
   padding: 0 60px;
   position: fixed;
+  transition: background 0.3s;
   width: 100%;
   z-index: 9999999;
 }
@@ -345,6 +369,10 @@ nav {
     display: inline-block;
     padding: 0 em(15);
   }
+}
+
+.nav-start {
+  background: rgba(white, 0);
 }
 
 .other-groups {

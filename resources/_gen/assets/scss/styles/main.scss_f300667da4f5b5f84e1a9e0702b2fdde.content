@@ -1452,17 +1452,36 @@ h5 {
     width: 100%; }
 
 .hero-home {
-  padding: 160px 8% 100px; }
+  padding: 160px 8% 100px;
+  position: relative; }
   .hero-home h1 {
     font-size: 5.625em;
-    margin-bottom: 0.44444444em; }
+    margin-bottom: 0.44444444em;
+    position: relative;
+    z-index: 99; }
   .hero-home h2 {
     display: block;
     font-size: 2em;
     line-height: 1.5em;
     margin-bottom: 40px;
     max-width: 606px;
-    width: 100%; }
+    position: relative;
+    width: 100%;
+    z-index: 99; }
+
+.hero-home-blob-blue {
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  z-index: 9; }
+
+.hero-home-blob-yellow {
+  display: block;
+  left: 0px;
+  position: absolute;
+  bottom: 0px;
+  z-index: 9; }
 
 nav {
   align-items: center;
@@ -1472,6 +1491,7 @@ nav {
   height: 82px;
   padding: 0 60px;
   position: fixed;
+  transition: background 0.3s;
   width: 100%;
   z-index: 9999999; }
 
@@ -1481,6 +1501,9 @@ nav {
     font-size: 1.25em;
     display: inline-block;
     padding: 0 0.9375em; }
+
+.nav-start {
+  background: rgba(255, 255, 255, 0); }
 
 .other-groups {
   margin-top: 40px; }
