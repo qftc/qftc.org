@@ -3,19 +3,19 @@
     <h1>{{ .Title }}</h1>
   </section>
   <section class="page-nav center-text">
-    <a href="#" class="button-page-nav">
+    <a href="#!" class="button-page-nav" data-anchor="{{ replace (lower .Params.take_action.headline) " " "-"}}">
       <div class="text">{{ .Params.take_action.headline }}</div>
     </a>
 
-    <a href="#" class="button-page-nav">
+    <a href="#!" class="button-page-nav" data-anchor="{{ replace (lower .Params.task_forces.headline) " " "-"}}">
       <div class="text">{{ .Params.task_forces.headline }}</div>
     </a>
 
-    <a href="#" class="button-page-nav">
+    <a href="#!" class="button-page-nav" data-anchor="{{ replace (lower .Params.other_groups.headline) " " "-"}}">
       <div class="text">{{ .Params.other_groups.headline }}</div>
     </a>
   </section>
-  <section class="section-dark">
+  <section class="section-dark" id="{{ replace (lower .Params.take_action.headline) " " "-"}}">
     <div class="container">
       <div class="row">
         <div class="col-md-10 offset-xl-1 col-12">
@@ -24,7 +24,7 @@
       </div>
     </div>
   </section>
-  <section class="section-light">
+  <section class="section-light" id="{{ replace (lower .Params.task_forces.headline) " " "-"}}">
     <h3 class="center-text"> {{ .Params.task_forces.headline }} </h3>
     <div class="container">
       <div class="row">
@@ -38,7 +38,7 @@
       </div>
     </div>
   </section>
-  <section class="section-dark" style="background-image: url('{{ .Params.other_groups.background_path }}');">
+  <section class="section-dark" style="background-image: url('{{ .Params.other_groups.background_path }}');" id="{{ replace (lower .Params.other_groups.headline) " " "-"}}">
     <h3 class="center-text"> {{ .Params.other_groups.headline }} </h3>
     <div class="container other-groups">
       <div class="row justify-content-center">
@@ -53,4 +53,10 @@
       </div>
     </div>
   </section>
+
+  <script type="text/javascript">
+    window.onload = (event) => {
+      smoothScroll();
+    }
+  </script>
 {{ end }}

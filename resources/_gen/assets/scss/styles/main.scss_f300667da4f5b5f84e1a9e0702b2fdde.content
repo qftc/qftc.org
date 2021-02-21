@@ -1484,6 +1484,8 @@ nav {
 
 .other-groups {
   margin-top: 40px; }
+  .other-groups .row {
+    align-items: stretch; }
 
 .other-group {
   display: block;

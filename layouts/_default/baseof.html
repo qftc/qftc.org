@@ -4,7 +4,9 @@
   <title>{{.Title}}</title>
   {{ $sass := resources.Get "styles/main.scss" }}
   {{ $style := $sass | resources.ToCSS }}
+  {{ $js := resources.Get "js/main.js" | js.Build }}
   <link rel="stylesheet" href="{{ $style.Permalink }}">
+  <script type="text/javascript" src="{{ $js.Permalink }}" defer></script>
 </head>
 <body>
   <nav>
