@@ -4,6 +4,7 @@ date: 2021-02-02T16:09:57-05:00
 draft: true
 subtitle: "Here is a thing the is going on with QFTC.We think that you deserve to know all about it."
 layout: 'single'
+tags: ['article', 'act']
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed a arcu ex. Aliquam eleifend laoreet diam pretium consectetur. Curabitur in dapibus mauris. Phasellus sollicitudin risus id fermentum hendrerit. Donec vestibulum sed nulla vitae hendrerit. Ut vitae dolor quis mauris interdum suscipit. Sed eget efficitur est. Mauris purus lacus, ultrices eu mi ac, imperdiet vulputate velit. Phasellus urna risus, auctor sed quam in, elementum viverra diam.
