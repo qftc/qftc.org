@@ -16,23 +16,29 @@
             </div>
 
             <div class="field">
-              <label>{{ .Params.form.name.label }}</label>
-              <input type="text" name="{{ .Params.form.name.name }}" placeholder="{{ .Params.form.name.placeholder }}" required="{{ .Params.form.name.required }}">
+              <label>{{ .Params.form.first_name.label }}</label>
+              <input type="text" name="{{ .Params.form.first_name.name }}" placeholder="{{ .Params.form.first_name.placeholder }}" required="{{ .Params.form.first_name.required }}">
             </div>
 
             <div class="field">
-              <label>{{ .Params.form.reason.label }}</label>
-              <select name="{{ .Params.form.reason.name }}" placeholder="{{ .Params.form.reason.placeholder }}" required="{{ .Params.form.reason.required }}">
-                {{ range .Params.form.reason.reasons }}
+              <label>{{ .Params.form.last_name.label }}</label>
+              <input type="text" name="{{ .Params.form.last_name.name }}" placeholder="{{ .Params.form.last_name.placeholder }}" required="{{ .Params.form.last_name.required }}">
+            </div>
+
+            <div class="field">
+              <label>{{ .Params.form.task_force.label }}</label>
+              <select name="{{ .Params.form.task_force.name }}" placeholder="{{ .Params.form.task_force.placeholder }}" required="{{ .Params.form.task_force.required }}">
+                {{ range .Params.form.task_force.task_forces }}
                   <option>{{ . }}</option>
                 {{ end }}
               </select>
             </div>
 
             <div class="field">
-              <label>{{ .Params.form.name.label }}</label>
+              <label>{{ .Params.form.message.label }}</label>
               <textarea type="text" name="{{ .Params.form.message.message }}" placeholder="{{ .Params.form.message.placeholder }}" required="{{ .Params.form.message.required }}"></textarea>
             </div>
+
             <div class="field">
               <div class="button">
                 <button type="submit" class="text">

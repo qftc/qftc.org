@@ -20,6 +20,7 @@ html {
 
 body {
   -webkit-font-smoothing: antialiased;
+  background: black;
   font-family: 'Roboto';
 }
 
@@ -40,8 +41,14 @@ body {
   text-transform: uppercase;
 
   .text {
+    background: none;
+    border: 0;
     color: white;
+    font-weight: bold;
+    outline: none;
     position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
     z-index: 999;
   }
 
@@ -91,6 +98,10 @@ body {
       background: $blue;
     }
   }
+
+  &:focus {
+    outline: none;
+  }
 }
 
 .button-secondary {
@@ -106,7 +117,14 @@ body {
   text-transform: uppercase;
 
   .text {
+    background: none;
+    border: 0;
     color: black;
+    font-weight: bold;
+    outline: none;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
     position: relative;
     z-index: 999;
   }
@@ -160,6 +178,10 @@ body {
     &:before {
       background: $blue;
     }
+  }
+
+  &:focus {
+    outline: none;
   }
 }
 
@@ -232,10 +254,62 @@ body {
       background: $blue;
     }
   }
+
+  &:focus {
+    outline: none;
+  }
 }
 
 .center-text {
   text-align: center;
+}
+
+.container {
+  position: relative;
+  z-index: 99;
+}
+
+.field {
+  margin-bottom: 20px;
+
+  label {
+    display: block;
+    font-size: em(18);
+    font-weight: bold;
+    margin-bottom: 17px;
+  }
+
+  input,
+  textarea,
+  select {
+    border: 1px solid black;
+    border-radius: 3px;
+    display: block;
+    padding: 20px 15px;
+    width: 100%;
+  }
+
+  .button {
+    margin-top: 20px;
+  }
+}
+
+footer {
+  h5 {
+    margin-top: 30px;
+  }
+
+  .field {
+    display: flex;
+
+    input, button {
+      display: inline-block;
+    }
+
+    .button-secondary {
+      margin-left: 20px;
+    }
+  }
 }
 
 h1 {
@@ -312,6 +386,7 @@ h5 {
 }
 
 .hero-home {
+  background: white;
   padding: 160px 8% 100px;
   position: relative;
 
@@ -391,6 +466,72 @@ h5 {
   right: -14px;
   top: 14px;
   z-index: 999;
+}
+
+.icon-link {
+  margin: 30px 20px;
+  position: relative;
+
+  svg {
+    position: relative;
+    transition: fill 0.3s;
+    z-index: 99;
+  }
+
+  &:before {
+    background: $yellow;
+    bottom: 0px;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s, background 0.3s;
+    transform: translate(-3px, -3px);
+    z-index: 9;
+  }
+
+  &:after {
+    bottom: 0px;
+    border: 2px solid $light-yellow;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s;
+    transform: translate(3px, 3px);
+    z-index: 99;
+  }
+
+  &:hover {
+    svg path {
+      fill: white;
+    }
+
+    &:before {
+      background: black;
+      transform: translate(0px, 0px);
+    }
+
+    &:after {
+      transform: translate(0px, 0px);
+    }
+  }
+
+  &:active {
+    &:before {
+      background: $blue;
+    }
+  }
+
+  &:focus {
+    outline: none;
+  }
 }
 
 .image {

@@ -17,6 +17,10 @@
   </url>
   
   <url>
+    <loc>http://example.org/apply_to_task_force/</loc>
+  </url>
+  
+  <url>
     <loc>http://example.org/categories/</loc>
     <xhtml:link
                 rel="alternate"
@@ -28,6 +32,10 @@
                 hreflang="en"
                 href="http://example.org/categories/"
                 />
+  </url>
+  
+  <url>
+    <loc>http://example.org/contact_us/</loc>
   </url>
   
   <url>

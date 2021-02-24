@@ -38,6 +38,13 @@
           </div>
         {{ end }}
       </div>
+      <div class="container center-text">
+        <a href="/apply_to_task_force" class="button-secondary">
+          <div class="text">
+            {{ .Params.task_forces.cta }}
+          </div>
+        </a>
+      </div>
     </div>
   </section>
   <section class="section-dark" style="background-image: url('{{ .Params.other_groups.background_path }}');" id="{{ replace (lower .Params.other_groups.headline) " " "-"}}">

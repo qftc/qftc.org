@@ -6,6 +6,7 @@ draft: false
 take_action:
   headline: Act Now
 task_forces:
+  cta: Apply to a Task Force
   headline: Task Forces
   list:
 
