@@ -364,6 +364,7 @@ h5 {
 
 .hero {
   background: url("/images/hero-background.jpg");
+  background-position: center;
   background-size: cover;
   color: white;
   text-align: center;
@@ -745,6 +746,7 @@ section {
 
 .section-dark {
   background: black;
+  background-position: center;
   background-size: cover;
   padding: 100px 0;
   position: relative;

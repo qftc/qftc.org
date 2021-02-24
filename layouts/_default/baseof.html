@@ -15,13 +15,13 @@
       <a href="/" class="nav-link {{ if eq .Title "Home" }} active {{ end }}">Home</a>
       <a href="/about_us" class="nav-link {{ if eq .Title "About Us" }} active {{ end }}">About Us</a>
       <a href="/get_involved" class="nav-link {{ if eq .Title "Get Involved" }} active {{ end }}">Get Involved</a>
-      <a href="/posts" class="nav-link {{ if eq .Title "QFTC Archive" }} active {{ end }}">QFTC Archive</a>
+      <a href="/archive" class="nav-link {{ if eq .Title "QFTC Archive" }} active {{ end }}">QFTC Archive</a>
       <a href="/contact_us" class="nav-link {{ if eq .Title "Contact Us" }} active {{ end }}">Contact Us</a>
     </div>
   </nav>
   {{ block "main" . }}
   {{ end }}
-  <footer id="stay-informed" class="section-dark">
+  <footer id="footer" class="section-dark">
     <div class="container center-text">
       <h3>Stay Informed</h3>
       <h5>Join Our Mailing List</h5>

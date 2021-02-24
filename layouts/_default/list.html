@@ -6,7 +6,8 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-12">
-          {{ range .Pages }}
+          {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+          {{ range $pages }}
             <div class="row post-summary">
               <div class="col-4">
                 <div class="post-summary-image">
