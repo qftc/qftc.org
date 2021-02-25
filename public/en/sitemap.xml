@@ -3,6 +3,131 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://example.org/tags/act/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/actions/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/article/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://example.org/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-10/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-11/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-12/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-2/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-3/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-4/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-5/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-6/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-7/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-8/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy-9/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02-copy/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_02/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/tags/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="http://example.org/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="http://example.org/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>http://example.org/actions/action_01/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://example.org/posts/post_01/</loc>
+    <lastmod>2021-02-02T16:09:57-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://example.org/about_us/</loc>
     <xhtml:link
                 rel="alternate"
@@ -43,35 +168,7 @@
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://example.org/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/"
-                />
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="http://example.org/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://example.org/tags/"
-                />
+    <loc>http://example.org/archive/</loc>
   </url>
   
 </urlset>

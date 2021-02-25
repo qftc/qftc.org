@@ -1,4 +1,6 @@
 {{ define "main" }}
+{{ $paginator := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
+
   <section class="hero">
     <h1>{{ .Title }}</h1>
   </section>
@@ -6,7 +8,8 @@
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-12">
-          {{ range .Paginator.Pages}}
+          {{ with $paginator}}
+          {{ range .Pages }}
             <div class="row post-summary">
               <div class="col-4">
                 <div class="post-summary-image">
@@ -22,6 +25,7 @@
                 </a>
               </div>
             </div>
+          {{ end }}
           {{ end }}
           {{ template "_internal/pagination.html" . }}
         </div>

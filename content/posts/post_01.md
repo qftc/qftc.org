@@ -1,7 +1,7 @@
 ---
 title: "This is the title of the post"
 date: 2021-02-02T16:09:57-05:00
-draft: true
+draft: false
 subtitle: "Here is a thing the is going on with QFTC.We think that you deserve to know all about it."
 layout: 'single'
 tags: ['article']

@@ -14,5 +14,7 @@ who_we_are:
     of George Floyd. The primary focus of the group is to organize, promote, and facilitate
     collaborative and strategic antiracist actions and initiatives that seek to break
     down structures of oppression and discrimination.
+latest:
+  headline: Latest with QFTC
 draft: false
 ---

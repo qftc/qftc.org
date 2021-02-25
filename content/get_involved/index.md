@@ -4,6 +4,7 @@ type: 'get_involved'
 layout: 'single'
 draft: false
 take_action:
+  background_path: "/images/act-background.jpg"
   headline: Act Now
 task_forces:
   cta: Apply to a Task Force

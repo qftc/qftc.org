@@ -1,4 +1,5 @@
 {{ define "main" }}
+{{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
   <section class="hero-home">
     <img src="images/hero-blob-blue.svg" class="hero-home-blob-blue">
     <img src="images/hero-blob-yellow.svg" class="hero-home-blob-yellow">
@@ -31,35 +32,47 @@
       </div>
     </div>
   </section>
+  {{ if $articles }}
   <section class="section-light">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-12">
-          {{ $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
-          {{ range $pages }}
-            <div class="row post-summary">
-              <div class="col-4">
-                <div class="post-summary-image">
-                  <img src="../images/post-summary-image-dots.svg" class="post-summary-image-dots">
-                  <div class="post-summary-image-frame"></div>
+          <h3 class="h3-center center-text">{{ .Params.latest.headline }}</h3>
+          <div class="post-summaries">
+            {{ range last 3 $articles }}
+              <div class="row post-summary">
+                <div class="col-4">
+                  <div class="post-summary-image">
+                    <img src="../images/post-summary-image-dots.svg" class="post-summary-image-dots">
+                    <div class="post-summary-image-frame"></div>
+                  </div>
+                </div>
+                <div class="col-8">
+                  <h5>{{ .Title }}</h5>
+                  <p>{{ .Params.subtitle }}</p>
+                  <a href="{{.Permalink}}" class="button-secondary">
+                    <div class="text">
+                    {{ if eq .Type "actions" }} Take Action {{ end }}
+                    {{ if eq .Type "posts" }} Read More {{ end }}
+                    </div>
+                  </a>
                 </div>
               </div>
-              <div class="col-8">
-                <h5>{{ .Title }}</h5>
-                <p>{{ .Params.subtitle }}</p>
-                <a href="{{.Permalink}}" class="button-secondary">
-                  <div class="text">
-                  {{ if eq .Type "actions" }} Take Action {{ end }}
-                  {{ if eq .Type "posts" }} Read More {{ end }}
-                  </div>
-                </a>
-              </div>
-            </div>
-          {{ end }}
+            {{ end }}
+          </div>
         </div>
+      </div>
+      <div class="center-text">
+        <div class="squiggle">
+          <img src="/images/headline-squiggle.svg">
+        </div>
+        <a href="/archive" class="button-secondary">
+          <div class="text">See all articles</div>
+        </a>
       </div>
     </div>
   </section>
+  {{ end }}
 
   <script type="text/javascript">
     window.onload = (event) => {

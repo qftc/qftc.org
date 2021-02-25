@@ -1236,6 +1236,7 @@ html {
 
 body {
   -webkit-font-smoothing: antialiased;
+  background: black;
   font-family: 'Roboto'; }
 
 .about-us-image {
@@ -1295,6 +1296,8 @@ body {
     transform: translate(0px, 0px); }
   .button:active:before {
     background: #437CEC; }
+  .button:focus {
+    outline: none; }
 
 .button-secondary {
   color: black;
@@ -1308,7 +1311,14 @@ body {
   text-decoration: none;
   text-transform: uppercase; }
   .button-secondary .text {
+    background: none;
+    border: 0;
     color: black;
+    font-weight: bold;
+    outline: none;
+    position: relative;
+    text-decoration: none;
+    text-transform: uppercase;
     position: relative;
     z-index: 999; }
   .button-secondary:before {
@@ -1346,6 +1356,8 @@ body {
     transform: translate(0px, 0px); }
   .button-secondary:active:before {
     background: #437CEC; }
+  .button-secondary:focus {
+    outline: none; }
 
 .button-page-nav {
   color: black;
@@ -1398,6 +1410,8 @@ body {
     transform: translate(0px, 0px); }
   .button-page-nav:active:before {
     background: #437CEC; }
+  .button-page-nav:focus {
+    outline: none; }
 
 .center-text {
   text-align: center; }
@@ -1416,11 +1430,23 @@ body {
   .field input,
   .field textarea,
   .field select {
+    border: 1px solid black;
+    border-radius: 3px;
     display: block;
     padding: 20px 15px;
     width: 100%; }
   .field .button {
     margin-top: 20px; }
+
+footer h5 {
+  margin-top: 30px; }
+
+footer .field {
+  display: flex; }
+  footer .field input, footer .field button {
+    display: inline-block; }
+  footer .field .button-secondary {
+    margin-left: 20px; }
 
 h1 {
   font-weight: 700; }
@@ -1464,6 +1490,7 @@ h5 {
 
 .hero {
   background: url("/images/hero-background.jpg");
+  background-position: center;
   background-size: cover;
   color: white;
   text-align: center;
@@ -1481,6 +1508,7 @@ h5 {
     width: 100%; }
 
 .hero-home {
+  background: white;
   padding: 160px 8% 100px;
   position: relative; }
   .hero-home h1 {
@@ -1548,6 +1576,51 @@ h5 {
   right: -14px;
   top: 14px;
   z-index: 999; }
+
+.icon-link {
+  margin: 30px 20px;
+  position: relative; }
+  .icon-link svg {
+    position: relative;
+    transition: fill 0.3s;
+    z-index: 99; }
+  .icon-link:before {
+    background: #FFDF59;
+    bottom: 0px;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s, background 0.3s;
+    transform: translate(-3px, -3px);
+    z-index: 9; }
+  .icon-link:after {
+    bottom: 0px;
+    border: 2px solid #FFF6C0;
+    border-radius: 4px;
+    content: '';
+    display: block;
+    left: 0px;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    transition: transform 0.3s;
+    transform: translate(3px, 3px);
+    z-index: 99; }
+  .icon-link:hover svg path {
+    fill: white; }
+  .icon-link:hover:before {
+    background: black;
+    transform: translate(0px, 0px); }
+  .icon-link:hover:after {
+    transform: translate(0px, 0px); }
+  .icon-link:active:before {
+    background: #437CEC; }
+  .icon-link:focus {
+    outline: none; }
 
 .image {
   position: relative; }
@@ -1721,6 +1794,7 @@ section {
 
 .section-dark {
   background: black;
+  background-position: center;
   background-size: cover;
   padding: 100px 0;
   position: relative; }

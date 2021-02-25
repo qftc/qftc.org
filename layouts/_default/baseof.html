@@ -15,7 +15,10 @@
       <a href="/" class="nav-link {{ if eq .Title "Home" }} active {{ end }}">Home</a>
       <a href="/about_us" class="nav-link {{ if eq .Title "About Us" }} active {{ end }}">About Us</a>
       <a href="/get_involved" class="nav-link {{ if eq .Title "Get Involved" }} active {{ end }}">Get Involved</a>
+      {{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
+      {{ if $articles }}
       <a href="/archive" class="nav-link {{ if eq .Title "QFTC Archive" }} active {{ end }}">QFTC Archive</a>
+      {{ end }}
       <a href="/contact_us" class="nav-link {{ if eq .Title "Contact Us" }} active {{ end }}">Contact Us</a>
     </div>
   </nav>

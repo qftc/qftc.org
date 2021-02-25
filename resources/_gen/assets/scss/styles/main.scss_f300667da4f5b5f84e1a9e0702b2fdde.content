@@ -1242,6 +1242,9 @@ body {
 .about-us-image {
   margin: 0px 32px; }
 
+.action-summary h5 {
+  margin-bottom: 30px; }
+
 .button {
   color: white;
   display: inline-block;
@@ -1735,6 +1738,9 @@ nav {
   font-size: 1.375em;
   line-height: 1.5em; }
 
+.post-summaries {
+  margin-top: 40px; }
+
 .post-summary {
   margin-bottom: 65px; }
 
@@ -1814,6 +1820,9 @@ section {
 .section-light {
   background: white;
   padding: 100px 0; }
+
+.squiggle {
+  margin-bottom: 40px; }
 
 .task-force {
   padding: 0 40px 60px 40px; }
