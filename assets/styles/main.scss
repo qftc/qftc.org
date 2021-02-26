@@ -448,7 +448,7 @@ h2 {
 }
 
 h3 {
-  font-size: em(42);
+  font-size: em(36);
   padding-bottom: 50px;
   position: relative;
 
@@ -462,6 +462,10 @@ h3 {
     right: 50%;
     transform: translateX(50%);
     width: 280px;
+  }
+
+  @include media-breakpoint-up(sm) {
+    font-size: em(42);
   }
 }
 
@@ -499,7 +503,7 @@ h5 {
   position: relative;
 
   h1 {
-    font-size: em(60);
+    font-size: em(50);
   }
 
   &:before {
@@ -511,6 +515,12 @@ h5 {
     left: 0px;
     position: absolute;
     right: 0px;
+  }
+
+  @include media-breakpoint-up(sm) {
+    h1 {
+      font-size: em(60);
+    }
   }
 }
 
@@ -569,10 +579,14 @@ h5 {
   left: 0px;
   position: absolute;
   bottom: 0px;
-  width:80%;
+  width: 80%;
   z-index: 9;
 
   @include media-breakpoint-up(md) {
+    width: 100%;
+  }
+
+  @include media-breakpoint-up(xl) {
     width: auto;
   }
 }
@@ -731,10 +745,11 @@ h5 {
 nav {
   align-items: center;
   background: rgba(white, 1);
+  box-sizing: border-box;
   display: flex;
   justify-content: space-between;
   height: 82px;
-  padding: 0 60px;
+  padding: 0 20px;
   position: fixed;
   transition: background 0.3s;
   width: 100%;
@@ -751,6 +766,10 @@ nav {
 
   .open-nav {
     cursor: pointer;
+  }
+
+  @include media-breakpoint-up(sm) {
+    padding: 0 60px;
   }
 }
 
@@ -878,6 +897,10 @@ nav {
   text-align: left;
   text-decoration: none;
   transition: opacity 0.3s;
+}
+
+p {
+  line-height: 1.5;
 }
 
 .page-nav {
@@ -1018,6 +1041,7 @@ nav {
 }
 
 section {
+  box-sizing: border-box;
   position: relative;
 }
 

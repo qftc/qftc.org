@@ -1537,7 +1537,7 @@ h2 {
   font-weight: 400; }
 
 h3 {
-  font-size: 2.625em;
+  font-size: 2.25em;
   padding-bottom: 50px;
   position: relative; }
   h3:after {
@@ -1550,7 +1550,9 @@ h3 {
     right: 50%;
     transform: translateX(50%);
     width: 280px; }
-
+  @media (min-width: 576px) {
+    h3 {
+      font-size: 2.625em; } }
 .h3-left:after {
   left: 0%;
   transform: translateX(0%); }
@@ -1579,7 +1581,7 @@ h5 {
   padding: 162px 0 80px;
   position: relative; }
   .hero h1 {
-    font-size: 3.75em; }
+    font-size: 3.125em; }
   .hero:before {
     background: url("/images/blue-dot-background.svg");
     bottom: 3px;
@@ -1589,7 +1591,9 @@ h5 {
     left: 0px;
     position: absolute;
     right: 0px; }
-
+  @media (min-width: 576px) {
+    .hero h1 {
+      font-size: 3.75em; } }
 .hero-home {
   background: white;
   padding: 160px 8% 70px;
@@ -1633,6 +1637,9 @@ h5 {
   width: 80%;
   z-index: 9; }
   @media (min-width: 768px) {
+    .hero-home-blob-yellow {
+      width: 100%; } }
+  @media (min-width: 1200px) {
     .hero-home-blob-yellow {
       width: auto; } }
 .hero-home-content {
@@ -1753,10 +1760,11 @@ h5 {
 nav {
   align-items: center;
   background: white;
+  box-sizing: border-box;
   display: flex;
   justify-content: space-between;
   height: 82px;
-  padding: 0 60px;
+  padding: 0 20px;
   position: fixed;
   transition: background 0.3s;
   width: 100%;
@@ -1770,7 +1778,9 @@ nav {
     width: 35px; }
   nav .open-nav {
     cursor: pointer; }
-
+  @media (min-width: 576px) {
+    nav {
+      padding: 0 60px; } }
 .nav-links {
   background: #437CEC;
   bottom: 0px;
@@ -1864,6 +1874,9 @@ nav {
   text-align: left;
   text-decoration: none;
   transition: opacity 0.3s; }
+
+p {
+  line-height: 1.5; }
 
 .page-nav {
   background: white;
@@ -1968,6 +1981,7 @@ nav {
     clear: both; }
 
 section {
+  box-sizing: border-box;
   position: relative; }
 
 .section-blob-bottom-left {
