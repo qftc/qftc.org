@@ -1,4 +1,4 @@
-baseURL: "http://example.org/"
+baseURL: "https://zen-mirzakhani-bf3dbc.netlify.app/"
 defaultContentLanguage: en
 params:
   mainSections: 
