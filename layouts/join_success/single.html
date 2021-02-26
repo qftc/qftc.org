@@ -1,0 +1,19 @@
+{{ define "main" }}
+  <section class="hero">
+    <h1>{{ .Title }}</h1>
+  </section>
+  <section class="section-light">
+    <img src="../images/section-blob-top-right-yellow.svg" class="section-blob-top-right">
+    <img src="../images/section-blob-bottom-left-blue.svg" class="section-blob-bottom-left">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="col-lg-7 col-12 center-text">
+          <h5>{{ .Params.success_message }}</h5>
+          <a href="/" class="button-secondary">
+            <div class="text">{{ .Params.button_text }}</div>
+          </a>
+        </div>
+      </div>
+    </div>
+  </section>
+{{ end }}

@@ -1579,7 +1579,8 @@ h5 {
   color: white;
   text-align: center;
   padding: 162px 0 80px;
-  position: relative; }
+  position: relative;
+  z-index: 99; }
   .hero h1 {
     font-size: 3.125em; }
   .hero:before {

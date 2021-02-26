@@ -9,7 +9,7 @@
       <div class="row">
         <div class="col-lg-7 col-12">
           <p class="paragraph-large">{{ .Params.instructions }}</p>
-          <form>
+          <form name="contact" method="POST" data-netlify="true" action="/message_sent">
             <div class="field">
               <label>{{ .Params.form.email.label }}</label>
               <input type="text" name="{{ .Params.form.email.name }}" placeholder="{{ .Params.form.email.placeholder }}" required="{{ .Params.form.email.required }}">
