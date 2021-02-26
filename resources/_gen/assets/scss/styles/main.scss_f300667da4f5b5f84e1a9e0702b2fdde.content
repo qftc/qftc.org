@@ -1291,7 +1291,6 @@ article {
   font-weight: bold;
   line-height: 1;
   outline: none;
-  padding: 30px 20px;
   position: relative;
   text-decoration: none;
   text-transform: uppercase; }
@@ -1301,6 +1300,7 @@ article {
     color: white;
     font-weight: bold;
     outline: none;
+    padding: 30px 20px;
     position: relative;
     text-decoration: none;
     text-transform: uppercase;
@@ -1348,7 +1348,6 @@ article {
   font-weight: bold;
   line-height: 1;
   outline: none;
-  padding: 20px 20px;
   position: relative;
   text-decoration: none;
   text-transform: uppercase; }
@@ -1358,6 +1357,7 @@ article {
     color: black;
     font-weight: bold;
     outline: none;
+    padding: 20px 20px;
     position: relative;
     text-decoration: none;
     text-transform: uppercase;
@@ -1409,12 +1409,12 @@ article {
   line-height: 1;
   margin: 0 10px;
   outline: none;
-  padding: 15px 20px;
   position: relative;
   text-decoration: none;
   text-transform: uppercase; }
   .button-page-nav .text {
     color: black;
+    padding: 15px 20px;
     position: relative;
     z-index: 999; }
   .button-page-nav:before {
