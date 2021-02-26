@@ -9,7 +9,7 @@
       <div class="row">
         <div class="col-lg-7 col-12">
           <p class="paragraph-large">{{ .Params.instructions }}</p>
-          <form name="apply" method="POST" data-netlify="true" action="/message_sent">
+          <form name="apply" method="POST" action="/message_sent/" netlify>
             <div class="field">
               <label>{{ .Params.form.email.label }}</label>
               <input type="text" name="{{ .Params.form.email.name }}" placeholder="{{ .Params.form.email.placeholder }}" required="{{ .Params.form.email.required }}">
@@ -36,7 +36,7 @@
 
             <div class="field">
               <label>{{ .Params.form.message.label }}</label>
-              <textarea type="text" name="{{ .Params.form.message.message }}" placeholder="{{ .Params.form.message.placeholder }}" required="{{ .Params.form.message.required }}"></textarea>
+              <textarea type="text" name="{{ .Params.form.message.name }}" placeholder="{{ .Params.form.message.placeholder }}" required="{{ .Params.form.message.required }}"></textarea>
             </div>
 
             <div class="field">
