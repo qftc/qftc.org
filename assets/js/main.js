@@ -1,8 +1,6 @@
 window.smoothScroll = () => {
   let scrollTriggers = document.querySelectorAll('.button-page-nav');
 
-  console.log(scrollTriggers);
-
   scrollTriggers.forEach(trigger => {
     console.log(trigger.dataset.anchor)
 
@@ -33,4 +31,18 @@ window.navFill = () => {
       nav.classList.add('nav-start')
     }
   })
+}
+
+window.mobileNav = () => {
+   const nav = document.querySelector('.nav-links'); 
+   const openTrigger = document.querySelector('.open-nav');
+   const closeTrigger = document.querySelector('.close-nav');
+
+   openTrigger.addEventListener('click', (event) => {
+    nav.classList.remove('nav-links-hidden-mobile');
+   });
+
+   closeTrigger.addEventListener('click', (event) => {
+    nav.classList.add('nav-links-hidden-mobile');
+   });
 }

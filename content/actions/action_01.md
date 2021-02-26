@@ -1,5 +1,5 @@
 ---
-title: "Take Action"
+title: "Support the forming of the Department of Social Justice and Equity."
 date: 2021-02-21T09:31:59-05:00
 draft: false
 subtitle: "Here is a thing the is going on with QFTC.We think that you deserve to know all about it."

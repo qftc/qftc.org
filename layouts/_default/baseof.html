@@ -5,13 +5,20 @@
   {{ $sass := resources.Get "styles/main.scss" }}
   {{ $style := $sass | resources.ToCSS }}
   {{ $js := resources.Get "js/main.js" | js.Build }}
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="stylesheet" href="{{ $style.Permalink }}">
+  <link rel="icon" type="image/png" href="{{ "images/favicon.png" | absURL }}">
   <script type="text/javascript" src="{{ $js.Permalink }}" defer></script>
 </head>
 <body>
   <nav class="nav">
-    <div>logo</div>
-    <div class="nav-links">
+    <a href="/" class="logo-link">
+      <img src="{{ "/images/qftc-logo.png" | absURL}}" class="logo">
+    </a>
+    <div class="nav-links nav-links-hidden-mobile">
+      <div class="close-nav hide-md-up">
+        <img src="{{ "images/close.svg" | absURL }}">
+      </div>
       <a href="/" class="nav-link {{ if eq .Title "Home" }} active {{ end }}">Home</a>
       <a href="/about_us" class="nav-link {{ if eq .Title "About Us" }} active {{ end }}">About Us</a>
       <a href="/get_involved" class="nav-link {{ if eq .Title "Get Involved" }} active {{ end }}">Get Involved</a>
@@ -20,6 +27,9 @@
       <a href="/archive" class="nav-link {{ if eq .Title "QFTC Archive" }} active {{ end }}">QFTC Archive</a>
       {{ end }}
       <a href="/contact_us" class="nav-link {{ if eq .Title "Contact Us" }} active {{ end }}">Contact Us</a>
+    </div>
+    <div class="open-nav hide-md-up">
+      <img src="{{ "images/hamburger.svg" | absURL }}">
     </div>
   </nav>
   {{ block "main" . }}
@@ -59,5 +69,17 @@
       </div>
     </div>
   </footer>
+  <script type="text/javascript">
+    window.onload = (event) => {
+      mobileNav();
+      {{ if eq .Title "Get Involved" }}
+        smoothScroll();
+      {{ end }}
+      
+      {{ if eq .Title "Home" }}
+        navFill();
+      {{ end }}
+    }
+  </script>
 </body>
 </html>

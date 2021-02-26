@@ -3,7 +3,7 @@
   <section class="hero">
     <h1>{{ .Title }}</h1>
   </section>
-  <section class="page-nav center-text">
+  <section class="page-nav center-text hide show-sm">
     {{ if $actions }}
     <a href="#!" class="button-page-nav" data-anchor="{{ replace (lower .Params.take_action.headline) " " "-"}}">
       <div class="text">{{ .Params.take_action.headline }}</div>
@@ -21,6 +21,7 @@
       <div class="text">Stay Informed</div>
     </a>
   </section>
+  <div class="divider hide-md-up"></div>
   {{ if $actions}}
     <section class="section-dark" id="{{ replace (lower .Params.take_action.headline) " " "-"}}" style="background-image: url('{{ .Params.take_action.background_path }}');">
       <div class="container">
@@ -30,7 +31,7 @@
             <div class="post-summaries">
               {{ range $actions }}
                 <div class="row action-summary">
-                  <div class="col-8">
+                  <div class="col-12">
                     <h5>{{ .Title }}</h5>
                     <a href="{{.Permalink}}" class="button-secondary">
                       <div class="text">Take Action</div>

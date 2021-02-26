@@ -1,11 +1,17 @@
 {{ define "main" }}
-  <section class="hero">
-    <h1>{{ .Title }}</h1>
-    <h2>{{ .Params.subtitle }}</h2>
-  </section>
-  <section class="section-light">
-    <div class="container">
-      {{ .Content }}
-    </div>
-  </section>
+  <article>
+    <section class="hero">
+      <h1>{{ .Title }}</h1>
+      <h2>{{ .Params.subtitle }}</h2>
+    </section>
+    <section class="section-light">
+      <div class="container">
+        <div class="row justify-content-center">
+          <div class="content col-lg-8 col-md-10 col-12">
+            {{ .Content }}
+          </div>
+        </div>
+      </div>
+    </section>
+  </article>
 {{ end }}
