@@ -1529,6 +1529,8 @@ footer .field {
     display: inline-block; }
   footer .field .button-secondary {
     margin-left: 20px; }
+  footer .field input {
+    color: black; }
 
 h1 {
   font-weight: 700; }
