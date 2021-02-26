@@ -14,21 +14,7 @@
           </div>
           {{ with .Paginator }}
           {{ range .Pages}}
-            <div class="row post-summary">
-              <div class="col-4 show-sm hide">
-                <div class="post-summary-image">
-                  <img src="{{ "/images/post-summary-image-dots.svg" | absURL}}" class="post-summary-image-dots">
-                  <div class="post-summary-image-frame"></div>
-                </div>
-              </div>
-              <div class="col-md-8 col-12">
-                <h5>{{ .Title }}</h5>
-                <p>{{ .Params.subtitle }}</p>
-                <a href="{{.Permalink}}" class="button-secondary">
-                  <div class="text">Read More</div>
-                </a>
-              </div>
-            </div>
+            {{ partial "post_summary.html" . }}
           {{ end }}
           {{ end }}
           <div class="squiggle center-text">

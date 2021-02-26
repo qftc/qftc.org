@@ -1,0 +1,18 @@
+<div class="row post-summary">
+  <div class="col-4 show-sm hide">
+    <div class="post-summary-image">
+      <img src="{{ "images/post-summary-image-dots.svg" | absURL }}" class="post-summary-image-dots">
+      <div class="post-summary-image-frame" style="background-image: url({{ .Params.image_url | absURL }});"></div>
+    </div>
+  </div>
+  <div class="col-md-8 col-12">
+    <h5>{{ .Title }}</h5>
+    <p>{{ .Params.subtitle }}</p>
+    <a href="{{.Permalink}}" class="button-secondary">
+      <div class="text">
+      {{ if eq .Type "actions" }} Take Action {{ end }}
+      {{ if eq .Type "posts" }} Read More {{ end }}
+      </div>
+    </a>
+  </div>
+</div>

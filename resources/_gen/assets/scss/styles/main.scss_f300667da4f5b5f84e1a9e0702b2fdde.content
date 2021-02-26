@@ -1748,8 +1748,7 @@ h5 {
 
 .logo {
   display: block;
-  max-width: 75px;
-  width: 100%; }
+  max-width: 75px; }
 
 .logo-link {
   display: block;
@@ -1969,6 +1968,7 @@ p {
   background: gray;
   background-size: cover;
   border-radius: 8px;
+  box-shadow: 0 5px 20px rgba(0, 0, 0, 0.26);
   float: right;
   height: 170px;
   max-width: 218px;

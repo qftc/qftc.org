@@ -2,6 +2,7 @@
 title: "Post_02"
 date: 2021-02-21T09:31:59-05:00
 draft: false
+image_url: images/test-post-image.png
 subtitle: "Here is a thing the is going on with QFTC.We think that you deserve to know all about it."
 layout: 'single'
 tags: ['article']
