@@ -26,16 +26,6 @@ form:
     name: task_force
     label: Task Force if interest
     placeholder: Selet a Task force
-    task_forces:
-      - Arts and culture
-      - Education
-      - Environmental Justice
-      - Healthcare Justice
-      - Homelessness
-      - Housing
-      - Immigration
-      - Policing Accountability
-      - Suggest a new task force
   message:
     required: true
     name: message

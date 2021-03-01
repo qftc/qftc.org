@@ -28,8 +28,8 @@
             <div class="field">
               <label>{{ .Params.form.task_force.label }}</label>
               <select name="{{ .Params.form.task_force.name }}" placeholder="{{ .Params.form.task_force.placeholder }}" required="{{ .Params.form.task_force.required }}">
-                {{ range .Params.form.task_force.task_forces }}
-                  <option>{{ . }}</option>
+                {{ range $.Site.Data.task_forces }}
+                  <option>{{ .name }}</option>
                 {{ end }}
               </select>
             </div>
