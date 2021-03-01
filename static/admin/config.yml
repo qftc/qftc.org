@@ -1,0 +1,3 @@
+backend:
+  name: github
+  repo: qftc/qftc.org # Path to your GitHub repository
