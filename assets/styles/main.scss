@@ -1055,6 +1055,7 @@ section {
 .section-blob-bottom-left {
   display: block;
   left: 0px;
+  opacity: 0.5;
   position: absolute;
   bottom: 0px;
   width: 65%;
@@ -1067,6 +1068,7 @@ section {
 .section-blob-bottom-right {
   display: block;
   right: 0px;
+  opacity: 0.5;
   position: absolute;
   bottom: 0px;
   width: 65%;
@@ -1078,6 +1080,7 @@ section {
 
 .section-blob-top-left {
   display: block;
+  opacity: 0.5;
   position: absolute;
   left: 0px;
   top: 0px;
@@ -1090,6 +1093,7 @@ section {
 
 .section-blob-top-right {
   display: block;
+  opacity: 0.5;
   position: absolute;
   right: 0px;
   top: 0px;
