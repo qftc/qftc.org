@@ -1243,8 +1243,10 @@ body {
 .about-us-image {
   margin: 0px 32px; }
 
-.action-summary h5 {
-  margin-bottom: 30px; }
+.action-summary {
+  margin-bottom: 65px; }
+  .action-summary h5 {
+    margin-bottom: 30px; }
 
 article {
   line-height: 1.5; }
