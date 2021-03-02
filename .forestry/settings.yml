@@ -5,9 +5,8 @@ admin_path:
 webhook_url: 
 sections:
 - type: document
-  path: data/task_forces
+  path: data/task_forces.yml
   label: Task Forces
-  match: "**/*"
 - type: directory
   path: content/posts
   label: Posts
