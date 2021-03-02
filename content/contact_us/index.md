@@ -21,6 +21,11 @@ form:
     name: reason
     label: Reason For Inquiry
     placeholder: Selet a reason
+    reasons:
+      - Media inquiries
+      - Joining QFTC
+      - Task forces
+      - Other
   message:
     required: true
     name: message
