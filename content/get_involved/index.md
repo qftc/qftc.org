@@ -1,5 +1,7 @@
 ---
 title: 'Get Involved'
+page_description:
+  Act now, apply to a task force, check out other local groups or stay informed. It is easy to get involved.
 type: 'get_involved'
 layout: 'single'
 draft: false

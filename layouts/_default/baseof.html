@@ -6,6 +6,7 @@
   {{ $style := $sass | resources.ToCSS }}
   {{ $js := resources.Get "js/main.js" | js.Build }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="{{ if isset .Params "page_description" }} {{ index .Params "page_description" }}{{ end }}">
   <link rel="stylesheet" href="{{ $style.Permalink }}">
   <link rel="icon" type="image/png" href="{{ "images/favicon.png" | absURL }}">
   <script type="text/javascript" src="{{ $js.Permalink }}" defer></script>

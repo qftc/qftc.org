@@ -1,5 +1,7 @@
 ---
 title: 'About Us'
+page_description:
+  Quincy For Transformative Change is a grassroots organization that formed in the wake of a series of Black Lives Matter protests in summer 2020 after the murder of George Floyd.
 type: 'about_us'
 layout: 'single'
 draft: false

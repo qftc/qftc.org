@@ -1,6 +1,7 @@
 ---
 title: 'Apply to a Task Force'
 type: 'apply_to_task_force'
+page_description: Interested in joining a task force. Apply today and tell us why you think you would be a good addition to the team. 
 layout: 'single'
 draft: false
 instructions:

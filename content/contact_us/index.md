@@ -1,5 +1,6 @@
 ---
 title: 'Contact Us'
+page_description: Need to get ahold of a QFTC representative? Fill out the form and send us a message.
 type: 'contact_us'
 layout: 'single'
 draft: false
