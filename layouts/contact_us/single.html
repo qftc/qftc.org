@@ -23,7 +23,7 @@
             <div class="field">
               <label>{{ .Params.form.reason.label }}</label>
               <select name="{{ .Params.form.reason.name }}" placeholder="{{ .Params.form.reason.placeholder }}" required="{{ .Params.form.reason.required }}">
-                {{ range $.Site.Data.contact_reasons }}
+                {{ range .Params.form.reason.reasons }}
                   <option>{{ . }}</option>
                 {{ end }}
               </select>
