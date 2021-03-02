@@ -8,6 +8,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  default: ''
 - type: text
   name: subtitle
   label: subtitle
