@@ -5,19 +5,19 @@
   </section>
   <section class="page-nav center-text hide show-sm">
     {{ if $actions }}
-    <a href="#!" class="button-page-nav" data-anchor="{{ replace (lower .Params.take_action.headline) " " "-"}}">
+    <a class="button-page-nav" data-anchor="{{ replace (lower .Params.take_action.headline) " " "-"}}">
       <div class="text">{{ .Params.take_action.headline }}</div>
     </a>
     {{ end }}
 
-    <a href="#!" class="button-page-nav" data-anchor="{{ replace (lower .Params.task_forces.headline) " " "-"}}">
+    <a class="button-page-nav" data-anchor="{{ replace (lower .Params.task_forces.headline) " " "-"}}">
       <div class="text">{{ .Params.task_forces.headline }}</div>
     </a>
 
-    <a href="#!" class="button-page-nav" data-anchor="{{ replace (lower .Params.other_groups.headline) " " "-"}}">
+    <a class="button-page-nav" data-anchor="{{ replace (lower .Params.other_groups.headline) " " "-"}}">
       <div class="text">{{ .Params.other_groups.headline }}</div>
     </a>
-    <a href="#!" class="button-page-nav" data-anchor="footer">
+    <a class="button-page-nav" data-anchor="footer">
       <div class="text">Stay Informed</div>
     </a>
   </section>
@@ -46,14 +46,14 @@
     </section>
   {{ end }}
   <section class="section-light" id="{{ replace (lower .Params.task_forces.headline) " " "-"}}">
-    <img src="../images/section-blob-top-left-yellow.svg" class="section-blob-top-left">
-    <img src="../images/section-blob-bottom-right-blue.svg" class="section-blob-bottom-right">
+    <img src="../images/section-blob-top-left-yellow.svg" class="section-blob-top-left" aria-hidden="true">
+    <img src="../images/section-blob-bottom-right-blue.svg" class="section-blob-bottom-right" aria-hidden="true">
     <h3 class="center-text"> {{ .Params.task_forces.headline }} </h3>
     <div class="container">
       <div class="row">
         {{ range $.Site.Data.task_forces }}
           <div class="task-force col-md-6 col-12 center-text">
-            <img src="{{ .icon_url }}">
+            <img src="{{ .icon_url }}" aria-hidden="true">
             <h5>{{ .name }}</h5>
             <p>{{ .blurb }}</p>
           </div>

@@ -13,11 +13,11 @@
 <body>
   <nav class="nav">
     <a href="/" class="logo-link">
-      <img src="{{ "/images/qftc-logo.png" | absURL}}" class="logo">
+      <img src="{{ "/images/qftc-logo.png" | absURL}}" class="logo" alt="Quincy For Transformative Change logo">
     </a>
     <div class="nav-links nav-links-hidden-mobile">
-      <div class="close-nav hide-md-up">
-        <img src="{{ "images/close.svg" | absURL }}">
+      <div class="close-nav hide-md-up" aria-hidden="true">
+        <img src="{{ "images/close.svg" | absURL }}" aria-hidden="true">
       </div>
       <a href="/" class="nav-link {{ if eq .Title "Home" }} active {{ end }}">Home</a>
       <a href="/about_us" class="nav-link {{ if eq .Title "About Us" }} active {{ end }}">About Us</a>
@@ -28,8 +28,8 @@
       {{ end }}
       <a href="/contact_us" class="nav-link {{ if eq .Title "Contact Us" }} active {{ end }}">Contact Us</a>
     </div>
-    <div class="open-nav hide-md-up">
-      <img src="{{ "images/hamburger.svg" | absURL }}">
+    <div class="open-nav hide-md-up" aria-hidden="true">
+      <img src="{{ "images/hamburger.svg" | absURL }}" aria-hidden="true">
     </div>
   </nav>
   {{ block "main" . }}
@@ -41,24 +41,24 @@
       <div class="row justify-content-center">
         <form name="mailing_list" method="POST" action="/join_success/" netlify>
           <div class="field">
-            <input type="text" name="email" placeholder="Enter email address">
+            <input type="text" name="email" placeholder="Enter email address" aria-label="Enter Email Address">
             <div class="button-secondary">
-              <button type="submit" class="text">Join</button>
+              <button type="submit" class="text" aria-label="Join email list">Join</button>
             </div>
           </div>
         </form>
       </div>
       <h5>Join Us on Social Media</h5>
       <div class="row justify-content-center">
-        <a href="https://www.facebook.com/quincychange" class="icon-link">
-          <svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">           
+        <a href="https://www.facebook.com/quincychange" class="icon-link" aria-label="instagram link">
+          <svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">           
             <g id="Group-12" transform="translate(0, 0)">
                 <path d="M51.4274019,43.6795898 L52.6711592,35.4174687 L44.890357,35.4174687 L44.890357,30.0558633 C44.890357,27.7954844 45.9772336,25.5922461 49.4622937,25.5922461 L53,25.5922461 L53,18.5582891 C53,18.5582891 49.7893708,18 46.7200135,18 C40.3116301,18 36.1232969,21.9568984 36.1232969,29.1204102 L36.1232969,35.4174687 L29,35.4174687 L29,43.6795898 L36.1232969,43.6795898 L36.1232969,63.6527539 C37.5516248,63.8811367 39.0155793,64 40.5068711,64 C41.9981628,64 43.4621173,63.8811367 44.890357,63.6527539 L44.890357,43.6795898 L51.4274019,43.6795898 Z" id="Path"></path>
             </g>   
           </svg>
         </a>
-        <a href="https://www.instagram.com/quincyftc/" class="icon-link">
-          <svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">           
+        <a href="https://www.instagram.com/quincyftc/" class="icon-link" aria-label="instagram link">
+          <svg width="85px" height="85px" viewBox="0 0 85 85" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" aria-hidden="true">           
             <g id="iconfinder_SocialMedia_Instagram-Outline_2959748" transform="translate(19.000000, 20.000000)">
               <path d="M31.9183673,3.75510204 C37.6215527,3.75510204 42.244898,8.37844728 42.244898,14.0816327 L42.244898,31.9183673 C42.244898,37.6215527 37.6215527,42.244898 31.9183673,42.244898 L14.0816327,42.244898 C8.37844728,42.244898 3.75510204,37.6215527 3.75510204,31.9183673 L3.75510204,14.0816327 C3.75510204,8.37844728 8.37844728,3.75510204 14.0816327,3.75510204 L31.9183673,3.75510204 M31.9183673,0 L14.0816327,0 C6.31419094,0.0231980895 0.0231980895,6.31419094 0,14.0816327 L0,31.9183673 C0.0231980895,39.6858091 6.31419094,45.9768019 14.0816327,46 L31.9183673,46 C39.6858091,45.9768019 45.9768019,39.6858091 46,31.9183673 L46,14.0816327 C45.9768019,6.31419094 39.6858091,0.0231980895 31.9183673,0 Z" id="Shape"></path>
               <path d="M35.5,8 C34.1192881,8 33,9.11928813 33,10.5 C33,11.8807119 34.1192881,13 35.5,13 C36.8807119,13 38,11.8807119 38,10.5 C38,9.83695878 37.7366079,9.20107399 37.267767,8.73223305 C36.798926,8.2633921 36.1630412,8 35.5,8 Z" id="Path"></path>
