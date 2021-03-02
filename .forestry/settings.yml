@@ -5,18 +5,18 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
+  path: content/posts
+  label: Posts
+  create: all
+  match: "**/*"
+- type: directory
   path: content/actions
   label: Actions
   create: all
   match: "**/*"
 - type: directory
-  path: content/about_us
-  label: About us
-  create: all
-  match: "**/*"
-- type: directory
   path: content
-  label: Pages
+  label: All Pages
   create: all
   match: "**/*"
 upload_dir: static/uploads
