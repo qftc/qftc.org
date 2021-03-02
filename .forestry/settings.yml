@@ -4,9 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: data/task_forces.yml
-  label: Task Forces
 - type: directory
   path: content/posts
   label: Posts
@@ -16,6 +13,13 @@ sections:
   path: content/actions
   label: Actions
   create: all
+  match: "**/*"
+- type: document
+  path: data/task_forces.yml
+  label: Task Forces
+- type: document
+  path: data/other_groups.yml
+  label: Other local groups
   match: "**/*"
 - type: directory
   path: content
