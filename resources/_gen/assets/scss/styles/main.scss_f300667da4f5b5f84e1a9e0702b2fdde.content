@@ -2057,7 +2057,7 @@ section {
   margin-bottom: 40px; }
 
 .task-force {
-  padding: 0 40px 60px 40px; }
+  padding: 20px 40px 40px 40px; }
   .task-force p {
     font-size: 1.125em;
     line-height: 1.5; }

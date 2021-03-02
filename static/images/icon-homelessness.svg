@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-homelessness</title>
+    <g id="icon-homelessness" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 1.000000)" fill="#FFFFFF" stroke="#FFDF59" stroke-width="2">
+            <circle id="Oval" cx="52" cy="52" r="52"></circle>
+        </g>
+        <g id="Group-6" transform="translate(19.000000, 20.000000)">
+            <path d="M37,0 L64,16 L64,56 L10,56 L10,16 L37,0 Z M53,29 C53,21.08 44.1791,15.1202 37.210589,21.793889 L37.210589,21.793889 L37,22 C30,15 21,21 21,29 C21,34.3333333 26.3333333,40.3333333 37,47 L37,47 L37.4960938,46.6879883 C47.8320312,40.1459961 53,34.25 53,29 Z" id="Combined-Shape" fill="#FFF6C0"></path>
+            <path d="M18,31 C18,23 27,17 34,24 L34.210589,23.793889 C41.1791,17.1202 50,23.08 50,31 C50,36.3333333 44.6666667,42.3333333 34,49 L34,49 C23.3333333,42.3333333 18,36.3333333 18,31 Z" id="Combined-Shape" stroke="#437CEC" stroke-width="2" stroke-linecap="round"></path>
+            <polyline id="Path-20" stroke="#437CEC" stroke-width="2" stroke-linecap="round" points="7 18 7 58 61 58 61 18"></polyline>
+            <polyline id="Path-21" stroke="#437CEC" stroke-width="2" stroke-linecap="round" points="0 22 34 2 68 22"></polyline>
+        </g>
+    </g>
+</svg>

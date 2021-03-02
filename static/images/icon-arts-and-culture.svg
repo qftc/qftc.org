@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-arts-and-culture</title>
+    <g id="icon-arts-and-culture" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 1.000000)">
+            <circle id="Oval" stroke="#FFDF59" stroke-width="2" fill="#FFFFFF" cx="52" cy="52" r="52"></circle>
+            <g id="Group" transform="translate(18.000000, 17.000000)">
+                <path d="M11.2119141,35.9423828 L13.9975586,24.8481445 C14.1560872,20.4611003 14.8662109,17.1783854 16.1279297,15 C16.1279297,15 27.4186198,15 50,15 C51.3333333,17.6282552 52,19.5073242 52,20.637207 C52,21.7670898 52,36.4619141 52,64.7216797 L28.0693359,64.7216797 L28.0693359,49.2045898 L18.0234375,49.2045898 L18.0234375,35.9423828 L11.2119141,35.9423828 Z" id="Path" fill="#FFF6C0"></path>
+                <path d="M8.21191406,38.9423828 L10.9975586,27.8481445 C11.1560872,23.4611003 11.8662109,20.1783854 13.1279297,18 C13.1279297,18 24.4186198,18 47,18 C48.3333333,20.6282552 49,22.5073242 49,23.637207 C49,24.7670898 49,39.4619141 49,67.7216797 L25.0693359,67.7216797 L25.0693359,52.2045898 L15.0234375,52.2045898 L15.0234375,38.9423828 L8.21191406,38.9423828 Z" id="Path" stroke="#437CEC" stroke-width="2"></path>
+                <path d="M29,34 C29,31.2385763 26.7614237,29 24,29 C21.2385763,29 19,31.2385763 19,34" id="Oval" stroke="#437CEC" stroke-width="2" stroke-linecap="round" transform="translate(24.000000, 31.500000) rotate(-180.000000) translate(-24.000000, -31.500000) "></path>
+                <circle id="Oval" stroke="#437CEC" stroke-width="2" cx="60" cy="16" r="4"></circle>
+                <circle id="Oval-Copy" stroke="#437CEC" stroke-width="2" cx="4" cy="56" r="4"></circle>
+                <path d="M41,0 C44.8659932,0 48,3.13400675 48,7 C48,9.79210624 46.3652866,12.2024047 44.0007361,13.3260191 L44,18 L38,18 L38.000267,13.3264957 C35.6351757,12.2030863 34,9.79250105 34,7 C34,3.13400675 37.1340068,0 41,0 Z" id="Path" stroke="#437CEC" stroke-width="2" stroke-linejoin="round"></path>
+                <line x1="10.6367188" y1="67.7216797" x2="66.5166016" y2="67.7216797" id="Path-2" stroke="#437CEC" stroke-width="2" stroke-linecap="round"></line>
+                <polygon id="Path-3" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" points="23 18 23 8.86821574 26.0124512 1 29.0249023 8.86821574 29.0249023 18"></polygon>
+                <line x1="22.9750977" y1="12" x2="29" y2="12" id="Path-4" stroke="#437CEC" stroke-width="2" stroke-linejoin="round"></line>
+                <path d="M17.9956055,18.8505859 L17.9956055,14.0976562 C17.9956055,12.9391527 17.0564528,12 15.8979492,12 C14.7394457,12 13.800293,11.0608473 13.800293,9.90234375 L13.800293,7.48828125 L13.800293,7.48828125" id="Path-5" stroke="#437CEC" stroke-width="2"></path>
+                <rect id="Rectangle" stroke="#437CEC" stroke-width="2" x="10" y="1" width="7" height="7" rx="1"></rect>
+                <line x1="55" y1="36" x2="55" y2="67" id="Path-6" stroke="#437CEC" stroke-width="2" stroke-linecap="round"></line>
+                <line x1="61" y1="50" x2="61" y2="67" id="Path-6" stroke="#437CEC" stroke-width="2" stroke-linecap="round"></line>
+            </g>
+        </g>
+    </g>
+</svg>

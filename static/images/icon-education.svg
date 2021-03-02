@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-education</title>
+    <g id="icon-education" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 1.000000)" fill="#FFFFFF" stroke="#FFDF59" stroke-width="2">
+            <circle id="Oval" cx="52" cy="52" r="52"></circle>
+        </g>
+        <g id="Group-3" transform="translate(16.000000, 25.000000)">
+            <circle id="Oval" fill="#FFF6C0" cx="18" cy="39" r="4"></circle>
+            <path d="M16.0443438,43 L19.9556562,43 C20.4679321,43 20.8973638,43.387127 20.9503024,43.8966601 L21.8853673,52.8966601 C21.9424403,53.445988 21.5433889,53.9375731 20.994061,53.9946461 C20.9597299,53.998213 20.9252371,54 20.8907212,54 L15.1092788,54 C14.5569941,54 14.1092788,53.5522847 14.1092788,53 C14.1092788,52.9654841 14.1110658,52.9309913 14.1146327,52.8966601 L15.0496976,43.8966601 C15.1026362,43.387127 15.5320679,43 16.0443438,43 Z" id="Rectangle" fill="#FFF6C0"></path>
+            <polygon id="Path-7" fill="#FFF6C0" points="6 19 40 0 75 19 40 37"></polygon>
+            <polygon id="Path-7" stroke="#437CEC" stroke-width="2" points="0 20 34 1 69 20 34 38"></polygon>
+            <path d="M59,40.9589198 C58.5763644,40.8572978 58.1436399,40.7603628 57.702372,40.6683151 C54.1373548,39.9246587 50.0147033,39.5 45.6220498,39.5 C32.0910735,39.5 21.1220498,43.5294373 21.1220498,48.5" id="Oval" stroke="#437CEC" stroke-width="2" transform="translate(40.061025, 44.000000) rotate(-180.000000) translate(-40.061025, -44.000000) "></path>
+            <line x1="10" y1="25" x2="10" y2="40" id="Path-9" stroke="#437CEC" stroke-width="2"></line>
+            <line x1="59" y1="25" x2="59" y2="40" id="Path-9" stroke="#437CEC" stroke-width="2"></line>
+            <polyline id="Path-8" stroke="#437CEC" stroke-width="2" points="16 37 16 28 31 20"></polyline>
+            <ellipse id="Oval" stroke="#437CEC" stroke-width="2" cx="34" cy="18.5" rx="4" ry="2.5"></ellipse>
+            <circle id="Oval" stroke="#437CEC" stroke-width="2" cx="16" cy="40" r="4"></circle>
+            <path d="M14.0443438,44 L17.9556562,44 C18.4679321,44 18.8973638,44.387127 18.9503024,44.8966601 L19.8853673,53.8966601 C19.9424403,54.445988 19.5433889,54.9375731 18.994061,54.9946461 C18.9597299,54.998213 18.9252371,55 18.8907212,55 L13.1092788,55 C12.5569941,55 12.1092788,54.5522847 12.1092788,54 C12.1092788,53.9654841 12.1110658,53.9309913 12.1146327,53.8966601 L13.0496976,44.8966601 C13.1026362,44.387127 13.5320679,44 14.0443438,44 Z" id="Rectangle" stroke="#437CEC" stroke-width="2"></path>
+        </g>
+    </g>
+</svg>

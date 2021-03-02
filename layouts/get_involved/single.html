@@ -53,7 +53,7 @@
       <div class="row">
         {{ range $.Site.Data.task_forces }}
           <div class="task-force col-md-6 col-12 center-text">
-            <img src="{{ .icon_url }}" aria-hidden="true">
+            <img src="../images/icon-{{ replace (lower .name) " " "-"}}.svg" aria-hidden="true">
             <h5>{{ .name }}</h5>
             <p>{{ .blurb }}</p>
           </div>

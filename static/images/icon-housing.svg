@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="106px" height="106px" viewBox="0 0 106 106" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>icon-housing</title>
+    <g id="icon-housing" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(1.000000, 1.000000)" fill="#FFFFFF" stroke="#FFDF59" stroke-width="2">
+            <circle id="Oval" cx="52" cy="52" r="52"></circle>
+        </g>
+        <path d="M80,25 L80,81 L65,81 L65,64 L45,64 L45,81 L29,81 L29,25 L80,25 Z M45,47 L34,47 L34,60 L45,60 L45,47 Z M60,47 L49,47 L49,60 L60,60 L60,47 Z M75,47 L64,47 L64,60 L75,60 L75,47 Z M45,30 L34,30 L34,43 L45,43 L45,30 Z M60,30 L49,30 L49,43 L60,43 L60,30 Z M75,30 L64,30 L64,43 L75,43 L75,30 Z" id="Combined-Shape" fill="#FFF6C0"></path>
+        <rect id="Rectangle" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" x="24" y="23" width="58" height="4"></rect>
+        <rect id="Rectangle" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" x="27" y="27" width="51" height="56"></rect>
+        <rect id="Rectangle" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" x="32" y="32" width="11" height="13"></rect>
+        <rect id="Rectangle-Copy-3" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" x="32" y="49" width="11" height="13"></rect>
+        <rect id="Rectangle-Copy" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" x="47" y="32" width="11" height="13"></rect>
+        <rect id="Rectangle-Copy-4" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" x="47" y="49" width="11" height="13"></rect>
+        <rect id="Rectangle-Copy-2" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" x="62" y="32" width="11" height="13"></rect>
+        <rect id="Rectangle-Copy-5" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" x="62" y="49" width="11" height="13"></rect>
+        <rect id="Rectangle" stroke="#437CEC" stroke-width="2" stroke-linejoin="round" x="43" y="66" width="20" height="17"></rect>
+        <path d="M70.6119403,65.7 L74.4565933,73.4404418 C75.5112512,75.563785 74.6449105,78.1400639 72.5215673,79.1947218 C71.9281405,79.489475 71.2745373,79.6428571 70.6119403,79.6428571 C68.2410987,79.6428571 66.3191519,77.7209103 66.3191519,75.3500688 C66.3191519,74.6874717 66.4725341,74.0338686 66.7672873,73.4404418 L70.6119403,65.7 L70.6119403,65.7 Z" id="Triangle" stroke="#437CEC" stroke-width="2" stroke-linejoin="round"></path>
+        <path d="M35.2537313,65.7 L39.0983843,73.4404418 C40.1530422,75.563785 39.2867016,78.1400639 37.1633584,79.1947218 C36.5699315,79.489475 35.9163284,79.6428571 35.2537313,79.6428571 C32.8828898,79.6428571 30.960943,77.7209103 30.960943,75.3500688 C30.960943,74.6874717 31.1143251,74.0338686 31.4090783,73.4404418 L35.2537313,65.7 L35.2537313,65.7 Z" id="Triangle-Copy" stroke="#437CEC" stroke-width="2" stroke-linejoin="round"></path>
+        <line x1="70.6119403" y1="76.1571429" x2="70.6119403" y2="83" id="Path-22" stroke="#437CEC" stroke-width="2" stroke-linecap="round"></line>
+        <line x1="35.2537313" y1="76.1571429" x2="35.2537313" y2="83" id="Path-22-Copy" stroke="#437CEC" stroke-width="2" stroke-linecap="round"></line>
+        <line x1="53" y1="84" x2="53" y2="65" id="Path-23" stroke="#437CEC" stroke-width="2"></line>
+    </g>
+</svg>
