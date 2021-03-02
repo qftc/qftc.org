@@ -14,3 +14,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/actions/time-to-take-action.md
