@@ -1,8 +1,8 @@
 {{ define "main" }}
 {{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
   <section class="hero-home">
-    <img src="images/hero-blob-blue.svg" class="hero-home-blob-blue">
-    <img src="images/hero-blob-yellow.svg" class="hero-home-blob-yellow">
+    <img src="images/hero-blob-blue.svg" class="hero-home-blob-blue" aria-hidden="true">
+    <img src="images/hero-blob-yellow.svg" class="hero-home-blob-yellow" aria-hidden="true">
     <div class="row hero-home-content">
       <div class="col-lg-7 col-12">
         <h1>{{ .Params.hero.headline }}</h1>
