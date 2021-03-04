@@ -30,3 +30,4 @@ fields:
   label: tags
 pages:
 - content/actions/new-action.md
+- content/actions/past-action.md
