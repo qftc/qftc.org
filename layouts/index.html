@@ -1,5 +1,6 @@
 {{ define "main" }}
 {{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
+{{ $current_date := now.UTC}}
   <section class="hero-home">
     <img src="images/hero-blob-blue.svg" class="hero-home-blob-blue" aria-hidden="true">
     <img src="images/hero-blob-yellow.svg" class="hero-home-blob-yellow" aria-hidden="true">
@@ -41,8 +42,14 @@
         <div class="col-md-12">
           <h3 class="h3-center center-text">{{ .Params.latest.headline }}</h3>
           <div class="post-summaries">
-            {{ range last 3 $articles }}
-              {{ partial "post_summary.html" . }}
+            {{ range first 3 $articles }}
+              {{ if eq .Type "actions"}}
+                {{ if gt .Params.expire_date $current_date }}
+                  {{ partial "post_summary.html" . }}
+                {{ end }}
+              {{ else }}
+                {{ partial "post_summary.html" . }}
+              {{ end }}
             {{ end }}
           </div>
         </div>
