@@ -3,172 +3,185 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/tags/act/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/tags/act/</loc>
+    <lastmod>2021-03-01T05:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/actions/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/actions/</loc>
+    <lastmod>2021-03-01T05:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/tags/article/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/tags/article/</loc>
+    <lastmod>2021-03-01T05:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/</loc>
+    <lastmod>2021-03-01T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/posts/post_02-copy-10/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/actions/action_01/</loc>
+    <lastmod>2021-03-01T05:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/post_02-copy-11/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy-12/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy-2/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy-3/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy-4/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy-5/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy-6/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy-7/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy-8/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy-9/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02-copy/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/post_02/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/posts/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>http://example.org/tags/</loc>
-    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/tags/</loc>
+    <lastmod>2021-03-01T05:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/tags/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/actions/action_01/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/actions/time-to-take-action/</loc>
+    <lastmod>2021-03-01T05:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-10/</loc>
     <lastmod>2021-02-21T09:31:59-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/posts/post_01/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-11/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-12/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-2/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-3/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-4/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-5/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-6/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-7/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-8/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy-9/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02-copy/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_02/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/</loc>
+    <lastmod>2021-02-21T09:31:59-05:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/posts/post_01/</loc>
     <lastmod>2021-02-02T16:09:57-05:00</lastmod>
   </url>
   
   <url>
-    <loc>http://example.org/about_us/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/about_us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/about_us/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/about_us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/about_us/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/about_us/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/apply_to_task_force/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/apply_to_task_force/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/categories/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/contact_us/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/contact_us/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/get_involved/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/get_involved/</loc>
   </url>
   
   <url>
-    <loc>http://example.org/archive/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/message_sent/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/join_success/</loc>
   </url>
   
 </urlset>

@@ -3,58 +3,58 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://example.org/zh/categories/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/zh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/categories/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/categories/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/categories/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/zh/about_us/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/zh/about_us/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/about_us/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/about_us/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/about_us/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/about_us/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/zh/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/zh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/"
                 />
   </url>
   
   <url>
-    <loc>http://example.org/zh/tags/</loc>
+    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/zh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://example.org/tags/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh"
-                href="http://example.org/zh/tags/"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/tags/"
                 />
   </url>
   

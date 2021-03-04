@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on English Version</title>
-    <link>http://example.org/tags/</link>
+    <link>https://zen-mirzakhani-bf3dbc.netlify.app/tags/</link>
     <description>Recent content in Tags on English Version</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 21 Feb 2021 09:31:59 -0500</lastBuildDate><atom:link href="http://example.org/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 01 Mar 2021 05:00:00 +0000</lastBuildDate><atom:link href="https://zen-mirzakhani-bf3dbc.netlify.app/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>act</title>
-      <link>http://example.org/tags/act/</link>
-      <pubDate>Sun, 21 Feb 2021 09:31:59 -0500</pubDate>
+      <link>https://zen-mirzakhani-bf3dbc.netlify.app/tags/act/</link>
+      <pubDate>Mon, 01 Mar 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/act/</guid>
+      <guid>https://zen-mirzakhani-bf3dbc.netlify.app/tags/act/</guid>
       <description></description>
     </item>
     
     <item>
       <title>article</title>
-      <link>http://example.org/tags/article/</link>
-      <pubDate>Sun, 21 Feb 2021 09:31:59 -0500</pubDate>
+      <link>https://zen-mirzakhani-bf3dbc.netlify.app/tags/article/</link>
+      <pubDate>Mon, 01 Mar 2021 05:00:00 +0000</pubDate>
       
-      <guid>http://example.org/tags/article/</guid>
+      <guid>https://zen-mirzakhani-bf3dbc.netlify.app/tags/article/</guid>
       <description></description>
     </item>
     

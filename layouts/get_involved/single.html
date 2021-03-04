@@ -1,14 +1,13 @@
 {{ define "main" }}
+{{ $current_date := time.Now.UTC }}
 {{ $actions := where site.RegularPages "Type" "actions" }}
   <section class="hero">
     <h1>{{ .Title }}</h1>
   </section>
   <section class="page-nav center-text hide show-sm">
-    {{ if $actions }}
     <a class="button-page-nav" data-anchor="{{ replace (lower .Params.take_action.headline) " " "-"}}">
       <div class="text">{{ .Params.take_action.headline }}</div>
     </a>
-    {{ end }}
 
     <a class="button-page-nav" data-anchor="{{ replace (lower .Params.task_forces.headline) " " "-"}}">
       <div class="text">{{ .Params.task_forces.headline }}</div>
@@ -22,20 +21,30 @@
     </a>
   </section>
   <div class="divider hide-md-up"></div>
-  {{ if $actions}}
     <section class="section-dark" id="{{ replace (lower .Params.take_action.headline) " " "-"}}" style="background-image: url('{{ .Params.take_action.background_path }}');">
       <div class="container">
         <div class="row justify-content-center">
           <div class="col-md-10 col-12">
             <h3 class="h3-left"> {{ .Params.take_action.headline }} </h3>
             <div class="post-summaries">
-              {{ range $actions }}
+              {{ if $actions}}
+                {{ range $actions }}
+                {{ if gt $current_date.UTC (time .Params.expire_date "UTC") }}
+                {{ else }}
+                  <div class="row action-summary">
+                    <div class="col-12">
+                      <h5>{{ .Title }}</h5>
+                      <a href="{{.Permalink}}" class="button-secondary">
+                        <div class="text">Take Action</div>
+                      </a>
+                    </div>
+                  </div>
+                  {{ end }}
+                {{ end }}
+              {{ else }}
                 <div class="row action-summary">
                   <div class="col-12">
-                    <h5>{{ .Title }}</h5>
-                    <a href="{{.Permalink}}" class="button-secondary">
-                      <div class="text">Take Action</div>
-                    </a>
+                    <h5>No immediate actions at the moment. Join the mailing list at the bottom of the page to stay informed about ways you can act.</h5>
                   </div>
                 </div>
               {{ end }}
@@ -44,7 +53,6 @@
         </div>
       </div>
     </section>
-  {{ end }}
   <section class="section-light" id="{{ replace (lower .Params.task_forces.headline) " " "-"}}">
     <img src="../images/section-blob-top-left-yellow.svg" class="section-blob-top-left" aria-hidden="true">
     <img src="../images/section-blob-bottom-right-blue.svg" class="section-blob-bottom-right" aria-hidden="true">
