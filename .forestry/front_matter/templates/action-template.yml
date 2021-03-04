@@ -5,14 +5,26 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
+  default: now
+- name: expire_date
+  type: datetime
+  description: The date the action is due to expire
+  config:
+    required: true
+    date_format: 
+    time_format: 
+    display_utc: false
+  label: Expire Date
 - type: text
   name: subtitle
   label: subtitle
+  config:
+    required: true
 - type: list
   name: tags
   label: tags
-pages:
-- content/actions/time-to-take-action.md
