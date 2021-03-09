@@ -28,6 +28,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- content/actions/new-action.md
-- content/actions/past-action.md
