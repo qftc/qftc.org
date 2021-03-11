@@ -1,5 +1,5 @@
 ---
-label: Action Template
+label: Campaign Template
 hide_body: false
 fields:
 - type: text
@@ -32,7 +32,7 @@ fields:
   type: file
   config:
     maxSize: 10
-  label: Action summary image
+  label: Campaign summary image
   description: Image for the action summary
 pages:
 - content/actions/time-to-take-action.md
