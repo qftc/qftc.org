@@ -28,5 +28,11 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: image_url
+  type: file
+  config:
+    maxSize: 10
+  label: Action summary image
+  description: Image for the action summary
 pages:
 - content/actions/time-to-take-action.md
