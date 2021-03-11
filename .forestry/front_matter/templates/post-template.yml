@@ -19,3 +19,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/posts/hello-this-is-a-new-post.md
