@@ -1,6 +1,7 @@
 +++
 date = 2021-03-10T05:00:00Z
 draft = true
+image_url = "/uploads/dsc_0275.JPG"
 layout = "single"
 subtitle = "This is the subtitle"
 tags = []
