@@ -19,5 +19,11 @@ fields:
 - type: list
   name: tags
   label: tags
+- name: image_url
+  type: text
+  config:
+    required: true
+  label: Image URL
+  description: Paste in URL for an image
 pages:
 - content/posts/hello-this-is-a-new-post.md
