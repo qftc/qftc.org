@@ -7,4 +7,6 @@ tags = []
 title = "Hello this is a new post"
 
 +++
-This is the content of the post.
+## Subtitle
+
+This is the content of the post.![](/uploads/dsc_0275.JPG)
