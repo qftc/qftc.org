@@ -11,7 +11,7 @@ sections:
   match: "**/*"
 - type: directory
   path: content/actions
-  label: Actions
+  label: Campaigns
   create: all
   match: "**/*"
 - type: document
