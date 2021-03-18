@@ -1285,6 +1285,10 @@ article {
     margin-top: 0px; }
   article code {
     color: gray; }
+  article img {
+    display: block;
+    height: auto;
+    width: 100%; }
 
 .button {
   color: white;
