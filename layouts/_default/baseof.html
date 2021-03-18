@@ -2,8 +2,9 @@
 <html lang="{{ .Page.Language.Lang}}">
 <head>
   <title>{{.Title}}</title>
+  {{ $options := (dict "outputStyle" "compressed")}}
   {{ $sass := resources.Get "styles/main.scss" }}
-  {{ $style := $sass | resources.ToCSS }}
+  {{ $style := $sass | resources.ToCSS $options }}
   {{ $js := resources.Get "js/main.js" | js.Build }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ if isset .Params "page_description" }} {{ index .Params "page_description" }}{{ end }}">
