@@ -63,7 +63,7 @@ This is actually from a training put on by George Lakey and Zein Nakhoda last fa
 
 This is based on research studying many social change initiatives over many years; the researchers assert that any pathway to social change requires all three of these roles. In the article linked above, they also talk about sources of power (personal, positional, relational) and major tasks for movement leaders (communicating, organizing, and evaluating).
 
-* **Agitator:** Highlights or articulates a problem that needs to be solved, brings the grievances of specific individuals or groups to the forefrunt of public awareness, mobilizes diverse parties to take collective action against the status quo
+* **Agitator:** Highlights or articulates a problem that needs to be solved, brings the grievances of specific individuals or groups to the forefront of public awareness, mobilizes diverse parties to take collective action against the status quo
 * **Innovator:** Develops an actionable solution to address the problem and demonstrates its superiority to the status quo, bridges multiple sectors to build a coalition of supporters behind the proposed solution/innovation
 * **Orchestrator:** Plans the strategy for change adoption; coordinates action across groups, organizations, and sectors to scale the proposed solution; tailors the message to different constituents while keeping it coherent; broadens and sustains collective action towards change
 
