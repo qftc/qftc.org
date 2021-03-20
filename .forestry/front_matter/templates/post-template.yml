@@ -26,4 +26,5 @@ fields:
   label: Post summary image
   description: Image for post summary
 pages:
+- content/posts/bystander-intervention-and-deescalation.md
 - content/posts/hello-this-is-a-new-post.md
