@@ -73,8 +73,6 @@ This is based on research studying many social change initiatives over many year
 
 From an Internet meme riffing on the idea of "social justice warrior" and expanding it to other traditional roleplaying game classes.
 
-![](https://64.media.tumblr.com/c7d38e1a168a5b9b8bbaa0ce5d5971d6/tumblr_potvqagyXy1waqzz3_540.jpg)
-
 * **Social Justice Warrior:** Wades into the front lines of online and IRL \["in real life"\] confrontations
 * **Social Justice Barbarian:** Punches Nazis
 * **Social Justice Paladin:** Activist and crusader
