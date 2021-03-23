@@ -12,7 +12,7 @@ Bystander intervention and deescalation is a way of using nonviolent methods to 
 
 The information in this post comes from trainings by three organizations, each having somewhat different areas of focus (see bottom of page). I highly recommend attending their trainings if you have the opportunity! A big benefit of attending an actual "in-person" (nowadays virtual) training is being able to work through example scenarios, either by role-playing or by thinking through the situations they present and rehearsing your response. Plus, the trainers can explain all this stuff a lot better than I can write it!
 
-=====
+***
 
 ## Pre-intervention preparation
 
@@ -24,11 +24,11 @@ First, and most importantly: know yourself.
 
 \- Evaluate your emotional capacity. What is your typical response to stressful situations (yelling, verbal abuse, threats, physical domination)? Do you have any emotional triggers? How do you respond to people who disagree with you politically? Can you hold space for people with mental health issues or drug intoxication?
 
-\- What are ways that you can deescalate *yourself* before entering a situation? Make sure you have effective grounding and centering techniques, and the ability to notice if/when you become ungrounded.
+\- What are ways that you can deescalate _yourself_ before entering a situation? Make sure you have effective grounding and centering techniques, and the ability to notice if/when you become ungrounded.
 
 \- What are your mental, emotional, or physical limits? Is this the right role for you?
 
-=====
+***
 
 ## Intervention
 
@@ -64,13 +64,13 @@ Remember, you don't HAVE to do anything. It is better to do nothing than to wors
 
 \- Do you need additional support or backup? (In protest situations it's good to go with a buddy or two!)
 
-\-----
+***
 
 ### STEP 2: CENTER/GROUND YOURSELF
 
 \- If you are not thinking clearly, you could put everyone around you at risk. You need to be your full intelligent self and hold on to your ability to assess the situation strategically.
 
-\- Remember: Whose crisis is it anyway? If you are a bystander, it is not *your* crisis. Do not get escalated yourself in response!
+\- Remember: Whose crisis is it anyway? If you are a bystander, it is not _your_ crisis. Do not get escalated yourself in response!
 
 \- Hold on to your goal - which should center the safety of everyone involved.
 
@@ -90,7 +90,7 @@ Some suggested grounding techniques (look up others, find what works for you):
 
 \- Bring a calming image or memory to mind
 
-\-----
+***
 
 ### STEP 3: DETERMINE IF ACTIVE INTERVENTION IS REQUIRED
 
@@ -100,7 +100,7 @@ Some suggested grounding techniques (look up others, find what works for you):
 
 \- Don't get caught up in trying to stop every loud noise or shouty interaction.
 
-\-----
+***
 
 ### STEP 4: DEESCALATE/INTERVENE
 
@@ -118,7 +118,7 @@ Some suggested grounding techniques (look up others, find what works for you):
 
 \- Most people don't actually want to physically fight, and would welcome an excuse to disengage.
 
-\- Stay detached from outcome. It's paradoxical, but the more attached you are to a particular outcome (for instance, "make the aggressor understand what they're doing is wrong", "make the victim feel better", "everyone needs to get along", etc.), the more fixed your mindset becomes, and the more difficult it is to respond in ways that positively affect the situation. Don't get your ego hooked into the situation, or else *you* will be the one in crisis.
+\- Stay detached from outcome. It's paradoxical, but the more attached you are to a particular outcome (for instance, "make the aggressor understand what they're doing is wrong", "make the victim feel better", "everyone needs to get along", etc.), the more fixed your mindset becomes, and the more difficult it is to respond in ways that positively affect the situation. Don't get your ego hooked into the situation, or else _you_ will be the one in crisis.
 
 \- If it seems like a particular tactic is not working and the situation is still escalating, shift tactics!
 
@@ -184,7 +184,7 @@ Note that this is premised on being on a neutral or equal footing with the perso
 
 \- Optionally, **add information**: You can share additional information that may help the other person or the audience to consider the issue in a new light, or redirect the discussion in a more positive direction. Once you have connected with the person, you can share facts that are relevant to the questions the person is asking, or correct mistaken facts that they've mentioned.
 
-\-----
+***
 
 ### STEP 5: DISENGAGE
 
@@ -196,7 +196,7 @@ Note that this is premised on being on a neutral or equal footing with the perso
 
 \- Check in with yourself - how are you feeling or reacting? Would you like to debrief and process with someone (call or text a friend or partner)? Be careful of burnout or compassion fatigue.
 
-=====
+***
 
 ## Additional helpful websites
 
@@ -206,7 +206,7 @@ Note that this is premised on being on a neutral or equal footing with the perso
 
 [https://www.teenvogue.com/story/how-to-film-police-safely](https://www.teenvogue.com/story/how-to-film-police-safely "https://www.teenvogue.com/story/how-to-film-police-safely")
 
-=====
+***
 
 ## Training organizations:
 
