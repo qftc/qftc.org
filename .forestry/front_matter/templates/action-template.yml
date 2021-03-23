@@ -34,5 +34,12 @@ fields:
     maxSize: 10
   label: Campaign summary image
   description: Image for the action summary
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: single
 pages:
 - content/actions/time-to-take-action.md
