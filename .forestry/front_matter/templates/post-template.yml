@@ -8,7 +8,7 @@ fields:
 - type: datetime
   name: date
   label: date
-  default: ''
+  default: now
 - type: text
   name: subtitle
   label: subtitle
@@ -16,6 +16,7 @@ fields:
   name: layout
   label: layout
   default: single
+  hidden: true
 - type: list
   name: tags
   label: tags
