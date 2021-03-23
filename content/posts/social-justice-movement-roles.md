@@ -12,7 +12,7 @@ One of my favorite metaphors for social justice activism is called "the parable 
 
 Thus, it's useful to think about what strengths you as an individual can contribute to a movement: the niches you can fill and the roles that suit you best, what you can bring to the cause over the long haul without exhausting yourself or burning out. Below I've compiled lists of possible roles in social justice movements from various sources that have somewhat different frameworks/philosophies, though there are many commonalities between them. (Personally, my favorite list is the "social justice D&D classes"!)
 
-=====
+***
 
 ## SOCIAL CHANGE ECOSYSTEM MAP:
 
@@ -31,7 +31,7 @@ This website provides a reflection guide to help you find your place on the map 
 * **Storytellers:** I craft and share our community stories, cultures, experiences, histories, and possibilities through art, music, media, and movement.
 * **Guides:** I teach, counsel, and advise, using my gifts of well-earned discernment and wisdom.
 
-===
+***
 
 ## THE FOUR ROLES OF SOCIAL ACTIVISM:
 
@@ -44,7 +44,7 @@ George Lakey (L) expanded on the concepts and renamed 3 of them (and thus I'm pr
 * **Change Agent (M) / Organizer (L):** Uses "people power" aka the power of sheer numbers; gathers a critical mass of people via grassroots organizing; educates and involves a majority of citizens; promotes alternatives and paradigm shift via strategy and tactics for waging long-term movements
 * **Rebel:** Puts problems in the public spotlight and makes a commotion to force powerholders to make a change; says "no" to violation of positive values; uses direct action and civil disobedience
 
-===
+***
 
 ## FROM "HOW TO STOP AN ELECTION RELATED POWER GRAB"
 
@@ -55,7 +55,7 @@ This is actually from a training put on by George Lakey and Zein Nakhoda last fa
 * **The Caregiver:** checks on people/communities, keeps people safe, maintains and sustains the group
 * **The Truth Teller:** raises questions or brings up facts that people might not want to hear
 
-===
+***
 
 ## AGITATE, INNOVATE, OR ORCHESTRATE?
 
@@ -67,7 +67,7 @@ This is based on research studying many social change initiatives over many year
 * **Innovator:** Develops an actionable solution to address the problem and demonstrates its superiority to the status quo, bridges multiple sectors to build a coalition of supporters behind the proposed solution/innovation
 * **Orchestrator:** Plans the strategy for change adoption; coordinates action across groups, organizations, and sectors to scale the proposed solution; tailors the message to different constituents while keeping it coherent; broadens and sustains collective action towards change
 
-===
+***
 
 ## Social Justice D&D Classes
 
@@ -86,7 +86,7 @@ From an Internet meme riffing on the idea of "social justice warrior" and expand
 * **Social Justice Sorcerer:** Charismatic leaders, can finagle resources from nowhere
 * **Social Justice Wizard:** "How do you even DO that with the internet?"
 
-=====
+***
 
 ## Additional items
 
