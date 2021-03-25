@@ -21,14 +21,14 @@
       <div class="close-nav hide-md-up" aria-hidden="true">
         <img src="{{ "images/close.svg" | absURL }}" aria-hidden="true">
       </div>
-      <a href="/" class="nav-link {{ if eq .Title "Home" }} active {{ end }}">Home</a>
-      <a href="/about_us" class="nav-link {{ if eq .Title "About Us" }} active {{ end }}">About Us</a>
-      <a href="/get_involved" class="nav-link {{ if eq .Title "Get Involved" }} active {{ end }}">Get Involved</a>
+      <a href="{{ "/" | absLangURL }}" class="nav-link {{ if eq .Title "Home" }} active {{ end }}">Home</a>
+      <a href="{{ "/about_us" | absLangURL }}" class="nav-link {{ if eq .Title "About Us" }} active {{ end }}">About Us</a>
+      <a href="{{ "/get_involved" | absLangURL }}" class="nav-link {{ if eq .Title "Get Involved" }} active {{ end }}">Get Involved</a>
       {{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
       {{ if $articles }}
-      <a href="/archive" class="nav-link {{ if eq .Title "QFTC Archive" }} active {{ end }}">QFTC Archive</a>
+      <a href="{{ "/archive" | absLangURL }}" class="nav-link {{ if eq .Title "QFTC Archive" }} active {{ end }}">QFTC Archive</a>
       {{ end }}
-      <a href="/contact_us" class="nav-link {{ if eq .Title "Contact Us" }} active {{ end }}">Contact Us</a>
+      <a href="{{ "/contact_us" | absLangURL }}" class="nav-link {{ if eq .Title "Contact Us" }} active {{ end }}">Contact Us</a>
     </div>
     <div class="open-nav hide-md-up" aria-hidden="true">
       <img src="{{ "images/hamburger.svg" | absURL }}" aria-hidden="true">
@@ -71,6 +71,37 @@
       </div>
     </div>
   </footer>
+
+  <div class="language-picker">
+    <div class="language-picker-option">{{ $.Site.Params.defaultLang}}</div>
+    {{ $activeLang := $.Page.Language.Lang }}
+    {{ $defaultLang := $.Site.Params.defaultLang }}
+    {{ .Page.Translations}}
+
+    <div class="language-picker-option language-picker-open">
+      <img src="{{ (printf "images/%s.png" $activeLang) | absURL }}">
+      <span>{{ index site.Data.languages ($activeLang) "name" }}</span>
+    </div>
+
+    {{ range .Site.Languages }}
+      {{ $path := cond (eq .Lang $defaultLang) $.Page.Dir (print .Lang "" $.Page.RelPermalink) }}
+      {{ $url := $path | absURL }}
+      {{ $pagePath := strings.TrimRight "/" $.Page.Dir }}
+      {{ print $pagePath }}
+      {{ if (eq .Lang $activeLang) }}
+      {{ else }}
+        <a href="{{ $url }}" class="language-picker-option">
+          <img src="{{ (printf "images/%s.png" .Lang) | absURL }}">
+          <span>{{ index site.Data.languages (.Lang) "name" }}</span>
+            {{ range $.Sites}} 
+              {{ .GetPage "zh/about_us/index.md"}}
+            {{end }}
+        </a>
+      {{ end }}
+    {{ end }}
+
+  </div>
+
   <script type="text/javascript">
     window.onload = (event) => {
       mobileNav();

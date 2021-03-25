@@ -4,6 +4,16 @@
   
   <url>
     <loc>https://zen-mirzakhani-bf3dbc.netlify.app/about_us/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/about_us/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/about_us/"
+                />
   </url>
   
   <url>
@@ -12,6 +22,16 @@
   
   <url>
     <loc>https://zen-mirzakhani-bf3dbc.netlify.app/categories/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/categories/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/categories/"
+                />
   </url>
   
   <url>
@@ -24,6 +44,16 @@
   
   <url>
     <loc>https://zen-mirzakhani-bf3dbc.netlify.app/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/"
+                />
   </url>
   
   <url>
@@ -36,6 +66,16 @@
   
   <url>
     <loc>https://zen-mirzakhani-bf3dbc.netlify.app/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://zen-mirzakhani-bf3dbc.netlify.app/tags/"
+                />
   </url>
   
   <url>

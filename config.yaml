@@ -1,14 +1,62 @@
 baseURL: "https://zen-mirzakhani-bf3dbc.netlify.app/"
 defaultContentLanguage: en
 params:
+  defaultLang: en
   mainSections: 
     - actions
     - posts
 languages:
-  zh:
-    languagedirection: rtl
-    title: Chinese versions
-    weight: 2
   en:
-    title: English Version
+    contentDir: content/en
+    title: QFTC
     weight: 1
+    menu:
+      main:
+        - name: Home
+          identifier: Home
+          url: /home/
+          weight: 1
+        - name: About Us
+          identifier: about_us
+          url: /about_us/
+          weight: 2
+        - name: Get Involved
+          identifier: get_involved
+          url: /get_involved/
+          weight: 3
+        - name: QFTC Archive
+          identifier: archive
+          url: /archive/
+          weight: 4
+        - name: Contact Us
+          identifier: contact_us
+          url: /contact_us/
+          weight: 5
+  zh:
+    contentDir: content/zh
+    languagedirection: rtl
+    title: QFTC
+    weight: 2
+    menu:
+      main:
+        main:
+        - name: Home
+          identifier: Home
+          url: /home/
+          weight: 1
+        - name: About Us
+          identifier: about_us
+          url: /about_us/
+          weight: 2
+        - name: Get Involved
+          identifier: get_involved
+          url: /get_involved/
+          weight: 3
+        - name: QFTC Archive
+          identifier: archive
+          url: /archive/
+          weight: 4
+        - name: Contact Us
+          identifier: contact_us
+          url: /contact_us/
+          weight: 5

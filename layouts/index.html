@@ -2,8 +2,8 @@
 {{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
 {{ $current_date := now.UTC}}
   <section class="hero-home">
-    <img src="images/hero-blob-blue.svg" class="hero-home-blob-blue" aria-hidden="true">
-    <img src="images/hero-blob-yellow.svg" class="hero-home-blob-yellow" aria-hidden="true">
+    <img src="{{ "images/hero-blob-blue.svg" | absURL }}" class="hero-home-blob-blue" aria-hidden="true">
+    <img src="{{ "images/hero-blob-yellow.svg" | absURL }}" class="hero-home-blob-yellow" aria-hidden="true">
     <div class="row hero-home-content">
       <div class="col-lg-7 col-12">
         <h1>{{ .Params.hero.headline }}</h1>
@@ -14,9 +14,9 @@
       </div>
       <div class="col-5 hide show-md">
         <div class="hero-home-image">
-          <img src="images/hero-home-image-dots.svg" class="hero-home-image-dots" aria-hidden="true">
+          <img src="{{ "images/hero-home-image-dots.svg" | absURL }}" class="hero-home-image-dots" aria-hidden="true">
           <div class="hero-home-image-frame">
-            <img src="images/hero-home-image.jpg" class="hero-home-image-picture" aria-hidden="true">
+            <img src="{{ "images/hero-home-image.jpg" | absURL }}" class="hero-home-image-picture" aria-hidden="true">
           </div>
           <div class="hero-home-image-stroke"></div>
         </div>
@@ -35,8 +35,8 @@
   </section>
   {{ if $articles }}
   <section class="section-light">
-    <img src="../images/section-blob-top-right-yellow.svg" class="section-blob-top-right" aria-hidden="true">
-    <img src="../images/section-blob-bottom-left-blue.svg" class="section-blob-bottom-left" aria-hidden="true">
+    <img src="{{ "images/section-blob-top-right-yellow.svg" | absURL }}" class="section-blob-top-right" aria-hidden="true">
+    <img src="{{ "images/section-blob-bottom-left-blue.svg" | absURL }}" class="section-blob-bottom-left" aria-hidden="true">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-12">
@@ -56,7 +56,7 @@
       </div>
       <div class="center-text">
         <div class="squiggle">
-          <img src="/images/headline-squiggle.svg" aria-hidden="true">
+          <img src="{{ "images/headline-squiggle.svg" | absURL }}" aria-hidden="true">
         </div>
         <a href="/archive" class="button-secondary">
           <div class="text">See all articles</div>

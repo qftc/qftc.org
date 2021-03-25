@@ -740,6 +740,30 @@ h5 {
   z-index: 99;
 }
 
+.language-picker {
+  background: white;
+  bottom: 10px;
+  border-radius: 32px;
+  position: fixed;
+  right: 10px;
+}
+
+.language-picker-option {
+  align-items: center;
+  border-radius: 32px;
+  display: flex;
+  padding: 10px;
+
+  img {
+    margin-right: 10px;
+    width: 30px;
+  }
+
+  &:hover {
+    background: $blue;
+  }
+}
+
 .logo {
   display: block;
   max-width: 75px;
