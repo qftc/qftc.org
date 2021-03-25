@@ -11,6 +11,11 @@ sections:
   match: "**/*"
   new_doc_ext: ''
 - type: directory
+  path: "content/posts"
+  match: "**/*.zh.md"
+  label: Chinese Posts
+  new_doc_ext: ".zh.md"
+- type: directory
   path: content/actions
   label: Campaigns
   create: all
