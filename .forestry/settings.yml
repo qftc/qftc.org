@@ -9,7 +9,7 @@ sections:
   label: Posts
   create: all
   match: "**/*"
-  new_doc_ext: ".zh.md"
+  new_doc_ext: ''
 - type: directory
   path: content/actions
   label: Campaigns
