@@ -5,11 +5,13 @@ admin_path:
 webhook_url: 
 sections:
 - type: directory
-  path: content/posts
-  label: Posts
+  path: ''
+  label: English
   create: all
-  match: "**/*"
-  new_doc_ext: app
+  match: en/{posts,actions}/*
+  templates:
+  - action-template
+  - post-template
 - type: directory
   path: content/actions
   label: Campaigns

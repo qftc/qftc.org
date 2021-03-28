@@ -41,5 +41,3 @@ fields:
   label: Layout
   hidden: true
   default: single
-pages:
-- content/actions/time-to-take-action.md
