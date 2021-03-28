@@ -15,7 +15,7 @@ sections:
 - type: directory
   path: content/zh
   label: Chinese
-  create: all
+  create: documents
   match: "{posts,campaigns}/*"
   templates:
   - action-template
