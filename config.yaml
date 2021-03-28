@@ -3,7 +3,7 @@ defaultContentLanguage: en
 params:
   defaultLang: en
   mainSections: 
-    - actions
+    - campaigns
     - posts
 languages:
   en:

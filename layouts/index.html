@@ -43,7 +43,7 @@
           <h3 class="h3-center center-text">{{ .Params.latest.headline }}</h3>
           <div class="post-summaries">
             {{ range first 3 $articles }}
-              {{ if eq .Type "actions"}}
+              {{ if eq .Type "campaigns"}}
                 {{ if gt .Params.expire_date $current_date }}
                   {{ partial "post_summary.html" . }}
                 {{ end }}

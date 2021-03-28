@@ -1,7 +1,7 @@
 {{ define "main" }}
 {{ $current_date := now.UTC}}
-{{ $actions := where site.RegularPages "Type" "actions" }}
-{{ $current_actions := where $actions ".Params.expire_date" ">" $current_date  }}
+{{ $campaigns := where site.RegularPages "Type" "campaigns" }}
+{{ $current_campaigns := where $campaigns ".Params.expire_date" ">" $current_date  }}
   <section class="hero">
     <h1>{{ .Title }}</h1>
   </section>
@@ -28,8 +28,8 @@
           <div class="col-md-10 col-12">
             <h3 class="h3-left"> {{ .Params.take_action.headline }} </h3>
             <div class="post-summaries">
-              {{ if $current_actions }}
-                {{ range $current_actions }}
+              {{ if $current_campaigns }}
+                {{ range $current_campaigns }}
                   <div class="row action-summary">
                     <div class="col-12">
                       <h5>{{ .Title }}</h5>

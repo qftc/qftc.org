@@ -8,7 +8,7 @@ sections:
   path: content/en
   label: English
   create: documents
-  match: "{posts,actions}/*"
+  match: "{posts,campaigns}/*"
   templates:
   - action-template
   - post-template
@@ -16,7 +16,7 @@ sections:
   path: content/zh
   label: Chinese
   create: documents
-  match: "{posts,actions}/*"
+  match: "{posts,campaigns}/*"
   templates:
   - action-template
   - post-template
