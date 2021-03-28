@@ -71,35 +71,17 @@
       </div>
     </div>
   </footer>
-
   <div class="language-picker">
-    <div class="language-picker-option">{{ $.Site.Params.defaultLang}}</div>
-    {{ $activeLang := $.Page.Language.Lang }}
-    {{ $defaultLang := $.Site.Params.defaultLang }}
-    {{ .Page.Translations}}
-
-    <div class="language-picker-option language-picker-open">
-      <img src="{{ (printf "images/%s.png" $activeLang) | absURL }}">
-      <span>{{ index site.Data.languages ($activeLang) "name" }}</span>
+    <div class="language-picker-option">
+      <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
+      <span>{{ $.Page.Language.Params.languageName }}</span>
     </div>
-
-    {{ range .Site.Languages }}
-      {{ $path := cond (eq .Lang $defaultLang) $.Page.Dir (print .Lang "" $.Page.RelPermalink) }}
-      {{ $url := $path | absURL }}
-      {{ $pagePath := strings.TrimRight "/" $.Page.Dir }}
-      {{ print $pagePath }}
-      {{ if (eq .Lang $activeLang) }}
-      {{ else }}
-        <a href="{{ $url }}" class="language-picker-option">
-          <img src="{{ (printf "images/%s.png" .Lang) | absURL }}">
-          <span>{{ index site.Data.languages (.Lang) "name" }}</span>
-            {{ range $.Sites}} 
-              {{ .GetPage "zh/about_us/index.md"}}
-            {{end }}
-        </a>
-      {{ end }}
+    {{ range .Translations}}
+      <a href="{{ .Permalink }}" class="language-picker-option">
+        <img src="{{ (print "/images/" .Language ".png") | absURL }}">
+        <span>{{ .Language.Params.languageName }}</span>
+      </a>
     {{ end }}
-
   </div>
 
   <script type="text/javascript">

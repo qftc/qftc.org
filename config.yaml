@@ -32,6 +32,8 @@ languages:
           identifier: contact_us
           url: /contact_us/
           weight: 5
+    params:
+      languageName: English
   zh:
     contentDir: content/zh
     languagedirection: rtl
@@ -60,3 +62,5 @@ languages:
           identifier: contact_us
           url: /contact_us/
           weight: 5
+    params:
+      languageName: 中国人
