@@ -30,20 +30,22 @@
         {{ end }}
       {{ end }}
 
-      <div class="language-picker-mobile hide-md-up">
-        <div class="nav-link active-language">
-          <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
-          <span>{{ $.Page.Language.Params.languageName }}</span>
+      {{ if .IsTranslated}}
+        <div class="language-picker-mobile hide-md-up">
+          <div class="nav-link active-language">
+            <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
+            <span>{{ $.Page.Language.Params.languageName }}</span>
+          </div>
+          {{ with .Translations}}
+              {{ range .}}
+                <a href="{{ .Permalink }}" class="nav-link">
+                  <img src="{{ (print "/images/" .Language ".png") | absURL }}">
+                  <span>{{ .Language.Params.languageName }}</span>
+                </a>
+              {{ end }}
+          {{ end }}
         </div>
-        {{ with .Translations}}
-            {{ range .}}
-              <a href="{{ .Permalink }}" class="nav-link">
-                <img src="{{ (print "/images/" .Language ".png") | absURL }}">
-                <span>{{ .Language.Params.languageName }}</span>
-              </a>
-            {{ end }}
-        {{ end }}
-      </div>
+      {{ end }}
     </div>
     <div class="open-nav hide-md-up" aria-hidden="true">
       <img src="{{ "images/hamburger.svg" | absURL }}" aria-hidden="true">
@@ -86,22 +88,24 @@
       </div>
     </div>
   </footer>
-  <div class="language-picker">
-    {{ with .Translations}}
-      <div class="language-picker-translations" id="language-picker-translations">
-        {{ range .}}
-          <a href="{{ .Permalink }}" class="language-picker-option">
-            <img src="{{ (print "/images/" .Language ".png") | absURL }}">
-            <span>{{ .Language.Params.languageName }}</span>
-          </a>
-        {{ end }}
+  {{ if .IsTranslated }}
+    <div class="language-picker">
+      {{ with .Translations}}
+        <div class="language-picker-translations" id="language-picker-translations">
+          {{ range .}}
+            <a href="{{ .Permalink }}" class="language-picker-option">
+              <img src="{{ (print "/images/" .Language ".png") | absURL }}">
+              <span>{{ .Language.Params.languageName }}</span>
+            </a>
+          {{ end }}
+        </div>
+      {{ end }}
+      <div class="language-picker-option-current {{ cond ($.Page.IsTranslated) "toggle-picker" "" }}">
+        <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
+        <span>{{ $.Page.Language.Params.languageName }}</span>
       </div>
-    {{ end }}
-    <div class="language-picker-option-current {{ cond ($.Page.IsTranslated) "toggle-picker" "" }}">
-      <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
-      <span>{{ $.Page.Language.Params.languageName }}</span>
     </div>
-  </div>
+  {{ end }}
 
   <script type="text/javascript">
     window.onload = (event) => {
