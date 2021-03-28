@@ -741,18 +741,34 @@ h5 {
 }
 
 .language-picker {
-  background: white;
-  bottom: 10px;
-  border-radius: 32px;
-  position: fixed;
-  right: 10px;
+  display: none;  
+
+  @include media-breakpoint-up(md) {
+    background: white;
+    bottom: 10px;
+    border-radius: 32px;
+    box-shadow: 1px 1px 3px rgba(0,0,0,0.2);
+    display: block; 
+    padding: 5px;
+    position: fixed;
+    right: 10px;
+    z-index: 9999;
+  }
+}
+
+.language-picker-mobile {
+  border-top: 1px solid white;
+  padding: 10px 0px;
 }
 
 .language-picker-option {
   align-items: center;
   border-radius: 32px;
+  color: black;
+  cursor: pointer;
   display: flex;
   padding: 10px;
+  text-decoration: none;
 
   img {
     margin-right: 10px;
@@ -762,6 +778,20 @@ h5 {
   &:hover {
     background: $blue;
   }
+}
+
+.language-picker-option-current {
+  @extend .language-picker-option;
+  font-weight: bold;
+
+  &:hover {
+    background: none;
+  }
+}
+
+.language-picker-translations {
+  display: none;
+  transition: min-height 0.2s;
 }
 
 .logo {
@@ -809,6 +839,49 @@ nav {
   }
 }
 
+.nav-link {
+  display: block;
+  color: black;
+  font-size: em(20);
+  line-height: 1.5;
+  margin: 20px em(15) 15px;
+  padding: 0px 0px 5px 0px;
+  text-decoration: none;
+
+  &.active {
+    box-shadow: inset 0 -3px 0 black;
+    font-weight: bold;
+  }
+
+  &.active-language {
+    font-weight: bold;
+
+    &:after {
+      content: "✓"
+    }
+  }
+
+  * {
+    vertical-align: middle;
+  }
+
+  img {
+    display: inline-block;
+    margin-right: 10px;
+    width: 30px;
+  }
+
+  @include media-breakpoint-up(md) {
+    display: inline-block;
+    font-size: em(16);
+    margin: 0 em(15);
+  }
+
+  @include media-breakpoint-up(lg) {
+    font-size: em(20);
+  }
+}
+
 .nav-links {
   background: $blue;
   bottom: 0px;
@@ -826,21 +899,6 @@ nav {
     transform: translateX(100%);
   }
 
-  a {
-    display: block;
-    color: black;
-    font-size: em(20);
-    line-height: 1.5;
-    margin: 10px em(15);
-    padding: 0;
-    text-decoration: none;
-
-    &.active {
-      box-shadow: inset 0 -3px 0 black;
-      font-weight: bold;
-    }
-  }
-
   @include media-breakpoint-up(md) {
     background: none;
     text-align: right;
@@ -851,18 +909,6 @@ nav {
 
     &.nav-links-hidden-mobile {
       transform: translateX(0%);
-    }
-
-    a {
-      display: inline-block;
-      font-size: em(16);
-      margin: 0 em(15);
-    }
-  }
-
-  @include media-breakpoint-up(lg) {
-    a {
-      font-size: em(20);
     }
   }
 }

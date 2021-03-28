@@ -46,3 +46,18 @@ window.mobileNav = () => {
     nav.classList.add('nav-links-hidden-mobile');
    });
 }
+
+window.languagePicker = () => {
+  const translations = document.querySelector('.language-picker-translations');
+  const pickerToggler = document.querySelector('.toggle-picker');
+
+  translations.style.display = "none";
+
+  pickerToggler.addEventListener('click', (event) => {
+    if (translations.style.display === "none") {
+      translations.style.display = "block";
+    } else {
+      translations.style.display = "none";
+    }
+  });
+}

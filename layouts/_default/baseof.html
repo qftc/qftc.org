@@ -29,6 +29,20 @@
       <a href="{{ "/archive" | absLangURL }}" class="nav-link {{ if eq .Title "QFTC Archive" }} active {{ end }}">QFTC Archive</a>
       {{ end }}
       <a href="{{ "/contact_us" | absLangURL }}" class="nav-link {{ if eq .Title "Contact Us" }} active {{ end }}">Contact Us</a>
+      <div class="language-picker-mobile hide-md-up">
+        <div class="nav-link active-language">
+          <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
+          <span>{{ $.Page.Language.Params.languageName }}</span>
+        </div>
+        {{ with .Translations}}
+            {{ range .}}
+              <a href="{{ .Permalink }}" class="nav-link">
+                <img src="{{ (print "/images/" .Language ".png") | absURL }}">
+                <span>{{ .Language.Params.languageName }}</span>
+              </a>
+            {{ end }}
+        {{ end }}
+      </div>
     </div>
     <div class="open-nav hide-md-up" aria-hidden="true">
       <img src="{{ "images/hamburger.svg" | absURL }}" aria-hidden="true">
@@ -72,15 +86,19 @@
     </div>
   </footer>
   <div class="language-picker">
-    <div class="language-picker-option">
+    <div class="language-picker-option-current {{ cond ($.Page.IsTranslated) "toggle-picker" "" }}">
       <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
       <span>{{ $.Page.Language.Params.languageName }}</span>
     </div>
-    {{ range .Translations}}
-      <a href="{{ .Permalink }}" class="language-picker-option">
-        <img src="{{ (print "/images/" .Language ".png") | absURL }}">
-        <span>{{ .Language.Params.languageName }}</span>
-      </a>
+    {{ with .Translations}}
+      <div class="language-picker-translations" id="language-picker-translations">
+        {{ range .}}
+          <a href="{{ .Permalink }}" class="language-picker-option">
+            <img src="{{ (print "/images/" .Language ".png") | absURL }}">
+            <span>{{ .Language.Params.languageName }}</span>
+          </a>
+        {{ end }}
+      </div>
     {{ end }}
   </div>
 
@@ -93,6 +111,10 @@
       
       {{ if eq .Title "Home" }}
         navFill();
+      {{ end }}
+
+      {{ if $.Page.IsTranslated }} 
+        languagePicker();
       {{ end }}
     }
   </script>

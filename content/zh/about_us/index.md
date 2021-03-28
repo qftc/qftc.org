@@ -5,7 +5,7 @@ page_description:
 type: 'about_us'
 translationKey: 'about_us'
 layout: 'single'
-draft: false
+draft: true
 headline: Our Story
 details:
   'Quincy For Transformative Change is a grassroots organization that formed in the wake of a series of Black Lives Matter protests in summer 2020 after the murder of George Floyd. The initial protest, "Quincy Candlelight Vigil to Stand in Support of Black Lives" on June 2nd in downtown Quincy, drew over 4500 attendees from all over Massachusetts. We seek to empower the residents of Quincy to take action in our community, advocate for marginalized folks, and break down structures of oppression and discrimination with collaborative antiracist actions and initiatives.'
