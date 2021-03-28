@@ -13,8 +13,8 @@ languages:
     menu:
       main:
         - name: Home
-          identifier: Home
-          url: /home/
+          identifier: home
+          url: /
           weight: 1
         - name: About Us
           identifier: about_us
@@ -41,10 +41,9 @@ languages:
     weight: 2
     menu:
       main:
-        main:
         - name: Home
-          identifier: Home
-          url: /home/
+          identifier: home
+          url: /
           weight: 1
         - name: About Us
           identifier: about_us

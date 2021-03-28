@@ -21,14 +21,15 @@
       <div class="close-nav hide-md-up" aria-hidden="true">
         <img src="{{ "images/close.svg" | absURL }}" aria-hidden="true">
       </div>
-      <a href="{{ "/" | absLangURL }}" class="nav-link {{ if eq .Title "Home" }} active {{ end }}">Home</a>
-      <a href="{{ "/about_us" | absLangURL }}" class="nav-link {{ if eq .Title "About Us" }} active {{ end }}">About Us</a>
-      <a href="{{ "/get_involved" | absLangURL }}" class="nav-link {{ if eq .Title "Get Involved" }} active {{ end }}">Get Involved</a>
+      
       {{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
-      {{ if $articles }}
-      <a href="{{ "/archive" | absLangURL }}" class="nav-link {{ if eq .Title "QFTC Archive" }} active {{ end }}">QFTC Archive</a>
+      {{ range $.Site.Menus.main }}
+        {{ if and (not $articles) (eq .Identifier "archive")}}
+        {{ else }}
+          <a href="{{ .URL | absLangURL }}" class="nav-link {{ cond (eq $.Page.Title .Name) "active" "" }}">{{ .Name }}</a>
+        {{ end }}
       {{ end }}
-      <a href="{{ "/contact_us" | absLangURL }}" class="nav-link {{ if eq .Title "Contact Us" }} active {{ end }}">Contact Us</a>
+
       <div class="language-picker-mobile hide-md-up">
         <div class="nav-link active-language">
           <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
@@ -86,10 +87,6 @@
     </div>
   </footer>
   <div class="language-picker">
-    <div class="language-picker-option-current {{ cond ($.Page.IsTranslated) "toggle-picker" "" }}">
-      <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
-      <span>{{ $.Page.Language.Params.languageName }}</span>
-    </div>
     {{ with .Translations}}
       <div class="language-picker-translations" id="language-picker-translations">
         {{ range .}}
@@ -100,6 +97,10 @@
         {{ end }}
       </div>
     {{ end }}
+    <div class="language-picker-option-current {{ cond ($.Page.IsTranslated) "toggle-picker" "" }}">
+      <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
+      <span>{{ $.Page.Language.Params.languageName }}</span>
+    </div>
   </div>
 
   <script type="text/javascript">
