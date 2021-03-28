@@ -13,10 +13,13 @@ sections:
   - action-template
   - post-template
 - type: directory
-  path: content/actions
-  label: Campaigns
-  create: all
-  match: "**/*"
+  path: content/zh
+  label: Chinese
+  create: documents
+  match: "{posts,actions}/*"
+  templates:
+  - action-template
+  - post-template
 - type: document
   path: data/task_forces.yml
   label: Task Forces
