@@ -41,3 +41,14 @@ fields:
   label: Layout
   hidden: true
   default: single
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 120
+  label: Summary
+  description: Summary shown in the list of campaigns
