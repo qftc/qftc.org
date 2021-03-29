@@ -5,13 +5,19 @@ fields:
 - type: text
   name: title
   label: title
+  config:
+    required: true
 - type: datetime
   name: date
   label: date
   default: now
+  config:
+    required: true
 - type: text
   name: subtitle
   label: subtitle
+  config:
+    required: true
 - type: text
   name: layout
   label: layout
