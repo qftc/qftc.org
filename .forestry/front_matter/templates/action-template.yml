@@ -20,27 +20,17 @@ fields:
     time_format: 
     display_utc: false
   label: Expire Date
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  description: Author of the campaign
 - type: text
   name: subtitle
   label: subtitle
   config:
     required: true
-- type: list
-  name: tags
-  label: tags
-- name: image_url
-  type: file
-  config:
-    maxSize: 10
-  label: Campaign summary image
-  description: Image for the action summary
-- name: layout
-  type: text
-  config:
-    required: false
-  label: Layout
-  hidden: true
-  default: single
 - name: summary
   type: textarea
   default: ''
@@ -52,3 +42,19 @@ fields:
     max: 120
   label: Summary
   description: Summary shown in the list of campaigns
+- name: image_url
+  type: file
+  config:
+    maxSize: 10
+  label: Campaign summary image
+  description: Image for the action summary
+- type: list
+  name: tags
+  label: tags
+- name: layout
+  type: text
+  config:
+    required: false
+  label: Layout
+  hidden: true
+  default: single
