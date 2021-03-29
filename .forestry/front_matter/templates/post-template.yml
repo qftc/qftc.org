@@ -13,6 +13,12 @@ fields:
   default: now
   config:
     required: true
+- name: author
+  type: text
+  config:
+    required: false
+  label: Author
+  description: Name of the author of the post
 - type: text
   name: subtitle
   label: subtitle
@@ -23,15 +29,6 @@ fields:
   label: layout
   default: single
   hidden: true
-- type: list
-  name: tags
-  label: tags
-- name: image_url
-  type: file
-  config:
-    maxSize: 64
-  label: Post summary image
-  description: Image for post summary
 - name: summary
   type: textarea
   default: ''
@@ -43,3 +40,12 @@ fields:
     max: 120
   label: Summary
   description: The summary that is displayed in a list of posts
+- name: image_url
+  type: file
+  config:
+    maxSize: 64
+  label: Post summary image
+  description: Image for post summary
+- type: list
+  name: tags
+  label: tags
