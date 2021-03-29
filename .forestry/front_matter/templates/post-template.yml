@@ -26,3 +26,14 @@ fields:
     maxSize: 64
   label: Post summary image
   description: Image for post summary
+- name: summary
+  type: textarea
+  default: ''
+  config:
+    required: true
+    wysiwyg: false
+    schema:
+      format: markdown
+    max: 120
+  label: Summary
+  description: The summary that is displayed in a list of posts
