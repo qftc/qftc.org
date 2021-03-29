@@ -519,6 +519,12 @@ h5 {
     font-size: em(50);
   }
 
+  h3 {
+    color: $light-yellow;
+    font-size: em(16);
+    padding-top: 16px;  
+  }
+
   &:before {
     background: url("/images/blue-dot-background.svg");
     bottom: 3px;
