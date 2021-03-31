@@ -7,7 +7,7 @@ sections:
 - type: directory
   path: content/en
   label: English
-  create: documents
+  create: all
   match: "{posts,campaigns}/*"
   templates:
   - action-template
