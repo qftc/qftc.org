@@ -12,4 +12,6 @@ title = "Hello this is a new post"
 +++
 ## Subtitle
 
-This is the content of the post.![](/uploads/dsc_0275.JPG)
+This is the content of the post.
+
+![](/images/clem-onojeghuo-doa2duxyzrm-unsplash.jpg)
