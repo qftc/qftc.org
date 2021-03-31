@@ -1,7 +1,7 @@
 <div class="row post-summary">
   <div class="col-4 show-sm hide">
     {{ with .Params.image_url }}
-      {{ $imageResource := resources.Get . }}
+      {{ $imageResource := ($.Site.GetPage "/uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
       {{ if $imageResource }}
         {{ $resized := $imageResource.Fill "436x340" }}
         <div class="post-summary-image">
