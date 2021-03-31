@@ -6,31 +6,49 @@ webhook_url:
 sections:
 - type: directory
   path: content
-  label: English
+  label: All Pages
   create: all
-  match: en/{posts,campaigns}/*
+  match: "**/*"
+- type: heading
+  label: English Content
+- type: directory
+  path: content/en
+  label: English Posts
+  create: documents
+  match: posts/*
+  templates:
+  - post-template
+- type: directory
+  path: content/en
+  label: English Campaigns
+  create: documents
+  match: campaigns/*
   templates:
   - action-template
+- type: heading
+  label: Chinese content
+- type: directory
+  path: content/zh
+  label: Chinese Posts
+  create: documents
+  match: posts/*
+  templates:
   - post-template
 - type: directory
   path: content/zh
-  label: Chinese
+  label: Chinese Campaigns
   create: documents
-  match: "{posts,campaigns}/*"
+  match: campaigns/*
   templates:
   - action-template
-  - post-template
+- type: heading
+  label: Resources
 - type: document
   path: data/task_forces.yml
   label: Task Forces
 - type: document
   path: data/other_groups.yml
   label: Other local groups
-- type: directory
-  path: content
-  label: All Pages
-  create: all
-  match: "**/*"
 upload_dir: content/uploads/images
 public_path: "/uploads/images"
 front_matter_path: ''
