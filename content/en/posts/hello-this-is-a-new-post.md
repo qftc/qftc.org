@@ -1,7 +1,6 @@
 +++
 author = "John Jannetty, web guy"
 date = 2021-03-10T05:00:00Z
-draft = true
 expire_date = "2021-05-13T04:00:00+00:00"
 image_url = "/uploads/tim-marshall-catzhuz7z8g-unsplash.jpg"
 layout = "single"
