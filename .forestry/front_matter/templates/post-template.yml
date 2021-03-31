@@ -51,4 +51,5 @@ fields:
   label: tags
 pages:
 - content/another-test.md
+- content/en/posts/test.md
 - content/en/test-post.md
