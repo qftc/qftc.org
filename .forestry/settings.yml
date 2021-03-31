@@ -15,14 +15,14 @@ sections:
   path: content/en/posts
   label: English Posts
   create: documents
-  match: "*"
+  match: "**/*"
   templates:
   - post-template
 - type: directory
   path: content/en/campaigns
   label: English Campaigns
   create: documents
-  match: "*"
+  match: "**/*"
   templates:
   - action-template
 - type: heading
@@ -31,14 +31,14 @@ sections:
   path: content/zh/posts
   label: Chinese Posts
   create: documents
-  match: "*"
+  match: "**/*"
   templates:
   - post-template
 - type: directory
   path: content/zh/campaigns
   label: Chinese Campaigns
   create: documents
-  match: "*"
+  match: "**/*"
   templates:
   - action-template
 - type: heading
