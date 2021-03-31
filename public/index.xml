@@ -1,61 +1,71 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on English Version</title>
-    <link>https://zen-mirzakhani-bf3dbc.netlify.app/</link>
-    <description>Recent content in Home on English Version</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://zen-mirzakhani-bf3dbc.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <title>Home on QFTC</title>
+    <link>https://suspicious-mccarthy-febe6d.netlify.app/</link>
+    <description>Recent content in Home on QFTC</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 10 Mar 2021 05:00:00 +0000</lastBuildDate><atom:link href="https://suspicious-mccarthy-febe6d.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello this is a new post</title>
+      <link>https://suspicious-mccarthy-febe6d.netlify.app/posts/hello-this-is-a-new-post/</link>
+      <pubDate>Wed, 10 Mar 2021 05:00:00 +0000</pubDate>
+      
+      <guid>https://suspicious-mccarthy-febe6d.netlify.app/posts/hello-this-is-a-new-post/</guid>
+      <description>This is the summary of the post. It tells you all about it so you know what to expect in the article</description>
+    </item>
+    
     <item>
       <title>About Us</title>
-      <link>https://zen-mirzakhani-bf3dbc.netlify.app/about_us/</link>
+      <link>https://suspicious-mccarthy-febe6d.netlify.app/about_us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-mirzakhani-bf3dbc.netlify.app/about_us/</guid>
+      <guid>https://suspicious-mccarthy-febe6d.netlify.app/about_us/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apply to a Task Force</title>
-      <link>https://zen-mirzakhani-bf3dbc.netlify.app/apply_to_task_force/</link>
+      <link>https://suspicious-mccarthy-febe6d.netlify.app/apply_to_task_force/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-mirzakhani-bf3dbc.netlify.app/apply_to_task_force/</guid>
+      <guid>https://suspicious-mccarthy-febe6d.netlify.app/apply_to_task_force/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Contact Us</title>
-      <link>https://zen-mirzakhani-bf3dbc.netlify.app/contact_us/</link>
+      <link>https://suspicious-mccarthy-febe6d.netlify.app/contact_us/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-mirzakhani-bf3dbc.netlify.app/contact_us/</guid>
+      <guid>https://suspicious-mccarthy-febe6d.netlify.app/contact_us/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Get Involved</title>
-      <link>https://zen-mirzakhani-bf3dbc.netlify.app/get_involved/</link>
+      <link>https://suspicious-mccarthy-febe6d.netlify.app/get_involved/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-mirzakhani-bf3dbc.netlify.app/get_involved/</guid>
+      <guid>https://suspicious-mccarthy-febe6d.netlify.app/get_involved/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Message Sent</title>
-      <link>https://zen-mirzakhani-bf3dbc.netlify.app/message_sent/</link>
+      <link>https://suspicious-mccarthy-febe6d.netlify.app/message_sent/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-mirzakhani-bf3dbc.netlify.app/message_sent/</guid>
+      <guid>https://suspicious-mccarthy-febe6d.netlify.app/message_sent/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thanks for Joining</title>
-      <link>https://zen-mirzakhani-bf3dbc.netlify.app/join_success/</link>
+      <link>https://suspicious-mccarthy-febe6d.netlify.app/join_success/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://zen-mirzakhani-bf3dbc.netlify.app/join_success/</guid>
+      <guid>https://suspicious-mccarthy-febe6d.netlify.app/join_success/</guid>
       <description></description>
     </item>
     

@@ -1,12 +1,14 @@
 <div class="row post-summary">
   <div class="col-4 show-sm hide">
     {{ with .Params.image_url }}
-      {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-      {{ $resized := $imageResource.Fill "436x340" }}
-      <div class="post-summary-image">
-        <img src="{{ "images/post-summary-image-dots.svg" | absURL }}" class="post-summary-image-dots" aria-hidden="true">
-        <div class="post-summary-image-frame" style="background-image: url({{ $resized.RelPermalink | absURL }});"></div>
-      </div>
+      {{ $imageResource := resources.Get . }}
+      {{ if $imageResource }}
+        {{ $resized := $imageResource.Fill "436x340" }}
+        <div class="post-summary-image">
+          <img src="{{ "images/post-summary-image-dots.svg" | absURL }}" class="post-summary-image-dots" aria-hidden="true">
+          <div class="post-summary-image-frame" style="background-image: url({{ $resized.RelPermalink | absURL }});"></div>
+        </div>
+      {{ end }}
     {{ end }}
   </div>
   <div class="col-md-8 col-12">

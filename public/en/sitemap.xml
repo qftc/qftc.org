@@ -3,83 +3,54 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/about_us/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/about_us/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zen-mirzakhani-bf3dbc.netlify.app/about_us/"
-                />
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/posts/hello-this-is-a-new-post/</loc>
+    <lastmod>2021-03-10T05:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/apply_to_task_force/</loc>
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/</loc>
+    <lastmod>2021-03-10T05:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/categories/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/categories/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zen-mirzakhani-bf3dbc.netlify.app/categories/"
-                />
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/posts/</loc>
+    <lastmod>2021-03-10T05:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/contact_us/</loc>
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/about_us/</loc>
   </url>
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/get_involved/</loc>
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/apply_to_task_force/</loc>
   </url>
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zen-mirzakhani-bf3dbc.netlify.app/"
-                />
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/categories/</loc>
   </url>
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/message_sent/</loc>
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/contact_us/</loc>
   </url>
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/archive/</loc>
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/get_involved/</loc>
   </url>
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh"
-                href="https://zen-mirzakhani-bf3dbc.netlify.app/zh/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://zen-mirzakhani-bf3dbc.netlify.app/tags/"
-                />
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/message_sent/</loc>
   </url>
   
   <url>
-    <loc>https://zen-mirzakhani-bf3dbc.netlify.app/join_success/</loc>
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/archive/</loc>
+  </url>
+  
+  <url>
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/tags/</loc>
+  </url>
+  
+  <url>
+    <loc>https://suspicious-mccarthy-febe6d.netlify.app/join_success/</loc>
   </url>
   
 </urlset>
