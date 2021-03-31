@@ -49,3 +49,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- content/en/test-post.md
