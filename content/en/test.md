@@ -6,7 +6,7 @@ layout = "single"
 subtitle = "This is a subtitle"
 summary = "this is what the post is about"
 tags = []
-title = "Test"
+title = "Test Post"
 
 +++
 hello!
