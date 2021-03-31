@@ -12,33 +12,33 @@ sections:
 - type: heading
   label: English Content
 - type: directory
-  path: content/en
+  path: content/en/posts
   label: English Posts
   create: documents
-  match: posts/*
+  match: "*"
   templates:
   - post-template
 - type: directory
-  path: content/en
+  path: content/en/campaigns
   label: English Campaigns
   create: documents
-  match: campaigns/*
+  match: "*"
   templates:
   - action-template
 - type: heading
   label: Chinese content
 - type: directory
-  path: content/zh
+  path: content/zh/posts
   label: Chinese Posts
   create: documents
-  match: posts/*
+  match: "*"
   templates:
   - post-template
 - type: directory
-  path: content/zh
+  path: content/zh/campaigns
   label: Chinese Campaigns
   create: documents
-  match: campaigns/*
+  match: "*"
   templates:
   - action-template
 - type: heading
