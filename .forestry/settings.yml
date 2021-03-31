@@ -49,7 +49,7 @@ sections:
 - type: document
   path: data/other_groups.yml
   label: Other local groups
-upload_dir: content/uploads/images
+upload_dir: content/en/uploads/images
 public_path: "/uploads/images"
 front_matter_path: ''
 use_front_matter_path: false
