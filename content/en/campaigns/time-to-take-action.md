@@ -23,4 +23,4 @@ This is the content
 
 ###### _Heading 6_
 
-/uploads/images/clem-onojeghuo-DoA2duXyzRM-unsplash.jpg
+![](/uploads/images/element5-digital-ls8kc0p9haa-unsplash.jpg)
