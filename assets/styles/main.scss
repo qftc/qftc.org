@@ -49,8 +49,21 @@ article {
     line-height: 1;
   }
 
+  .content h1 {
+    font-size: em(40);
+    margin: 10px 0 20px;
+    padding: 0;
+  }
+
   h2 {
     line-height: 1.5;
+  }
+
+  .content h2 {
+    font-size: em(34);
+    font-weight: bold;
+    margin: 10px 0 20px;
+    padding: 0;
   }
 
   h3 {
@@ -539,6 +552,7 @@ h5 {
     left: 0px;
     position: absolute;
     right: 0px;
+    z-index: 9999;
   }
 
   @include media-breakpoint-up(sm) {
