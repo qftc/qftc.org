@@ -10,7 +10,7 @@
     <div class="article-header">
       <h1>{{ .Title }}</h1>
       <h2>{{ .Params.subtitle }}</h2>
-      <h3>{{ .Params.author }} | {{ .Date.Format "January 1" }}</h3>
+      <h3>{{ if .Params.author }}{{ .Params.author }} |{{ end }} {{ .Date.Format "January 2, 2006" }}</h3>
     </div>
   </section>
   <section class="section-light">
