@@ -10,3 +10,15 @@ title = "Time to take action!"
 
 +++
 This is the content
+
+# Heading 1
+
+## Heading 2
+
+### Heading 3
+
+#### Heading 4
+
+##### Heading 5
+
+###### _Heading 6_
