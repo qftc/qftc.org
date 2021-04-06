@@ -16,8 +16,8 @@
     <p>{{ .Params.summary }}</p>
     <a href="{{.Permalink}}" class="button-secondary">
       <div class="text">
-      {{ if eq .Type "campaigns" }} Take Action {{ end }}
-      {{ if eq .Type "posts" }} Read More {{ end }}
+      {{ if eq .Type "campaigns" }} {{ $.Site.Params.campaigns_cta }} {{ end }}
+      {{ if eq .Type "posts" }} {{ $.Site.Params.posts_cta }} {{ end }}
       </div>
     </a>
   </div>

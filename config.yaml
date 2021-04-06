@@ -35,6 +35,7 @@ languages:
     params:
       languageName: English
       campaigns_cta: Take Action
+      posts_cta: Read More
   zh:
     contentDir: content/zh
     languagedirection: rtl
@@ -65,3 +66,4 @@ languages:
     params:
       languageName: 中国人
       campaigns_cta: Take Action
+      posts_cta: Read More
