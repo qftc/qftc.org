@@ -4,6 +4,10 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
+- type: document
+  path: config.yaml
+  label: Site Config
+  match: "**/*"
 - type: directory
   path: content
   label: All Pages
