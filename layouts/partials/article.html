@@ -1,0 +1,25 @@
+{{ $imageResource := ($.Sites.First.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" .Params.image_url ) }}
+<article>
+  {{ if $imageResource }}
+    {{ $resized := $imageResource.Fill "2880x712" }}
+    <section class="hero" style="background-image: url({{ $resized.RelPermalink | absURL }});">
+      <div class="hero-overlay"></div>
+  {{ else }}
+    <section class="hero">
+  {{ end }}
+    <div class="article-header">
+      <h1>{{ .Title }}</h1>
+      <h2>{{ .Params.subtitle }}</h2>
+      <h3>{{ .Params.author }} | {{ .Date.Format "January 1" }}</h3>
+    </div>
+  </section>
+  <section class="section-light">
+    <div class="container">
+      <div class="row justify-content-center">
+        <div class="content col-lg-8 col-md-10 col-12">
+          {{ .Content }}
+        </div>
+      </div>
+    </div>
+  </section>
+</article>
