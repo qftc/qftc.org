@@ -4,10 +4,6 @@ auto_deploy: false
 admin_path: 
 webhook_url: 
 sections:
-- type: document
-  path: config.yaml
-  label: Site Config
-  match: "**/*"
 - type: directory
   path: content
   label: All Pages
@@ -53,6 +49,9 @@ sections:
 - type: document
   path: data/other_groups.yml
   label: Other local groups
+- type: document
+  path: config.yaml
+  label: Site Configuration
 upload_dir: content/en/uploads/images
 public_path: "/uploads/images"
 front_matter_path: ''
