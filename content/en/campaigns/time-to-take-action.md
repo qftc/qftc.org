@@ -22,3 +22,5 @@ This is the content
 ##### Heading 5
 
 ###### _Heading 6_
+
+/uploads/images/clem-onojeghuo-DoA2duXyzRM-unsplash.jpg
