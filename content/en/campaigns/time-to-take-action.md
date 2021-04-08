@@ -26,3 +26,5 @@ This is the content
 {{< image width="50%" position="center" alt_text="This is the alternative text" image_url="/uploads/images/micheile-henderson-03nmnuqhpde-unsplash.jpg" >}}
 
 :)
+
+:)
