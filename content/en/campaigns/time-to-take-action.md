@@ -23,4 +23,5 @@ This is the content
 
 ###### _Heading 6_
 
-![](/uploads/images/element5-digital-ls8kc0p9haa-unsplash.jpg)
+
+{{< image image_url="/uploads/images/clem-onojeghuo-DoA2duXyzRM-unsplash.jpg" width="50%" position="right" alt_text="man on fire" >}}
