@@ -23,5 +23,4 @@ This is the content
 
 ###### _Heading 6_
 
-
-{{< image image_url="/uploads/images/clem-onojeghuo-DoA2duXyzRM-unsplash.jpg" width="50%" position="right" alt_text="man on fire" >}}
+{{< image image_url="/uploads/images/image2.jpeg" width="100%" position="left" alt_text="PUT ALTERNATIVE TEXT HERE" >}}
