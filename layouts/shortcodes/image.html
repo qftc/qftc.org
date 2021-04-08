@@ -1,3 +1,6 @@
+{{ $imageResource := (.Page.Sites.First.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" (.Get "image_url") ) }}
+{{ $resized := $imageResource.Resize "2880x" }}
+
 <div class="article-image-wrapper" style="text-align: {{ .Get "position" }}">
-  <img src="{{ .Get "image_url" }}" alt="{{ .Get "alt_text" }}" style="width: {{ .Get "width" }}">  
+  <img src="{{ $resized.RelPermalink | absURL }}" alt="{{ .Get "alt_text" }}" style="width: {{ .Get "width" }}">  
 </div>
