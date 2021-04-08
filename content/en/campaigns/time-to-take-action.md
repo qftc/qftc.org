@@ -23,4 +23,4 @@ This is the content
 
 ###### _Heading 6_
 
-{{< image image_url="/uploads/images/image2.jpeg" width="100%" position="left" alt_text="PUT ALTERNATIVE TEXT HERE" >}}
+{{< image width="10%" position="center" alt_text="This is the alternative text" image_url="/uploads/images/image2.jpeg" >}}
