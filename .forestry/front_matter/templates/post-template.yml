@@ -47,13 +47,21 @@ fields:
     maxSize: 64
   label: Post summary image
   description: Image for post summary
-- type: list
-  name: tags
-  label: Tags
+- name: tags
+  type: select
+  default: ''
   config:
-    use_select: true
+    required: false
+    options:
+    - education
+    - environmental justice
+    - policing accountability
     source:
-      type: pages
+      type: simple
+      section: 
+      file: 
+      path: 
+  label: Tags
 pages:
 - content/en/posts/test.md
 - content/zh/posts/test.md
