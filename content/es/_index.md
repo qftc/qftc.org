@@ -19,5 +19,6 @@ who_we_are:
     down structures of oppression and discrimination.
 latest:
   headline: Latest with QFTC
+draft: true
 
 ---
