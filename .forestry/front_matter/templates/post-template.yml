@@ -19,6 +19,7 @@ fields:
     required: false
   label: Author
   description: Name of the author of the post
+  default: QFTC Staffer
 - type: text
   name: subtitle
   label: subtitle
