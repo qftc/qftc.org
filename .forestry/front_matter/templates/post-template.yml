@@ -4,12 +4,12 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
   config:
     required: true
 - type: datetime
   name: date
-  label: date
+  label: Date
   default: now
   config:
     required: true
@@ -22,12 +22,12 @@ fields:
   default: QFTC Staffer
 - type: text
   name: subtitle
-  label: subtitle
+  label: Subtitle
   config:
     required: true
 - type: text
   name: layout
-  label: layout
+  label: Layout
   default: single
   hidden: true
 - name: summary
@@ -49,7 +49,11 @@ fields:
   description: Image for post summary
 - type: list
   name: tags
-  label: tags
+  label: Tags
+  config:
+    use_select: true
+    source:
+      type: pages
 pages:
 - content/en/posts/test.md
 - content/zh/posts/test.md
