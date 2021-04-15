@@ -48,19 +48,30 @@ fields:
   label: Post summary image
   description: Image for post summary
 - name: tags
-  type: select
-  default: ''
+  type: list
   config:
-    required: false
+    use_select: true
+    min: 
+    max: 
+    source:
+      type: simple
     options:
     - education
     - environmental justice
     - policing accountability
-    source:
-      type: simple
-      section: 
-      file: 
-      path: 
+    - arts and culture
+    - healthcare justice
+    - homelessness
+    - housing
+    - immigration
+    - article
+    - protest
+    - take action
+    - resources
+    - blog
+    - petition
+    - survey
+    - news
   label: Tags
 pages:
 - content/en/posts/test.md
