@@ -50,6 +50,5 @@ fields:
   name: tags
   label: tags
 pages:
-- content/another-test.md
 - content/en/posts/test.md
 - content/zh/posts/test.md

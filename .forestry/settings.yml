@@ -26,7 +26,7 @@ sections:
   templates:
   - action-template
 - type: heading
-  label: Chinese content
+  label: Chinese content (Simplified)
 - type: directory
   path: content/zh/posts
   label: Chinese Posts
@@ -38,6 +38,38 @@ sections:
   path: content/zh/campaigns
   label: Chinese Campaigns
   create: documents
+  match: "**/*"
+  templates:
+  - action-template
+- type: heading
+  label: Chinese Content (Traditional)
+- type: directory
+  path: content/zh-TW/posts
+  label: Chinese Posts
+  create: all
+  match: "**/*"
+  templates:
+  - post-template
+- type: directory
+  path: content/zh-TW/campaigns
+  label: Chinese Campaigns
+  create: all
+  match: "**/*"
+  templates:
+  - action-template
+- type: heading
+  label: Spanish Content
+- type: directory
+  path: content/es/posts
+  label: Spanish Posts
+  create: all
+  match: "**/*"
+  templates:
+  - post-template
+- type: directory
+  path: content/es/campaigns
+  label: Spanish Campaigns
+  create: all
   match: "**/*"
   templates:
   - action-template
