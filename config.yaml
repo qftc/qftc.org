@@ -64,6 +64,68 @@ languages:
           url: /contact_us/
           weight: 5
     params:
-      languageName: 中国人
+      languageName: 中文
+      campaigns_cta: Take Action
+      posts_cta: Read More
+  zh-TW:
+    contentDir: content/zh-TW
+    languagedirection: rtl
+    title: QFTC
+    weight: 3
+    menu:
+      main:
+        - name: Home
+          identifier: home
+          url: /
+          weight: 1
+        - name: About Us
+          identifier: about_us
+          url: /about_us/
+          weight: 2
+        - name: Get Involved
+          identifier: get_involved
+          url: /get_involved/
+          weight: 3
+        - name: QFTC Archive
+          identifier: archive
+          url: /archive/
+          weight: 4
+        - name: Contact Us
+          identifier: contact_us
+          url: /contact_us/
+          weight: 5
+    params:
+      languageName: 中文
+      campaigns_cta: Take Action
+      posts_cta: Read More
+  es:
+    contentDir: content/es
+    languagedirection: rtl
+    title: QFTC
+    weight: 4
+    menu:
+      main:
+        - name: Home
+          identifier: home
+          url: /
+          weight: 1
+        - name: About Us
+          identifier: about_us
+          url: /about_us/
+          weight: 2
+        - name: Get Involved
+          identifier: get_involved
+          url: /get_involved/
+          weight: 3
+        - name: QFTC Archive
+          identifier: archive
+          url: /archive/
+          weight: 4
+        - name: Contact Us
+          identifier: contact_us
+          url: /contact_us/
+          weight: 5
+    params:
+      languageName: español
       campaigns_cta: Take Action
       posts_cta: Read More
