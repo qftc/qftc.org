@@ -5,7 +5,7 @@ image_url = "/uploads/images/aj-colores-fyIPhvavIBs-unsplash.jpg"
 layout = "single"
 subtitle = "This is a subtitle"
 summary = "This is what the post is about"
-tags = []
+tags = ["protest", "housing", "education"]
 title = "Test"
 
 +++
