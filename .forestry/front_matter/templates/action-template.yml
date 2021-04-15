@@ -4,12 +4,12 @@ hide_body: false
 fields:
 - type: text
   name: title
-  label: title
+  label: Title
   config:
     required: true
 - type: datetime
   name: date
-  label: date
+  label: Date
   default: now
 - name: expire_date
   type: datetime
@@ -26,9 +26,10 @@ fields:
     required: false
   label: Author
   description: Author of the campaign
+  default: QFTC Staffer
 - type: text
   name: subtitle
-  label: subtitle
+  label: Subtitle
   config:
     required: true
 - name: summary
@@ -50,7 +51,11 @@ fields:
   description: Image for the action summary
 - type: list
   name: tags
-  label: tags
+  label: Tags
+  config:
+    use_select: true
+    source:
+      type: pages
 - name: layout
   type: text
   config:
