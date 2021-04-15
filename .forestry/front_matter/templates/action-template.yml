@@ -49,13 +49,32 @@ fields:
     maxSize: 10
   label: Campaign summary image
   description: Image for the action summary
-- type: list
-  name: tags
-  label: Tags
+- name: tags
+  type: list
   config:
     use_select: true
+    min: 
+    max: 
     source:
-      type: pages
+      type: simple
+    options:
+    - education
+    - environmental justice
+    - policing accountability
+    - arts and culture
+    - healthcare justice
+    - homelessness
+    - housing
+    - immigration
+    - article
+    - protest
+    - take action
+    - resources
+    - blog
+    - petition
+    - survey
+    - news
+  label: Tags
 - name: layout
   type: text
   config:
