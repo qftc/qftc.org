@@ -29,14 +29,14 @@ sections:
   label: Chinese content (Simplified)
 - type: directory
   path: content/zh/posts
-  label: Chinese Posts
+  label: Simplified Chinese Posts
   create: documents
   match: "**/*"
   templates:
   - post-template
 - type: directory
   path: content/zh/campaigns
-  label: Chinese Campaigns
+  label: Simplified Chinese Campaigns
   create: documents
   match: "**/*"
   templates:
@@ -45,14 +45,14 @@ sections:
   label: Chinese Content (Traditional)
 - type: directory
   path: content/zh-TW/posts
-  label: Chinese Posts
+  label: Traditional Chinese Posts
   create: all
   match: "**/*"
   templates:
   - post-template
 - type: directory
   path: content/zh-TW/campaigns
-  label: Chinese Campaigns
+  label: Traditional Chinese Campaigns
   create: all
   match: "**/*"
   templates:
