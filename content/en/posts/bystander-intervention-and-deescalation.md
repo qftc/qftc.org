@@ -1,7 +1,6 @@
 +++
 author = "Denise Lin, QFTC organizer"
 date = 2021-03-20T13:00:00Z
-draft = true
 image_url = "/uploads/images/micheile-henderson-03nmnuqhpde-unsplash.jpg"
 layout = "single"
 subtitle = "Keeping people safe in public spaces"
@@ -78,7 +77,7 @@ Remember, you don't HAVE to do anything. It is better to do nothing than to wors
 
 \- You gotta believe you can do it before you can do it! :)
 
-Some suggested grounding techniques (look up others, find what works for you):
+* Some suggested grounding techniques (look up others, find what works for you):
 
 \- Deep breath
 
