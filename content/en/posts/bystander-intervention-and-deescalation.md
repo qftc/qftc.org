@@ -76,7 +76,7 @@ Remember, you don't HAVE to do anything. It is better to do nothing than to wors
 
 \- Hold on to your goal - which should center the safety of everyone involved.
 
-\- You gotta believe you can do it before you can do it ![🙂](https://lh3.googleusercontent.com/_emqLSAN0vvMYS18G-PHnUkvKcchAnsnUR0evyoPDPPtIUWwrf0Yj0hfOUz-rN6XoV1jCIYT3hlIGEQ8LCjjwUAgIaFuTOXkgy6vshhvLvCpF_c3oRV7HdND52Rib7OPKyrkvw7- =16x16)
+\- You gotta believe you can do it before you can do it! :)
 
 Some suggested grounding techniques (look up others, find what works for you):
 
