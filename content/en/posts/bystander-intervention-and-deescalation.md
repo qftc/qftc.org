@@ -1,10 +1,12 @@
 +++
+author = "Denise Lin, QFTC organizer"
 date = 2021-03-20T13:00:00Z
 draft = true
 image_url = "/uploads/images/aj-colores-fyIPhvavIBs-unsplash.jpg"
 layout = "single"
-subtitle = ""
-tags = ["article", "info", "blog"]
+subtitle = "Keeping people safe in public spaces"
+summary = "When injustice is happening, knowing these principles can help you intervene safely and nonviolently."
+tags = ["resources", "article", "info", "blog"]
 title = "Bystander Intervention and Deescalation"
 
 +++
