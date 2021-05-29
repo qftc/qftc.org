@@ -2,7 +2,7 @@
 author = "Denise Lin, QFTC organizer"
 date = 2021-03-20T13:00:00Z
 draft = true
-image_url = "/uploads/images/aj-colores-fyIPhvavIBs-unsplash.jpg"
+image_url = "/uploads/images/pexels-atc-comm-photo-305530.jpg"
 layout = "single"
 subtitle = "Finding your niche in the social justice ecosystem"
 summary = "A social justice movement is composed of many people with a diversity of strengths. What is your role in the movement?"
