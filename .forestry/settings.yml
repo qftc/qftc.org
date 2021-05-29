@@ -80,7 +80,7 @@ sections:
   label: Task Forces
 - type: document
   path: data/other_groups.yml
-  label: Other local groups
+  label: Allies
 - type: document
   path: config.yaml
   label: Site Configuration
