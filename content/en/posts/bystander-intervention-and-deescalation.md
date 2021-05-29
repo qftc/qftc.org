@@ -2,7 +2,7 @@
 author = "Denise Lin, QFTC organizer"
 date = 2021-03-20T13:00:00Z
 draft = true
-image_url = "/uploads/images/aj-colores-fyIPhvavIBs-unsplash.jpg"
+image_url = "/uploads/images/micheile-henderson-03nmnuqhpde-unsplash.jpg"
 layout = "single"
 subtitle = "Keeping people safe in public spaces"
 summary = "When injustice is happening, knowing these principles can help you intervene safely and nonviolently."

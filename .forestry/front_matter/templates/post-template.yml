@@ -45,8 +45,9 @@ fields:
   type: file
   config:
     maxSize: 64
-  label: Post summary image
-  description: Image for post summary
+  label: Thumbnail image
+  description: Image that appears next to the title of the post on other pages, and
+    as the background of the post header
 - name: tags
   type: list
   config:
