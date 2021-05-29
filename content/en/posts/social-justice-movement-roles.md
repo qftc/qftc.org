@@ -5,7 +5,7 @@ draft = true
 image_url = "/uploads/images/pexels-atc-comm-photo-305530.jpg"
 layout = "single"
 subtitle = "Finding your niche in the social justice ecosystem"
-summary = "A social justice movement is composed of many people with a diversity of strengths. What is your role in the movement?"
+summary = "Social justice movements are composed of many people with a diversity of strengths. What is your role in the movement?"
 tags = ["resources", "blog", "post", "article"]
 title = "Social Justice Movement Roles"
 
