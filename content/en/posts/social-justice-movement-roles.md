@@ -1,7 +1,6 @@
 +++
 author = "Denise Lin, QFTC organizer"
 date = 2021-03-20T13:00:00Z
-draft = true
 image_url = "/uploads/images/pexels-atc-comm-photo-305530.jpg"
 layout = "single"
 subtitle = "Finding your niche in the social justice ecosystem"
