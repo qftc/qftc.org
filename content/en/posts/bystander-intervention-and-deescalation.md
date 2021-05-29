@@ -12,7 +12,7 @@ title = "Bystander Intervention and Deescalation"
 +++
 Bystander intervention and deescalation is a way of using nonviolent methods to defuse harmful situations and ensure the safety of everyone involved. This is good general knowledge to have on hand; after all, anyone could potentially find themselves in the role of a bystander in an escalating situation just in day-to-day life. The most important thing is to be prepared, so that you don't freeze up or do something that makes the situation worse!
 
-The information in this post comes from trainings by three organizations, each having somewhat different areas of focus (see bottom of page). I highly recommend attending their trainings if you have the opportunity! A big benefit of attending an actual "in-person" (nowadays virtual) training is being able to work through example scenarios, either by role-playing or by thinking through the situations they present and rehearsing your response. Plus, the trainers can explain all this stuff a lot better than I can write it!
+The information in this post comes from trainings by three organizations, each having somewhat different areas of focus (see bottom of page). I highly recommend attending their trainings if you have the opportunity! A big benefit of attending an actual "in-person" - nowadays virtual - training is being able to work through example scenarios, either by role-playing or by thinking through the situations they present and rehearsing your response. Plus, the trainers can explain all this stuff a lot better than I can write it!
 
 ***
 
