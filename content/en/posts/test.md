@@ -1,7 +1,6 @@
 +++
 author = "Johnny, the web guy"
 date = 2021-03-31T02:02:56Z
-draft = true
 image_url = "/uploads/images/aj-colores-fyIPhvavIBs-unsplash.jpg"
 layout = "single"
 subtitle = "This is a subtitle"
