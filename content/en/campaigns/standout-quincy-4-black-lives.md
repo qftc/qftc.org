@@ -5,8 +5,8 @@ draft = true
 expire_date = 2026-01-01T04:59:00Z
 image_url = "/uploads/images/121166365_10220065437559528_5673056820081823292_n.jpg"
 layout = "single"
-subtitle = "Weekly stand-out on Thursdays at 3:30-5:30pm on the Portico of the Church of The Presidents (UFPC) in Quincy Center"
-summary = "Weekly stand-out on Thursdays at 3:30-5:30pm on the Portico of the Church of The Presidents (UFPC) in Quincy Center"
+subtitle = "Weekly stand-out on Thursdays at 3:30-5:30pm in front of the Church of The Presidents (UFPC) in Quincy Center"
+summary = "Weekly stand-out on Thursdays at 3:30-5:30pm in front of the Church of The Presidents (UFPC) in Quincy Center"
 tags = ["take action", "protest"]
 title = "StandOut Quincy 4 Black Lives"
 
