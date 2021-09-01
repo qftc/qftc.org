@@ -1,6 +1,5 @@
 baseURL: "/"
 defaultContentLanguage: en
-title: "Quincy For Transformative Change"
 params:
   defaultLang: en
   mainSections: 
@@ -9,7 +8,7 @@ params:
 languages:
   en:
     contentDir: content/en
-    title: QFTC
+    title: "Quincy For Transformative Change"
     weight: 1
     menu:
       main:
