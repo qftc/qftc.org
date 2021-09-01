@@ -75,5 +75,6 @@ fields:
     - news
   label: Tags
 pages:
+- content/en/posts/quincy-school-committee-candidate-forum.md
 - content/en/posts/test.md
 - content/zh/posts/test.md
