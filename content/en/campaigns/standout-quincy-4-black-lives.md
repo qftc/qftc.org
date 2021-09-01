@@ -1,7 +1,6 @@
 +++
 author = "QFTC Organizer"
 date = 2021-09-01T19:11:12Z
-draft = true
 expire_date = 2026-01-01T04:59:00Z
 image_url = "/uploads/images/121166365_10220065437559528_5673056820081823292_n.jpg"
 layout = "single"
