@@ -82,3 +82,5 @@ fields:
   label: Layout
   hidden: true
   default: single
+pages:
+- content/en/campaigns/standout-quincy-4-black-lives.md
