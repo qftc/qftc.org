@@ -1,5 +1,6 @@
 baseURL: "/"
 defaultContentLanguage: en
+title: "Quincy For Transformative Change"
 params:
   defaultLang: en
   mainSections: 

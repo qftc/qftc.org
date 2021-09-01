@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ .Page.Language.Lang}}">
 <head>
-  <title>{{.Title}}</title>
+	<title>{{.Title}} | {{.Site.Title}}</title>
   {{ $options := (dict "outputStyle" "compressed")}}
   {{ $sass := resources.Get "styles/main.scss" }}
   {{ $style := $sass | resources.ToCSS $options }}
@@ -21,7 +21,7 @@
       <div class="close-nav hide-md-up" aria-hidden="true">
         <img src="{{ "images/close.svg" | absURL }}" aria-hidden="true">
       </div>
-      
+
       {{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
       {{ range $.Site.Menus.main }}
         {{ if and (not $articles) (eq .Identifier "archive")}}
@@ -113,7 +113,7 @@
       {{ if eq .Title "Get Involved" }}
         smoothScroll();
       {{ end }}
-      
+
       {{ if eq .Title "Home" }}
         navFill();
       {{ end }}
