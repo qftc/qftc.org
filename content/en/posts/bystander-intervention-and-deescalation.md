@@ -1,5 +1,5 @@
 +++
-author = "Denise Lin, QFTC organizer"
+author = "QFTC organizer"
 date = 2021-03-20T13:00:00Z
 image_url = "/uploads/images/micheile-henderson-03nmnuqhpde-unsplash.jpg"
 layout = "single"
