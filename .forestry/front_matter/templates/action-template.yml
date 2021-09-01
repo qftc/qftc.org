@@ -83,4 +83,5 @@ fields:
   hidden: true
   default: single
 pages:
+- content/en/campaigns/qftc-germantown-island-clean-up.md
 - content/en/campaigns/standout-quincy-4-black-lives.md
