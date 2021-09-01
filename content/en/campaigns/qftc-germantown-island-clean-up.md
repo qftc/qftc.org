@@ -1,6 +1,6 @@
 +++
 author = "QFTC Organizer"
-date = 2021-09-01T19:28:19Z
+date = 2021-09-01T19:00:19Z
 draft = true
 expire_date = 2024-12-31T05:00:00Z
 image_url = "/uploads/images/qftc-island.png"
