@@ -12,13 +12,13 @@ title = "School Committee Preliminary Election Guide"
 +++
 The School Committee has 3 seats up for election with 7 candidates. Because the ballot cannot have more than 6 candidates for those 3 seats, the Preliminary City Election will narrow the field down, and one of the candidates will be eliminated from the November ballot. If there is a candidate you want to see on the November ballot, it’s important to vote in the Preliminary City Election on or before 9/14.
 
-* Douglas Gutro (incumbent)
-* Emily Lebo (incumbent)
+* [Douglas Gutro](https://www.facebook.com/Gutro4Quincy/) (incumbent)
+* [Emily Lebo](https://www.facebook.com/EmilyLeboForQuincySchoolCommittee/) (incumbent)
 * [Courtney Perdios](https://courtneyperdios.com) (incumbent, appointed)
+* [Liz Speakman](https://votespeakman.com)
 * Tina Cahill
 * Ellen Patterson O’Donnell
 * Liberty Schaaf
-* [Liz Speakman](https://votespeakman.com)
 
 The QFTC Education Task Force and QFTC organizers held a [virtual candidate forum](https://qftc.org/posts/quincy-school-committee-candidate-forum/) in August with Emily Lebo, Doug Gutro, Courtney Perdios, Liz Speakman, Liberty Scaaf, and Tina Cahill.
 
