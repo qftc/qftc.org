@@ -40,10 +40,6 @@ _Three ways to register:_
 * In person at Clerk’s Office, City Hall
 * By telephone: Call Elections Office and they will send an application (617) 376-1144
 
-The deadline to register to vote in the preliminary is 8 p.m. on Aug. 25. The last day to apply for a mail-in ballot ahead of the preliminary is Sept. 8 and the deadline to request an absentee ballot is noon on Sept. 13.
-
-The cut off to register to vote ahead of the final election is 8 p.m. on Oct. 13. The deadline to request to vote by mail in the final election is Oct. 27 and the deadline to request an absentee ballot is noon on Nov. 1.
-
 **Polling Places**
 
 * [**List of polling places by Ward**](https://www.quincyma.gov/govt/depts/city_clerk/election/polling_places.htm)
@@ -55,9 +51,10 @@ The cut off to register to vote ahead of the final election is 8 p.m. on Oct. 13
   * [Apply online](https://www.quincyma.gov/govt/depts/city_clerk/election/absentee_ballot_applications.htm)
   * Call City Hall’s Elections office (617-376-1144) and ask them to send you an application
   * Visit the City Clerk at City Hall and apply in person
+  * The last day to apply for a mail-in ballot ahead of the preliminary is Sept. 8.
 * Mail in ballots must be received by the City Clerk no later than 8 PM on election days. They can be dropped off at the City Clerk’s office in person if you are worried about missing the mail-in deadline.
 
 **Absentee Voting**
 
 * You can vote in person at city hall up until noon the day before each election.
-* The window of dates for this option are not yet set by the state.
+* The deadline to request an absentee ballot for the preliminary is noon on Sept. 13.
