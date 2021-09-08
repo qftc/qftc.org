@@ -20,6 +20,8 @@ The School Committee has 3 seats up for election with 7 candidates. Because the 
 * Liberty Schaaf
 * [Liz Speakman](https://votespeakman.com)
 
+The QFTC Education Task Force and QFTC organizers held a [virtual candidate forum](https://qftc.org/posts/quincy-school-committee-candidate-forum/) in August with Emily Lebo, Doug Gutro, Courtney Perdios, Liz Speakman, Liberty Scaaf, and Tina Cahill.
+
 **Strategic Voting**
 
 On the Preliminary City Election ballot, you will be able to choose up to two candidates per seat. This means that you will be able to choose up to 6 names for the school committee a. However, you do not need to use all your votes!
