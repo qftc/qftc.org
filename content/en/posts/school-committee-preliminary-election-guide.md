@@ -10,6 +10,8 @@ tags = ["take action", "resources", "article"]
 title = "School Committee Preliminary Election Guide"
 
 +++
+**School Committee Preliminary Election**
+
 The School Committee has 3 seats up for election with 7 candidates. Because the ballot cannot have more than 6 candidates for those 3 seats, the Preliminary City Election will narrow the field to six, and 2 of the 7 candidates will be eliminated from the November ballot. If there is a candidate you want to see on the November ballot, it’s important to vote in the Preliminary City Election on or before 9/14.
 
 * Douglas Gutro (incumbent)
