@@ -15,10 +15,10 @@ The School Committee has 3 seats up for election with 7 candidates. Because the 
 * [Douglas Gutro](https://www.facebook.com/Gutro4Quincy/) (incumbent)
 * [Emily Lebo](https://www.facebook.com/EmilyLeboForQuincySchoolCommittee/) (incumbent)
 * [Courtney Perdios](https://courtneyperdios.com) (incumbent, appointed)
-* [Liz Speakman](https://votespeakman.com)
 * Tina Cahill
 * Ellen Patterson O’Donnell
 * Liberty Schaaf
+* [Liz Speakman](https://votespeakman.com)
 
 The QFTC Education Task Force and QFTC organizers held a [virtual candidate forum](https://qftc.org/posts/quincy-school-committee-candidate-forum/) in August with Emily Lebo, Doug Gutro, Courtney Perdios, Liz Speakman, Liberty Scaaf, and Tina Cahill.
 
