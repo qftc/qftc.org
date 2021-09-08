@@ -1,7 +1,6 @@
 +++
 author = "QFTC Organizer"
 date = 2021-09-08T04:00:00Z
-draft = true
 image_url = "/uploads/images/element5-digital-ls8kc0p9haa-unsplash.jpg"
 layout = "single"
 subtitle = "A guide to voting in the school committee preliminary election"
