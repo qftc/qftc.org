@@ -75,6 +75,7 @@ fields:
     - news
   label: Tags
 pages:
+- content/en/posts/qftc-statement-on-candidate-endorsement.md
 - content/en/posts/quincy-school-committee-candidate-forum.md
 - content/en/posts/school-committee-preliminary-election-guide.md
 - content/en/posts/test.md
