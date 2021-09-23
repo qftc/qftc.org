@@ -1,7 +1,6 @@
 +++
 author = "QFTC Organizer"
 date = 2021-09-23T23:34:18Z
-draft = true
 image_url = "/uploads/images/pexels-photo-8846632.jpeg"
 layout = "single"
 subtitle = "\"Why is QFTC not endorsing candidates for the 2021 elections?\""
