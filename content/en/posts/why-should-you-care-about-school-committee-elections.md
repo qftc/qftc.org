@@ -1,7 +1,6 @@
 +++
 author = "QFTC Organizer"
 date = 2021-10-04T16:00:52Z
-draft = true
 image_url = "/uploads/images/pexels-photo-8850721.jpeg"
 layout = "single"
 subtitle = "Whether or not you have children in the Quincy Public School system, the school committee can still affect you as well as the rest of Quincy."
