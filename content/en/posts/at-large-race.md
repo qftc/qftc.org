@@ -7,7 +7,7 @@ layout = "single"
 subtitle = "Incumbents Noel DiBona, Nina Liang, and Anne Mahoney vs challenger Bill Burke"
 summary = "Incumbents Noel DiBona, Nina Liang, and Anne Mahoney vs challenger Bill Burke"
 tags = []
-title = "City Council At-Large Race"
+title = "Quincy City Council At-Large Race"
 
 +++
 # **Noel DiBona (At-Large incumbent)**
