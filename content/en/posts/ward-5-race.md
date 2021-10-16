@@ -7,7 +7,7 @@ layout = "single"
 subtitle = "Chuck Phelan (incumbent) vs Steve Christo (challenger)"
 summary = "Chuck Phelan (incumbent) vs Steve Christo (challenger)"
 tags = ["blog", "resources", "article"]
-title = "Ward 5 race"
+title = "Quincy City Council Ward 5 Race"
 
 +++
 # **Chuck Phelan (Ward 5 incumbent)**
