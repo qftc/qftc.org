@@ -59,6 +59,8 @@ Website: [http://www.electdavemccarthy.org/](http://www.electdavemccarthy.org/ "
 
 ***
 
+***
+
 # **Joe Murphy (Ward 1 challenger)**
 
 Joe Murphy previously ran for Ward 1 city councillor in 2017 and 2019. He lives in Hough’s Neck, and currently works at MIT.
