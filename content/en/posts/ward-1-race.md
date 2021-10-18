@@ -1,7 +1,6 @@
 +++
-author = "QFTC Staffer"
+author = "QFTC Organizer"
 date = 2021-10-16T01:57:49Z
-draft = true
 image_url = "/uploads/images/pexels-photo-1550337.jpeg"
 layout = "single"
 subtitle = "Dave McCarthy (incumbent) vs Joe Murphy (challenger)"
