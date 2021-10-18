@@ -1,7 +1,6 @@
 +++
-author = "QFTC Staffer"
+author = "QFTC Organizer"
 date = 2021-10-16T02:17:55Z
-draft = true
 image_url = "/uploads/images/pexels-photo-1550337.jpeg"
 layout = "single"
 subtitle = "Incumbents Noel DiBona, Nina Liang, and Anne Mahoney vs challenger Bill Burke"
