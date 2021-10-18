@@ -13,7 +13,7 @@ title = "Quincy City Council Candidates"
 
 ***
 
-### JUMP TO:
+## JUMP TO:
 
 * [Ward 1 race: Dave McCarthy vs Joe Murphy](https://qftc.org/posts/ward-1-race/ "https://qftc.org/posts/ward-1-race/")
 * [Ward 2 race: Anthony Andronico vs Steve Perdios](https://qftc.org/posts/ward-2-race/ "https://qftc.org/posts/ward-2-race/") 
