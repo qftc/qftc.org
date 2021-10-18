@@ -48,6 +48,12 @@ Website: [https://www.anthonyandronico.com/](https://www.anthonyandronico.com/ "
 
 * Is prohibited from personally accepting donations from any source, due to his day job as a state employee
 
+ 
+
+[**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
+
+ 
+
 ***
 
 ***
@@ -83,3 +89,9 @@ Website: [https://www.facebook.com/Steve-Perdios-for-City-Council-Ward-2-2289705
 ### Mixed flags
 
 * Believes that “critical race theory” is inherently divisive, and that it is a non-issue in Quincy. However, he does support teaching accurate, non-whitewashed history in schools.
+
+ 
+
+[**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
+
+ 
