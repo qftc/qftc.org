@@ -32,11 +32,19 @@ title = "Quincy City Council Candidates"
 
 ## SOURCES
 
-**- City council meeting minutes:** [https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm](https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm "https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm")
+###### **- City council meeting minutes:** 
 
-**- QCAN candidate forum 2021** [https://www.youtube.com/watch?v=dOAGLkD8AVM](https://www.youtube.com/watch?v=dOAGLkD8AVM "https://www.youtube.com/watch?v=dOAGLkD8AVM")
+[https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm](https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm "https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm")
 
-**- Quincy Dems candidate forum 2021**  
+ 
+
+###### **- QCAN candidate forum 2021** 
+
+[https://www.youtube.com/watch?v=dOAGLkD8AVM](https://www.youtube.com/watch?v=dOAGLkD8AVM "https://www.youtube.com/watch?v=dOAGLkD8AVM")
+
+ 
+
+###### **- Quincy Dems candidate forum 2021**  
  Dave McCarthy: [https://www.youtube.com/watch?v=Ck9yxOlo3qU](https://www.youtube.com/watch?v=Ck9yxOlo3qU "https://www.youtube.com/watch?v=Ck9yxOlo3qU")
 
 Joe Murphy: [https://www.youtube.com/watch?v=aYglw06rcP4](https://www.youtube.com/watch?v=aYglw06rcP4 "https://www.youtube.com/watch?v=aYglw06rcP4")
@@ -49,55 +57,73 @@ Chuck Phelan: [https://www.youtube.com/watch?v=43Zw0V8BCus](https://www.youtube.
 
 Stephen Cristo: [https://www.youtube.com/watch?v=MzQXDth6uN0](https://www.youtube.com/watch?v=MzQXDth6uN0 "https://www.youtube.com/watch?v=MzQXDth6uN0")
 
-**- Candidate websites and other individual sources:**
+ 
 
-Dave McCarthy:
+###### **- Candidate websites and other individual sources:**
+
+**Dave McCarthy:**
 
 Website: [http://www.electdavemccarthy.org/](http://www.electdavemccarthy.org/ "http://www.electdavemccarthy.org/")
 
-Joe Murphy:
+ 
+
+**Joe Murphy:**
 
 Website: [https://www.votejoemurphy.com/](https://www.votejoemurphy.com/ "https://www.votejoemurphy.com/")
 
 Linkedin: [https://www.linkedin.com/in/joecmurphy/](https://www.linkedin.com/in/joecmurphy/ "https://www.linkedin.com/in/joecmurphy/")
 
-Anthony Andronico:
+ 
+
+**Anthony Andronico:**
 
 Website: [https://www.anthonyandronico.com/](https://www.anthonyandronico.com/ "https://www.anthonyandronico.com/")
 
 Linkedin: [https://www.linkedin.com/in/ajandronico/](https://www.linkedin.com/in/ajandronico/ "https://www.linkedin.com/in/ajandronico/")
 
-Steve Perdios:
+ 
+
+**Steve Perdios:**
 
 Website: [https://www.facebook.com/Steve-Perdios-for-City-Council-Ward-2-228970550447329/](https://www.facebook.com/Steve-Perdios-for-City-Council-Ward-2-228970550447329/ "https://www.facebook.com/Steve-Perdios-for-City-Council-Ward-2-228970550447329/")
 
 Linkedin: [https://www.linkedin.com/in/steve-perdios-pe-env-sp-3935657/](https://www.linkedin.com/in/steve-perdios-pe-env-sp-3935657/ "https://www.linkedin.com/in/steve-perdios-pe-env-sp-3935657/")
 
-Chuck Phelan:
+ 
+
+**Chuck Phelan:**
 
 Website: [https://www.facebook.com/cphelan2020/](https://www.facebook.com/cphelan2020/ "https://www.facebook.com/cphelan2020/")
 
 Linkedin: [https://www.linkedin.com/in/charles-phelan-0947283b/](https://www.linkedin.com/in/charles-phelan-0947283b/ "https://www.linkedin.com/in/charles-phelan-0947283b/")
 
-Steve Christo:
+ 
+
+**Steve Christo:**
 
 Website: [https://christoforcouncil.com/](https://christoforcouncil.com/ "https://christoforcouncil.com/") and [https://www.facebook.com/stevechristoquincy](https://www.facebook.com/stevechristoquincy "https://www.facebook.com/stevechristoquincy")
 
 Linkedin: [https://www.linkedin.com/in/stephenmchristo/](https://www.linkedin.com/in/stephenmchristo/ "https://www.linkedin.com/in/stephenmchristo/")
 
-Noel DiBona:
+ 
+
+**Noel DiBona:**
 
 Website: [https://www.facebook.com/NoelTDiBona/](https://www.facebook.com/NoelTDiBona/ "https://www.facebook.com/NoelTDiBona/")
 
 Linkedin: [https://www.linkedin.com/in/noel-t-dibona-2264b592/](https://www.linkedin.com/in/noel-t-dibona-2264b592/ "https://www.linkedin.com/in/noel-t-dibona-2264b592/")
 
-Nina Liang:
+ 
+
+**Nina Liang:**
 
 Website: [https://www.ninaliang.org/](https://www.ninaliang.org/ "https://www.ninaliang.org/") and [https://www.facebook.com/NinaLiangQuincy/](https://www.facebook.com/NinaLiangQuincy/ "https://www.facebook.com/NinaLiangQuincy/")
 
 Linkedin: [https://www.linkedin.com/in/nina-liang-07b63011b/](https://www.linkedin.com/in/nina-liang-07b63011b/ "https://www.linkedin.com/in/nina-liang-07b63011b/")
 
-Anne Mahoney:
+ 
+
+**Anne Mahoney:**
 
 Website: [https://www.votemahoney.com/](https://www.votemahoney.com/ "https://www.votemahoney.com/")
 
@@ -105,7 +131,9 @@ Linkedin: [https://www.linkedin.com/in/anne-mulligan-mahoney-aa564/](https://www
 
 Ballotpedia: [https://ballotpedia.org/Anne_Mahoney](https://ballotpedia.org/Anne_Mahoney "https://ballotpedia.org/Anne_Mahoney")
 
-Bill Burke:
+ 
+
+**Bill Burke:**
 
 Website: [http://billburkeforquincy.com/](http://billburkeforquincy.com/ "http://billburkeforquincy.com/") and [https://www.facebook.com/Bill-Burke-for-Quincy-512110618965014](https://www.facebook.com/Bill-Burke-for-Quincy-512110618965014 "https://www.facebook.com/Bill-Burke-for-Quincy-512110618965014")
 
@@ -113,7 +141,9 @@ Linkedin: [https://www.linkedin.com/in/bill-burke-a615342a/](https://www.linkedi
 
 Ballotpedia: [https://ballotpedia.org/William_Burke](https://ballotpedia.org/William_Burke "https://ballotpedia.org/William_Burke")
 
-**- News articles:**
+  
+
+###### **- News articles:**
 
 [https://www.patriotledger.com/story/news/2021/09/30/mccarthy-murphy-compete-ward-1-seat-quincy-city-council-2021/5828417001/](https://www.patriotledger.com/story/news/2021/09/30/mccarthy-murphy-compete-ward-1-seat-quincy-city-council-2021/5828417001/ "https://www.patriotledger.com/story/news/2021/09/30/mccarthy-murphy-compete-ward-1-seat-quincy-city-council-2021/5828417001/")
 
