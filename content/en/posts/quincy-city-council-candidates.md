@@ -11,9 +11,11 @@ title = "Quincy City Council Candidates"
 
 +++
 
-## JUMP TO:
+***
 
-* [Ward 1 race: Dave McCarthy vs Joe Murphy ](https://qftc.org/posts/ward-1-race/ "https://qftc.org/posts/ward-1-race/")
+### JUMP TO:
+
+* [Ward 1 race: Dave McCarthy vs Joe Murphy](https://qftc.org/posts/ward-1-race/ "https://qftc.org/posts/ward-1-race/")
 * [Ward 2 race: Anthony Andronico vs Steve Perdios](https://qftc.org/posts/ward-2-race/ "https://qftc.org/posts/ward-2-race/") 
 * [Ward 5 race: Chuck Phelan vs Steve Christo ](https://qftc.org/posts/ward-5-race/ "https://qftc.org/posts/ward-5-race/")
 * [At Large: Noel DiBona, Nina Liang, Anne Mahoney, Bill Burke](https://qftc.org/posts/at-large-race/ "https://qftc.org/posts/at-large-race/") 
