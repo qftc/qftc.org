@@ -44,6 +44,12 @@ Website: [https://www.facebook.com/NoelTDiBona/](https://www.facebook.com/NoelTD
 * Sponsored a city council resolution to form a “2018-191 – Citizens of Quincy Community Emergency Response Team” in 2018
 * Cultural and religious awareness: Expressed concerns about potential conflicts between city meeting schedule and Jewish holidays in 2019
 
+ 
+
+[**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
+
+ 
+
 ***
 
 ***
@@ -114,6 +120,12 @@ Website: [https://www.ninaliang.org/](https://www.ninaliang.org/ "https://www.ni
 
 * Initially claimed that she would not support the “Fiscal 2022 General Fund Budget” proposed by Mayor Koch because it did not include funding for the Department of Social Justice and Equity, but later on voted to approve it anyway
 
+ 
+
+[**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
+
+ 
+
 ***
 
 ***
@@ -173,6 +185,12 @@ Website: [https://www.votemahoney.com/](https://www.votemahoney.com/ "https://ww
 
 * Advocates for harsher bicycle traffic laws
 
+ 
+
+[**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
+
+ 
+
 ***
 
 ***
@@ -202,3 +220,9 @@ Website: [http://billburkeforquincy.com/](http://billburkeforquincy.com/ "http:/
 * Sexist
 * Homophobic
 * Xenophobic
+
+ 
+
+[**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
+
+ 
