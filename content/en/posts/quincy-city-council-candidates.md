@@ -32,19 +32,19 @@ title = "Quincy City Council Candidates"
 
 ## SOURCES
 
-###### **- City council meeting minutes:** 
+##### **- City council meeting minutes:** 
 
 [https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm](https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm "https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm")
 
  
 
-###### **- QCAN candidate forum 2021** 
+##### **- QCAN candidate forum 2021** 
 
 [https://www.youtube.com/watch?v=dOAGLkD8AVM](https://www.youtube.com/watch?v=dOAGLkD8AVM "https://www.youtube.com/watch?v=dOAGLkD8AVM")
 
  
 
-###### **- Quincy Dems candidate forum 2021**  
+##### **- Quincy Dems candidate forum 2021**  
  Dave McCarthy: [https://www.youtube.com/watch?v=Ck9yxOlo3qU](https://www.youtube.com/watch?v=Ck9yxOlo3qU "https://www.youtube.com/watch?v=Ck9yxOlo3qU")
 
 Joe Murphy: [https://www.youtube.com/watch?v=aYglw06rcP4](https://www.youtube.com/watch?v=aYglw06rcP4 "https://www.youtube.com/watch?v=aYglw06rcP4")
@@ -59,7 +59,7 @@ Stephen Cristo: [https://www.youtube.com/watch?v=MzQXDth6uN0](https://www.youtub
 
  
 
-###### **- Candidate websites and other individual sources:**
+##### **- Candidate websites and other individual sources:**
 
 **Dave McCarthy:**
 
@@ -143,7 +143,7 @@ Ballotpedia: [https://ballotpedia.org/William_Burke](https://ballotpedia.org/Wil
 
   
 
-###### **- News articles:**
+##### **- News articles:**
 
 [https://www.patriotledger.com/story/news/2021/09/30/mccarthy-murphy-compete-ward-1-seat-quincy-city-council-2021/5828417001/](https://www.patriotledger.com/story/news/2021/09/30/mccarthy-murphy-compete-ward-1-seat-quincy-city-council-2021/5828417001/ "https://www.patriotledger.com/story/news/2021/09/30/mccarthy-murphy-compete-ward-1-seat-quincy-city-council-2021/5828417001/")
 
