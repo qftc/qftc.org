@@ -51,6 +51,12 @@ Website: [http://www.electdavemccarthy.org/](http://www.electdavemccarthy.org/ "
 
 [https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf](https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf "https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf")
 
+ 
+
+[**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
+
+ 
+
 ***
 
 ***
@@ -89,3 +95,9 @@ Website: [https://www.votejoemurphy.com/](https://www.votejoemurphy.com/ "https:
 
 * Member of the Quincy Dems communications committee
 * Not taking any donations or contributions to his campaign
+
+ 
+
+[**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
+
+ 
