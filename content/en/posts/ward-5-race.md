@@ -1,7 +1,6 @@
 +++
 author = "QFTC Organizer"
 date = 2021-10-16T02:13:59Z
-draft = true
 image_url = "/uploads/images/pexels-photo-1550337.jpeg"
 layout = "single"
 subtitle = "Chuck Phelan (incumbent) vs Steve Christo (challenger)"
