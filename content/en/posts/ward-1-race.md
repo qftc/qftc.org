@@ -39,23 +39,18 @@ Website: [http://www.electdavemccarthy.org/](http://www.electdavemccarthy.org/ "
 ### **Red Flags**
 
 * Voted against the creation of the Department of Social Justice and Equity
+* Does not acknowledge that there are any racial issues whatosever in Quincy, and claims there is no benefit to applying critical race theory to civic planning or social structures
+* Is willing to take donations from contractors who have active contracts with the city
+* Stated budget priorities are evaluating the city’s tax income and making “tough choices” about funding Quincy city services
+* Believes that “COVID is over” now
 * Longterm career at defense contracting company General Dynamics*
-* Actively uses his family as a campaign tool on his website
-* Multiple international transracial adoptions**
 
 \*Why defense jobs are problematic:  
-[https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf](https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf "https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf")
-
 [https://www.sciencedirect.com/topics/social-sciences/military-industrial-complex](https://www.sciencedirect.com/topics/social-sciences/military-industrial-complex "https://www.sciencedirect.com/topics/social-sciences/military-industrial-complex")
 
 [https://www.aljazeera.com/opinions/2014/1/11/big-money-behind-war-the-military-industrial-complex](https://www.aljazeera.com/opinions/2014/1/11/big-money-behind-war-the-military-industrial-complex "https://www.aljazeera.com/opinions/2014/1/11/big-money-behind-war-the-military-industrial-complex")
 
-\**Why transracial foreign adoption can be problematic:
-
-[https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2366972/](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2366972/ "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2366972/")  
-[https://www.healthline.com/health/white-saviorism](https://www.healthline.com/health/white-saviorism "https://www.healthline.com/health/white-saviorism")
-
-[https://time.com/the-realities-of-raising-a-kid-of-a-different-race/](https://time.com/the-realities-of-raising-a-kid-of-a-different-race/ "https://time.com/the-realities-of-raising-a-kid-of-a-different-race/")
+[https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf](https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf "https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf")
 
 ***
 
@@ -73,6 +68,7 @@ Website: [https://www.votejoemurphy.com/](https://www.votejoemurphy.com/ "https:
 
 * Speaks out on the issues facing environmental justice (EJ) communities
 * Suggests publishing a map of EJ communities and having the zoning/planning/conservation boards factor impact on EJ communities in their decisions
+* Supports teaching accurate, non-whitewashed history in schools
 
 ##### Environmentalism:
 
@@ -83,10 +79,12 @@ Website: [https://www.votejoemurphy.com/](https://www.votejoemurphy.com/ "https:
 ##### Labor:
 
 * Was a union representative for AFM Local 47 in 2007
+* Supports collective bargaining for city workers and tradespeople
 
 ##### Government transparency:
 
-* Says he would call for a complete third-party financial review of Quincy’s finances and push for a “participatory budget” system that allows residents to decide how a portion of the city budget is spent
+* Says he would call for a complete third-party financial review of Quincy’s finances
+* Says he would push for a “participatory budget” system that allows residents to decide how a portion of the city budget is spent
 
 ##### Miscellaneous:
 
