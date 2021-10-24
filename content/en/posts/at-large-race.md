@@ -199,8 +199,8 @@ Website: [http://billburkeforquincy.com/](http://billburkeforquincy.com/ "http:/
 * Trump supporter ([see example here](https://www.facebook.com/permalink.php?story_fbid=774465642729509&id=512110618965014&comment_id=775699052606168 "https://www.facebook.com/permalink.php?story_fbid=774465642729509&id=512110618965014&comment_id=775699052606168"))
 * Alt-Right supporter ([see example here](https://www.facebook.com/permalink.php?story_fbid=764001813775892&id=512110618965014 "https://www.facebook.com/permalink.php?story_fbid=764001813775892&id=512110618965014"))
 * Racist ([see example here](https://www.facebook.com/permalink.php?story_fbid=819657394877000&id=512110618965014 "https://www.facebook.com/permalink.php?story_fbid=819657394877000&id=512110618965014"))
-* Sexist ([see example here](https://www.facebook.com/permalink.php?story_fbid=934569550052450&id=512110618965014&comment_id=935008893341849 "https://www.facebook.com/permalink.php?story_fbid=934569550052450&id=512110618965014&comment_id=935008893341849"))
-* Homophobic ([see example here](https://www.facebook.com/permalink.php?story_fbid=801977803311626&id=512110618965014 "https://www.facebook.com/permalink.php?story_fbid=801977803311626&id=512110618965014"))
 * Xenophobic ([see example here](https://www.facebook.com/permalink.php?story_fbid=716375741871833&id=512110618965014 "https://www.facebook.com/permalink.php?story_fbid=716375741871833&id=512110618965014"))
+* Homophobic ([see example here](https://www.facebook.com/permalink.php?story_fbid=801977803311626&id=512110618965014 "https://www.facebook.com/permalink.php?story_fbid=801977803311626&id=512110618965014"))
+* Sexist ([see example here](https://www.facebook.com/permalink.php?story_fbid=934569550052450&id=512110618965014&comment_id=935008893341849 "https://www.facebook.com/permalink.php?story_fbid=934569550052450&id=512110618965014&comment_id=935008893341849"))
 
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
