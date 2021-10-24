@@ -23,11 +23,6 @@ Website: [https://www.facebook.com/NoelTDiBona/](https://www.facebook.com/NoelTD
 * Co-sponsored a city council ordinance to create a Department of Social Justice and Equity ("2020-165 – Amending Municipal Code - Adding to Chapter 25 - Departments – Article XI – Department of Social Justice and Equity") in 2020 along with 2 other council members
 * Co-sponsored a city council resolution “2020-147 - Recognizing October as Filipino American History Month” in 2020 along with 5 other councilmembers
 
-##### Health and disability:
-
-* Sponsored a city council ordinance “2016 – 107 – Amending Chapter 288 Smoking & Tobacco – Raising the age from 18 to 21 for the sale of tobacco products/cigarettes” in 2016
-* Recognizes public awareness campaigns such as Autism Awareness Month and Breast Cancer Awareness Month on record in city council meetings
-
 ##### Environmentalism:
 
 * Co-sponsored a city council resolution “2021-074 – City Council Opposition to Pine Island Boardwalk” in 2021 along with 6 other councilmembers
@@ -42,7 +37,10 @@ Website: [https://www.facebook.com/NoelTDiBona/](https://www.facebook.com/NoelTD
 ##### Miscellaneous:
 
 * Sponsored a city council resolution to form a “2018-191 – Citizens of Quincy Community Emergency Response Team” in 2018
-* Cultural and religious awareness: Expressed concerns about potential conflicts between city meeting schedule and Jewish holidays in 2019
+
+### **Red Flag**
+
+* Voted against city council resolution “2017 – 31 – Study the meaning of Sanctuary City and if steps should be taken to adopt such a designation” in 2017
 
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
 
@@ -110,9 +108,8 @@ Website: [https://www.ninaliang.org/](https://www.ninaliang.org/ "https://www.ni
 * Currently working at Emerge Massachusetts
 * Endorsed by Bay State Stonewall Democrats
 * Thomas Crane Public Library Foundation board member
-* Cultural and religious awareness: Acknowledges Jewish holidays on social media
 
-### **Red Flags**
+### **Mixed Flag**
 
 * Initially claimed that she would not support the “Fiscal 2022 General Fund Budget” proposed by Mayor Koch because it did not include funding for the Department of Social Justice and Equity, but later on voted to approve it anyway
 
@@ -173,10 +170,6 @@ Website: [https://www.votemahoney.com/](https://www.votemahoney.com/ "https://ww
 * Refuses to accept donations from developers and people who have active projects or proposals before the city council
 * Does pro bono work for Big Brother/Big Sister of Massachusetts Bay
 
-### **Red Flags**
-
-* Advocates for harsher bicycle traffic laws
-
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
 
 ***
@@ -201,12 +194,14 @@ Website: [http://billburkeforquincy.com/](http://billburkeforquincy.com/ "http:/
 
 ### **Red Flags**
 
-* Trump supporter
 * Unable to articulate clear and specific stances on platform issues
 * Relies predominantly on attacks on political opponents and Democrats
-* Racist and pro-white supremacist organizations
-* Sexist
-* Homophobic
-* Xenophobic
+* Trump supporter ([see example here](https://www.facebook.com/permalink.php?story_fbid=774465642729509&id=512110618965014&comment_id=775699052606168 "https://www.facebook.com/permalink.php?story_fbid=774465642729509&id=512110618965014&comment_id=775699052606168"))
+* Alt-Right supporter ([see example here]())
+* Racist ([see example here]())
+* Pro-white supremacist organizations ([see example here]())
+* Sexist ([see example here]())
+* Homophobic ([see example here]())
+* Xenophobic ([see example here]())
 
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
