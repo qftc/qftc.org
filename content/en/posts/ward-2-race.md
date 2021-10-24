@@ -11,7 +11,7 @@ title = "Quincy City Council Ward 2 Race"
 +++
 # **Anthony Andronico (Ward 2 incumbent)**
 
-Anthony Andronico has been a city councilmember since 2021; he was appointed to take over the position vacated by Councillor Brad Croall. He served on the Quincy School Committee from 2018-2021. He lives south of Quincy Center, and currently works in the MA State Senate.
+Anthony Andronico has been a city councilmember since 2021; he was appointed to take over the position vacated by Councillor Brad Croall. He served on the Quincy School Committee from 2018-2021. He lives south of Quincy Center, and currently works in the Massachusetts State Senate.
 
 Website: [https://www.anthonyandronico.com/](https://www.anthonyandronico.com/ "https://www.anthonyandronico.com/")
 
@@ -48,11 +48,7 @@ Website: [https://www.anthonyandronico.com/](https://www.anthonyandronico.com/ "
 
 * Is prohibited from personally accepting donations from any source, due to his day job as a state employee
 
- 
-
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
-
- 
 
 ***
 
@@ -84,14 +80,10 @@ Website: [https://www.facebook.com/Steve-Perdios-for-City-Council-Ward-2-2289705
 ##### Miscellaneous:
 
 * Says he would put in an ordinance to prohibit city councillors from accepting donations from anyone who has received or will be receiving a contract from the city of Quincy
-* Thomas Crane Public Library Foundation- President of the Board of Directors 2013-16
+* Thomas Crane Public Library Foundation- President of the Board of Directors 2013-2016
 
 ### Mixed flags
 
 * Believes that “critical race theory” is inherently divisive, and that it is a non-issue in Quincy. However, he does support teaching accurate, non-whitewashed history in schools.
 
- 
-
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
-
- 
