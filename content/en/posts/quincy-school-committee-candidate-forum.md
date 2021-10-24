@@ -1,6 +1,6 @@
 +++
 author = "QFTC Organizer"
-date = 2021-09-01T19:06:26Z
+date = 2021-10-22T19:06:26Z
 image_url = "/uploads/images/element5-digital-ls8kc0p9haa-unsplash.jpg"
 layout = "single"
 subtitle = "Virtual forum organized by QFTC Education Task Force"
