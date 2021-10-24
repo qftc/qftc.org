@@ -9,21 +9,14 @@ tags = ["blog", "resources", "article"]
 title = "Quincy City Council Candidates"
 
 +++
-
-Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it’s difficult, time-consuming, and often overwhelming for every individual voter to comb through all of the information available, trying to pick out important factors to help determine which candidate to vote for. To assist with that, the QFTC organizers have researched every city council candidate in a contested race this year, and compiled lists of positive progressive factors (“green flags”, as well as less progressive “mixed” or anti-progressive “red” flags if applicable) based on publicly available information - see the “Sources” section below for a full list of citations. We hope that this will help Quincy voters make their best and most informed decisions!
+Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it’s difficult, time-consuming, and often overwhelming for every individual voter to comb through all of the information available, trying to pick out important factors to help determine which candidate to vote for. To assist with that, the QFTC organizers have researched every city council candidate in a contested race this year, and compiled lists of positive progressive factors (“green flags”) as well as potentially less progressive “mixed” or anti-progressive “red” flags (if applicable) based on publicly available information - see the “Sources” section below for a full list of citations. We hope that this will help Quincy voters make their best and most informed decisions!
 
 ### JUMP TO:
 
 * [Ward 1 race: Dave McCarthy vs Joe Murphy](https://qftc.org/posts/ward-1-race/ "https://qftc.org/posts/ward-1-race/")
-
-   
-* [Ward 2 race: Anthony Andronico vs Steve Perdios](https://qftc.org/posts/ward-2-race/ "https://qftc.org/posts/ward-2-race/") 
-
-   
+* [Ward 2 race: Anthony Andronico vs Steve Perdios](https://qftc.org/posts/ward-2-race/ "https://qftc.org/posts/ward-2-race/")
 * [Ward 5 race: Chuck Phelan vs Steve Christo ](https://qftc.org/posts/ward-5-race/ "https://qftc.org/posts/ward-5-race/")
-
-   
-* [At Large: Noel DiBona, Nina Liang, Anne Mahoney, Bill Burke](https://qftc.org/posts/at-large-race/ "https://qftc.org/posts/at-large-race/") 
+* [At Large: Noel DiBona, Nina Liang, Anne Mahoney, Bill Burke](https://qftc.org/posts/at-large-race/ "https://qftc.org/posts/at-large-race/")
 
 ***
 
@@ -33,20 +26,17 @@ Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it
 
 ## SOURCES
 
-##### **- City council meeting minutes:** 
+##### **- City council meeting minutes:**
 
 [https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm](https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm "https://www.quincyma.gov/govt/meeting_agendas/city_council/default.htm")
 
- 
-
-##### **- QCAN candidate forum 2021** 
+##### **- QCAN candidate forum 2021**
 
 [https://www.youtube.com/watch?v=dOAGLkD8AVM](https://www.youtube.com/watch?v=dOAGLkD8AVM "https://www.youtube.com/watch?v=dOAGLkD8AVM")
 
- 
+##### **- Quincy Dems candidate forum 2021**
 
-##### **- Quincy Dems candidate forum 2021**  
- Dave McCarthy: [https://www.youtube.com/watch?v=Ck9yxOlo3qU](https://www.youtube.com/watch?v=Ck9yxOlo3qU "https://www.youtube.com/watch?v=Ck9yxOlo3qU")
+Dave McCarthy: [https://www.youtube.com/watch?v=Ck9yxOlo3qU](https://www.youtube.com/watch?v=Ck9yxOlo3qU "https://www.youtube.com/watch?v=Ck9yxOlo3qU")
 
 Joe Murphy: [https://www.youtube.com/watch?v=aYglw06rcP4](https://www.youtube.com/watch?v=aYglw06rcP4 "https://www.youtube.com/watch?v=aYglw06rcP4")
 
@@ -58,15 +48,11 @@ Chuck Phelan: [https://www.youtube.com/watch?v=43Zw0V8BCus](https://www.youtube.
 
 Stephen Cristo: [https://www.youtube.com/watch?v=MzQXDth6uN0](https://www.youtube.com/watch?v=MzQXDth6uN0 "https://www.youtube.com/watch?v=MzQXDth6uN0")
 
- 
-
 ##### **- Candidate websites and other individual sources:**
 
 **Dave McCarthy:**
 
 Website: [http://www.electdavemccarthy.org/](http://www.electdavemccarthy.org/ "http://www.electdavemccarthy.org/")
-
- 
 
 **Joe Murphy:**
 
@@ -74,15 +60,11 @@ Website: [https://www.votejoemurphy.com/](https://www.votejoemurphy.com/ "https:
 
 Linkedin: [https://www.linkedin.com/in/joecmurphy/](https://www.linkedin.com/in/joecmurphy/ "https://www.linkedin.com/in/joecmurphy/")
 
- 
-
 **Anthony Andronico:**
 
 Website: [https://www.anthonyandronico.com/](https://www.anthonyandronico.com/ "https://www.anthonyandronico.com/")
 
 Linkedin: [https://www.linkedin.com/in/ajandronico/](https://www.linkedin.com/in/ajandronico/ "https://www.linkedin.com/in/ajandronico/")
-
- 
 
 **Steve Perdios:**
 
@@ -90,15 +72,11 @@ Website: [https://www.facebook.com/Steve-Perdios-for-City-Council-Ward-2-2289705
 
 Linkedin: [https://www.linkedin.com/in/steve-perdios-pe-env-sp-3935657/](https://www.linkedin.com/in/steve-perdios-pe-env-sp-3935657/ "https://www.linkedin.com/in/steve-perdios-pe-env-sp-3935657/")
 
- 
-
 **Chuck Phelan:**
 
 Website: [https://www.facebook.com/cphelan2020/](https://www.facebook.com/cphelan2020/ "https://www.facebook.com/cphelan2020/")
 
 Linkedin: [https://www.linkedin.com/in/charles-phelan-0947283b/](https://www.linkedin.com/in/charles-phelan-0947283b/ "https://www.linkedin.com/in/charles-phelan-0947283b/")
-
- 
 
 **Steve Christo:**
 
@@ -106,23 +84,17 @@ Website: [https://christoforcouncil.com/](https://christoforcouncil.com/ "https:
 
 Linkedin: [https://www.linkedin.com/in/stephenmchristo/](https://www.linkedin.com/in/stephenmchristo/ "https://www.linkedin.com/in/stephenmchristo/")
 
- 
-
 **Noel DiBona:**
 
 Website: [https://www.facebook.com/NoelTDiBona/](https://www.facebook.com/NoelTDiBona/ "https://www.facebook.com/NoelTDiBona/")
 
 Linkedin: [https://www.linkedin.com/in/noel-t-dibona-2264b592/](https://www.linkedin.com/in/noel-t-dibona-2264b592/ "https://www.linkedin.com/in/noel-t-dibona-2264b592/")
 
- 
-
 **Nina Liang:**
 
 Website: [https://www.ninaliang.org/](https://www.ninaliang.org/ "https://www.ninaliang.org/") and [https://www.facebook.com/NinaLiangQuincy/](https://www.facebook.com/NinaLiangQuincy/ "https://www.facebook.com/NinaLiangQuincy/")
 
 Linkedin: [https://www.linkedin.com/in/nina-liang-07b63011b/](https://www.linkedin.com/in/nina-liang-07b63011b/ "https://www.linkedin.com/in/nina-liang-07b63011b/")
-
- 
 
 **Anne Mahoney:**
 
@@ -132,8 +104,6 @@ Linkedin: [https://www.linkedin.com/in/anne-mulligan-mahoney-aa564/](https://www
 
 Ballotpedia: [https://ballotpedia.org/Anne_Mahoney](https://ballotpedia.org/Anne_Mahoney "https://ballotpedia.org/Anne_Mahoney")
 
- 
-
 **Bill Burke:**
 
 Website: [http://billburkeforquincy.com/](http://billburkeforquincy.com/ "http://billburkeforquincy.com/") and [https://www.facebook.com/Bill-Burke-for-Quincy-512110618965014](https://www.facebook.com/Bill-Burke-for-Quincy-512110618965014 "https://www.facebook.com/Bill-Burke-for-Quincy-512110618965014")
@@ -141,8 +111,6 @@ Website: [http://billburkeforquincy.com/](http://billburkeforquincy.com/ "http:/
 Linkedin: [https://www.linkedin.com/in/bill-burke-a615342a/](https://www.linkedin.com/in/bill-burke-a615342a/ "https://www.linkedin.com/in/bill-burke-a615342a/")
 
 Ballotpedia: [https://ballotpedia.org/William_Burke](https://ballotpedia.org/William_Burke "https://ballotpedia.org/William_Burke")
-
-  
 
 ##### **- News articles:**
 
@@ -167,6 +135,8 @@ Ballotpedia: [https://ballotpedia.org/William_Burke](https://ballotpedia.org/Wil
 [https://www.patriotledger.com/news/20191101/quincy-ward-1-candidates-prioritize-infrastructure-improvements](https://www.patriotledger.com/news/20191101/quincy-ward-1-candidates-prioritize-infrastructure-improvements "https://www.patriotledger.com/news/20191101/quincy-ward-1-candidates-prioritize-infrastructure-improvements")
 
 [https://www.patriotledger.com/news/20171026/quincy-candidates-make-their-pitches](https://www.patriotledger.com/news/20171026/quincy-candidates-make-their-pitches "https://www.patriotledger.com/news/20171026/quincy-candidates-make-their-pitches")
+
+[https://www.wickedlocal.com/news/20170307/quincy-council-votes-down-call-for-sanctuary-city-talks](https://www.wickedlocal.com/news/20170307/quincy-council-votes-down-call-for-sanctuary-city-talks "https://www.wickedlocal.com/news/20170307/quincy-council-votes-down-call-for-sanctuary-city-talks")
 
 [https://weymouth.wickedlocal.com/news/20161103/experience-vs-outsider-in-massachusetts-8th-congressional-district](https://weymouth.wickedlocal.com/news/20161103/experience-vs-outsider-in-massachusetts-8th-congressional-district "https://weymouth.wickedlocal.com/news/20161103/experience-vs-outsider-in-massachusetts-8th-congressional-district")
 
