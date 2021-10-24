@@ -36,7 +36,7 @@ Website: [https://www.facebook.com/cphelan2020/](https://www.facebook.com/cphela
 
 ### **Mixed Flag**
 
-* Stated his support for the ordinance to establish the Department of Social Justice and Equity on record in Ordinance Committee meeting in 2020; however, seems to be under the impression that the proposed department was merely about exclusionary zoning, and could not recall the department’s name in interviews in 2021
+* Stated his support for the ordinance to establish the Department of Social Justice and Equity on record in Ordinance Committee meeting in 2020; however, seems to be under the impression that the proposed department was merely about exclusionary zoning and could not recall the department’s name in interviews in 2021
 
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
 
