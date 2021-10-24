@@ -37,7 +37,7 @@ Website: [http://www.electdavemccarthy.org/](http://www.electdavemccarthy.org/ "
 
 ### **Red Flags**
 
-* Voted against the creation of the Department of Social Justice and Equity
+* Voted against the creation of the Department of Social Justice and Equity in 2020
 * Does not acknowledge that there are any racial issues whatosever in Quincy, and claims there is no benefit to applying critical race theory to civic planning or social structures
 * Is willing to take donations from contractors who have active contracts with the city
 * Stated budget priorities are evaluating the city’s tax income and making “tough choices” about funding Quincy city services
@@ -51,11 +51,7 @@ Website: [http://www.electdavemccarthy.org/](http://www.electdavemccarthy.org/ "
 
 [https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf](https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf "https://www.law.upenn.edu/live/files/4208-robert-latiff-defense-contracting-finalpdf")
 
- 
-
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
-
- 
 
 ***
 
@@ -96,8 +92,4 @@ Website: [https://www.votejoemurphy.com/](https://www.votejoemurphy.com/ "https:
 * Member of the Quincy Dems communications committee
 * Not taking any donations or contributions to his campaign
 
- 
-
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
-
- 
