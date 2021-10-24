@@ -35,11 +35,11 @@ Website: [https://www.facebook.com/cphelan2020/](https://www.facebook.com/cphela
 
 * Says that he would not accept donations from developers or contractors whose projects were being voted on directly by city council
 
- 
+### **Mixed Flag**
+
+* Appears to be under the impression that the proposed Department of Social Justice and Equity was merely about exclusionary zoning, and could not recall the department’s name in interviews
 
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
-
- 
 
 ***
 
@@ -76,10 +76,6 @@ Website: [https://christoforcouncil.com/](https://christoforcouncil.com/ "https:
 
 ### **Red Flags**
 
-* His career is mainly in finance, and he was working at Arthur Andersen during the time they were involved with Enron, leading up to the Enron scandal in 2001 which resulted in Arthur Andersen’s dissolution
-
- 
+* His career is mainly in finance, including working at Arthur Andersen during the time leading up to the Enron scandal in 2001 which resulted in the company’s dissolution
 
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
-
- 
