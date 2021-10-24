@@ -1,0 +1,19 @@
+[[redirects]]
+  from = "https://quincychange.org/*"
+  to = "https://qftc.org/:splat"
+  force = true
+
+[[redirects]]
+  from = "https://www.quincychange.org/*"
+  to = "https://qftc.org/:splat"
+  force = true
+
+[[redirects]]
+  from = "https://quincy4change.org/*"
+  to = "https://qftc.org/:splat"
+  force = true
+
+[[redirects]]
+  from = "https://www.quincy4change.org/*"
+  to = "https://qftc.org/:splat"
+  force = true
