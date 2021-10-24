@@ -19,7 +19,6 @@ Website: [https://www.facebook.com/cphelan2020/](https://www.facebook.com/cphela
 
 ##### Racial justice:
 
-* Stated his support for the ordinance to establish the Department of Social Justice and Equity on record in Ordinance Committee meeting
 * Co-sponsored a city council resolution “2020-147 - Recognizing October as Filipino American History Month” in 2020 along with 5 other councilmembers
 * Supports teaching accurate, non-whitewashed history (including critical race theory) and applying it to government planning
 
@@ -37,7 +36,7 @@ Website: [https://www.facebook.com/cphelan2020/](https://www.facebook.com/cphela
 
 ### **Mixed Flag**
 
-* Appears to be under the impression that the proposed Department of Social Justice and Equity was merely about exclusionary zoning, and could not recall the department’s name in interviews
+* Stated his support for the ordinance to establish the Department of Social Justice and Equity on record in Ordinance Committee meeting in 2020; however, seems to be under the impression that the proposed department was merely about exclusionary zoning, and could not recall the department’s name in interviews in 2021
 
 [**RETURN TO MAIN LIST**](https://qftc.org/posts/quincy-city-council-candidates/ "https://qftc.org/posts/quincy-city-council-candidates/")
 
