@@ -1,6 +1,6 @@
 +++
 author = "QFTC Organizer"
-date = 2021-10-27T02:28:00Z
+date = 2021-10-27T01:35:00Z
 image_url = "/uploads/images/pexels-photo-8846632.jpeg"
 layout = "single"
 subtitle = "Masterpost of 2021 city council candidate information"
