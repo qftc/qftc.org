@@ -13,26 +13,28 @@ Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it
 
 ***
 
-[2021 Quincy City Council Candidates Main Page and Sources](/posts/quincy-city-council-candidates)
+##### [2021 Quincy City Council Candidates](/posts/quincy-city-council-candidates)
 
-Direct links:
+##### Direct links:
 
-* [Ward 1 race: Dave McCarthy vs Joe Murphy](https://qftc.org/posts/ward-1-race/ "https://qftc.org/posts/ward-1-race/")
-* [Ward 2 race: Anthony Andronico vs Steve Perdios](https://qftc.org/posts/ward-2-race/ "https://qftc.org/posts/ward-2-race/")
-* [Ward 5 race: Chuck Phelan vs Steve Christo ](https://qftc.org/posts/ward-5-race/ "https://qftc.org/posts/ward-5-race/")
-* [At Large: Noel DiBona, Nina Liang, Anne Mahoney, Bill Burke](https://qftc.org/posts/at-large-race/ "https://qftc.org/posts/at-large-race/")
-
-***
-
-[2021 Quincy School Committee Candidate Main Page and Sources](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
-
-Direct links:
-
-* [School committee incumbents: Doug Gutro, Emily Lebo, Courtney Perdios](https://qftc.org/posts/school-committee-incumbents/ "https://qftc.org/posts/school-committee-incumbents/")
-* [School committee challengers: Liz Speakman, Tina Cahill, Liberty Schaaf](https://qftc.org/posts/school-committee-challengers/ "https://qftc.org/posts/school-committee-challengers/")
+* [**Ward 1 race:** Dave McCarthy vs Joe Murphy](https://qftc.org/posts/ward-1-race/ "https://qftc.org/posts/ward-1-race/")
+* [**Ward 2 race:** Anthony Andronico vs Steve Perdios](https://qftc.org/posts/ward-2-race/ "https://qftc.org/posts/ward-2-race/")
+* [**Ward 5 race:** Chuck Phelan vs Steve Christo ](https://qftc.org/posts/ward-5-race/ "https://qftc.org/posts/ward-5-race/")
+* [**At Large**: Noel DiBona, Nina Liang, Anne Mahoney, Bill Burke](https://qftc.org/posts/at-large-race/ "https://qftc.org/posts/at-large-race/")
 
 ***
 
-[Here is an article](https://qftc.org/posts/why-should-you-care-about-school-committee-elections/ "https://qftc.org/posts/why-should-you-care-about-school-committee-elections/") on why you should vote in the school committee election, whether you have children in the Quincy Public School system or not.
+##### [2021 Quincy School Committee Candidates](/posts/quincy-school-committee-candidates/)
 
-[Here is an article](https://qftc.org/posts/qftc-statement-on-candidate-endorsement/ "https://qftc.org/posts/qftc-statement-on-candidate-endorsement/") on why QFTC is not endorsing political candidates for this election.
+##### Direct links:
+
+* [**School committee incumbents:** Doug Gutro, Emily Lebo, Courtney Perdios](https://qftc.org/posts/school-committee-incumbents/ "https://qftc.org/posts/school-committee-incumbents/")
+* [**School committee challengers:** Liz Speakman, Tina Cahill, Liberty Schaaf](https://qftc.org/posts/school-committee-challengers/ "https://qftc.org/posts/school-committee-challengers/")
+
+***
+
+##### About this election:
+
+[Why you should vote in the school committee election, whether you have children in the Quincy Public School system or not.](https://qftc.org/posts/why-should-you-care-about-school-committee-elections/)
+
+[Why QFTC is not endorsing political candidates for this election.](https://qftc.org/posts/qftc-statement-on-candidate-endorsement/ "https://qftc.org/posts/qftc-statement-on-candidate-endorsement/")
