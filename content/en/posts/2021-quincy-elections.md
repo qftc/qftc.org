@@ -1,11 +1,11 @@
 +++
 author = "QFTC Organizer"
 date = 2021-10-27T01:27:25Z
-image_url = ""
+image_url = "/uploads/images/pexels-photo-8850721.jpeg"
 layout = "single"
 subtitle = "Your guide to Quincy's city council and school committee race for 2021"
 summary = "Your guide to Quincy's city council and school committee race for 2021"
-tags = []
+tags = ["blog", "resources", "article"]
 title = "2021 Quincy Election Guide"
 
 +++
