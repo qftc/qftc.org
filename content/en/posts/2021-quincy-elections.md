@@ -1,6 +1,6 @@
 +++
 author = "QFTC Staffer"
-date = 2021-10-27T00:27:25Z
+date = 2021-10-27T01:27:25Z
 image_url = ""
 layout = "single"
 subtitle = "Your guide to Quincy's city council and school committee race for 2021"
