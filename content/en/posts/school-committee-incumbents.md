@@ -10,7 +10,7 @@ tags = ["blog", "resources", "article", "education"]
 title = "Quincy school committee incumbents"
 
 +++
-**Doug Gutro**
+### **Doug Gutro**
 
 Doug Gutro has been a school committee member since 2018. He was Ward 5 City Councilor from 2002-2012, President of the City Council from 2006-2007, and Councilor-At-Large from 2012-2016. He lives in Quincy Point, and currently works at the United States Environmental Protection Agency (EPA).
 
@@ -71,6 +71,12 @@ Labor
 Miscellaneous
 
 \- Supports universal pre-kindergarten options
+
+[RETURN TO MAIN LIST](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
+
+***
+
+***
 
 **Emily Lebo**
 
@@ -140,6 +146,12 @@ Miscellaneous
 
 \- Endorsed by the Quincy Education Association
 
+[RETURN TO MAIN LIST](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
+
+***
+
+***
+
 **Courtney Perdios**
 
 Courtney Perdios has been a school committee member since 2021. She was co-president of the Quincy Citywide PTO from 2016-2021. She lives in Quincy Point, and currently works at the Boston University School of Public Health.
@@ -196,4 +208,4 @@ Miscellaneous
 
 \- Endorsed by the Quincy Education Association
 
-[Return to masterpost](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
+[RETURN TO MAIN LIST](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
