@@ -13,7 +13,7 @@ Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it
 
 ***
 
-##### [2021 Quincy City Council Candidates](/posts/quincy-city-council-candidates)
+##### [2021 Quincy City Council Candidate Information](/posts/quincy-city-council-candidates)
 
 ##### Direct links:
 
@@ -24,7 +24,7 @@ Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it
 
 ***
 
-##### [2021 Quincy School Committee Candidates](/posts/quincy-school-committee-candidates/)
+##### [2021 Quincy School Committee Candidate Information](/posts/quincy-school-committee-candidates/)
 
 ##### Direct links:
 
