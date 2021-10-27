@@ -6,8 +6,8 @@ layout = "single"
 subtitle = "Your guide to Quincy's city council and school committee race for 2021"
 summary = "Your guide to Quincy's city council and school committee race for 2021"
 tags = []
-title = "2021 Quincy Elections Guide"
+title = "2021 Quincy Election Guide"
 
 +++
-[2021 Quincy City Council Candidates](/quincy-city-council-candidates)  
-[2021 Quincy School Committee Candidates](/quincy-city-school-committee)
+[2021 Quincy City Council Candidates](/posts/quincy-city-council-candidates)  
+[2021 Quincy School Committee Candidates](/posts/quincy-city-school-committee)
