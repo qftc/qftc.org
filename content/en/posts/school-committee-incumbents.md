@@ -36,9 +36,9 @@ Website: [https://www.facebook.com/Gutro4Quincy](https://www.facebook.com/Gutro4
 
 ##### Health and disability:
 
+*  Supports mask mandate
 *  Member of the school committee’s Special Education Subcommittee
 *  Brought up the issue of Wheelchair Accessibility at Atlantic Middle School in 2021
-*  Supports mask mandate
 
 ##### Feminism:
 
@@ -98,10 +98,10 @@ Website: [https://www.facebook.com/EmilyLeboForQuincySchoolCommittee](https://ww
   ##### Health and disability:
 
 
-*  Member of school committee’s Special Education Subcommittee
+*  Supports mask mandate
+* Member of school committee’s Special Education Subcommittee
 *  Advocates for health educators in middle and high school, as well as expanded health and human sexuality education curriculum
 *  Advocates for mental health and wellness staff in schools
-*  Supports mask mandate
 
 ##### Feminism:
 
@@ -142,35 +142,27 @@ Website: [https://courtneyperdios.com/](https://courtneyperdios.com/ "https://co
 
 ##### Racial justice:
 
-\- Member of school committee’s Equity, Diversity, and Inclusion Subcommittee
-
-\- Helped facilitate discussion of the North Quincy High School former mascot between parents, residents, and school committee members, as former co-president of citywide parents’ council
-
-\- Supports increasing diversity of representation in the school curriculum of race, ethnicity, gender, sexuality, etc.
-
-\- Supports expanding and integrating non-white history curricula into more of the school year (such as Native American or Black history)
-
-\- Supports creation of family liaison positions in schools
-
-\- Lists “Striving for equity across the school system” and “Celebrating the diversity of our QPS community” as platform issues
+*  Member of school committee’s Equity, Diversity, and Inclusion Subcommittee
+*  Helped facilitate discussion of the North Quincy High School former mascot between parents, residents, and school committee members, as former co-president of citywide parents’ council
+*  Supports increasing diversity of representation in the school curriculum of race, ethnicity, gender, sexuality, etc.
+*  Supports expanding and integrating non-white history curricula into more of the school year (such as Native American or Black history)
+*  Supports creation of family liaison positions in schools
+*  Lists “Striving for equity across the school system” and “Celebrating the diversity of our QPS community” as platform issues
 
 ##### Environmentalism:
 
-\- Supported expansion of the school’s solar panel projects in 2021
+*  Supported expansion of the school’s solar panel projects in 2021
+*  Says she would supplement current science standards with age-appropriate education about climate change and expert speakers, supports increased recycling on school grounds, composting and reducing food waste, planting trees on school grounds, encouraging walking or biking in lieu of driving
+*  Worked as a graphic designer for Quincy Environmental Network (2001-2008) and co-organized the Quincy Community Preservation Act campaign
 
-\- Says she would supplement current science standards with age-appropriate education about climate change and expert speakers, supports increased recycling on school grounds, composting and reducing food waste, planting trees on school grounds, encouraging walking or biking in lieu of driving
+  ##### Health and disability:
 
-\- Worked as a graphic designer for Quincy Environmental Network (2001-2008) and co-organized the Quincy Community Preservation Act campaign
 
-##### Health and disability:
+*  Supports mask mandate
+*  Advocates for federal Elementary & Secondary Emergency Relief Fund Grant (ESSER III) to be used on mental health issues and other COVID-19 effects on students
+*  Lists “Streamlining the pathway to receiving special education services” as a platform issue
 
-\- Supports mask mandate
-
-\- Advocates for federal Elementary & Secondary Emergency Relief Fund Grant (ESSER III) to be used on mental health issues and other COVID-19 effects on students
-
-\- Lists “Streamlining the pathway to receiving special education services” as a platform issue
-
-Feminism:
+  ##### Feminism:
 
 \- Supports equitable access to DOVE Inc program curriculum
 
