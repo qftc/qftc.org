@@ -87,6 +87,8 @@ Linkedin: [https://www.linkedin.com/in/courtney-perdios-2976698/](https://www.li
 
 Website: [https://votespeakman.com/](https://votespeakman.com/ "https://votespeakman.com/")
 
+Facebook: [https://www.facebook.com/VoteSpeakman](https://www.facebook.com/VoteSpeakman "https://www.facebook.com/VoteSpeakman")
+
 Linkedin: [https://www.linkedin.com/in/elizabeth-speakman-005450107/](https://www.linkedin.com/in/elizabeth-speakman-005450107/ "https://www.linkedin.com/in/elizabeth-speakman-005450107/")
 
 **Tina Cahill**
