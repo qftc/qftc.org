@@ -1,6 +1,6 @@
 +++
 author = "QFTC Organizer"
-date = 2000-01-01T05:00:00Z
+date = 2021-10-27T01:30:00Z
 image_url = "/uploads/images/pexels-photo-8846632.jpeg"
 layout = "single"
 subtitle = "Masterpost of 2021 school committee candidate information"
@@ -13,9 +13,9 @@ Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it
 
 ### JUMP TO:
 
-School committee incumbents: Doug Gutro, Emily Lebo, Courtney Perdios
+[School committee incumbents: Doug Gutro, Emily Lebo, Courtney Perdios](https://qftc.org/posts/school-committee-incumbents/ "https://qftc.org/posts/school-committee-incumbents/")
 
-School committee challengers: Liz Speakman, Tina Cahill, Liberty Schaaf
+[School committee challengers: Liz Speakman, Tina Cahill, Liberty Schaaf](https://qftc.org/posts/school-committee-challengers/ "https://qftc.org/posts/school-committee-challengers/")
 
 ***
 
