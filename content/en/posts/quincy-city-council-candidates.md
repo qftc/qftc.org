@@ -18,6 +18,8 @@ Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it
 * [Ward 5 race: Chuck Phelan vs Steve Christo ](https://qftc.org/posts/ward-5-race/ "https://qftc.org/posts/ward-5-race/")
 * [At Large: Noel DiBona, Nina Liang, Anne Mahoney, Bill Burke](https://qftc.org/posts/at-large-race/ "https://qftc.org/posts/at-large-race/")
 
+[BACK TO THE MAIN ELECTION GUIDE PAGE](https://qftc.org/posts/2021-quincy-elections/ "https://qftc.org/posts/2021-quincy-elections/")
+
 ***
 
 ***
