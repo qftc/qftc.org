@@ -13,9 +13,10 @@ Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it
 
 ### JUMP TO:
 
-[School committee incumbents: Doug Gutro, Emily Lebo, Courtney Perdios](https://qftc.org/posts/school-committee-incumbents/ "https://qftc.org/posts/school-committee-incumbents/")
+* [School committee incumbents: Doug Gutro, Emily Lebo, Courtney Perdios](https://qftc.org/posts/school-committee-incumbents/ "https://qftc.org/posts/school-committee-incumbents/")
+* [School committee challengers: Liz Speakman, Tina Cahill, Liberty Schaaf](https://qftc.org/posts/school-committee-challengers/ "https://qftc.org/posts/school-committee-challengers/")
 
-[School committee challengers: Liz Speakman, Tina Cahill, Liberty Schaaf](https://qftc.org/posts/school-committee-challengers/ "https://qftc.org/posts/school-committee-challengers/")
+[BACK TO THE MAIN ELECTION GUIDE PAGE](https://qftc.org/posts/2021-quincy-elections/ "https://qftc.org/posts/2021-quincy-elections/")
 
 ***
 
