@@ -11,8 +11,27 @@ title = "2021 Quincy Election Guide"
 +++
 Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it’s difficult, time-consuming, and often overwhelming for every individual voter to comb through all of the information available, trying to pick out important factors to help determine which candidate to vote for. To assist with that, the QFTC organizers have researched every city council and school committee candidate in a contested race this year, and compiled lists of positive progressive factors (“green flags”) as well as potentially less progressive “mixed” or anti-progressive “red” flags (if applicable). We hope that this will help Quincy voters make their best and most informed decisions!
 
-[2021 Quincy City Council Candidates](/posts/quincy-city-council-candidates)  
-[2021 Quincy School Committee Candidates](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
+***
+
+[2021 Quincy City Council Candidates Main Page and Sources](/posts/quincy-city-council-candidates)
+
+Direct links:
+
+* [Ward 1 race: Dave McCarthy vs Joe Murphy](https://qftc.org/posts/ward-1-race/ "https://qftc.org/posts/ward-1-race/")
+* [Ward 2 race: Anthony Andronico vs Steve Perdios](https://qftc.org/posts/ward-2-race/ "https://qftc.org/posts/ward-2-race/")
+* [Ward 5 race: Chuck Phelan vs Steve Christo ](https://qftc.org/posts/ward-5-race/ "https://qftc.org/posts/ward-5-race/")
+* [At Large: Noel DiBona, Nina Liang, Anne Mahoney, Bill Burke](https://qftc.org/posts/at-large-race/ "https://qftc.org/posts/at-large-race/")
+
+***
+
+[2021 Quincy School Committee Candidate Main Page and Sources](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
+
+Direct links:
+
+* [School committee incumbents: Doug Gutro, Emily Lebo, Courtney Perdios](https://qftc.org/posts/school-committee-incumbents/ "https://qftc.org/posts/school-committee-incumbents/")
+* [School committee challengers: Liz Speakman, Tina Cahill, Liberty Schaaf](https://qftc.org/posts/school-committee-challengers/ "https://qftc.org/posts/school-committee-challengers/")
+
+***
 
 [Here is an article](https://qftc.org/posts/why-should-you-care-about-school-committee-elections/ "https://qftc.org/posts/why-should-you-care-about-school-committee-elections/") on why you should vote in the school committee election, whether you have children in the Quincy Public School system or not.
 
