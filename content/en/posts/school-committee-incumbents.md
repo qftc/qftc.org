@@ -164,20 +164,23 @@ Website: [https://courtneyperdios.com/](https://courtneyperdios.com/ "https://co
 
   ##### Feminism:
 
-\- Supports equitable access to DOVE Inc program curriculum
 
-\- Added “she/her” pronouns to the school policy book in 2021
+*  Supports equitable access to DOVE Inc program curriculum
+*  Added “she/her” pronouns to the school policy book in 2021
 
-##### Labor:
+  ##### Labor:
 
-\- Supports teacher raises in current contract negotiations
 
-\- Spoke up in support of the teacher’s union in 2021
+*  Supports teacher raises in current contract negotiations
+
+
+*  Spoke up in support of the teacher’s union in 2021
 
 ##### Miscellaneous:
 
-\- Requested a feasibility study of options to bring 5th grade back to Clifford Marshall & Lincoln Hancock in 2021
+*  Requested a feasibility study of options to bring 5th grade back to Clifford Marshall & Lincoln Hancock in 2021
 
-\- Endorsed by the Quincy Education Association
+
+*  Endorsed by the Quincy Education Association
 
 [RETURN TO MAIN LIST](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
