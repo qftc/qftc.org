@@ -20,57 +20,47 @@ Website: [https://www.facebook.com/Gutro4Quincy](https://www.facebook.com/Gutro4
 
 ##### Racial justice:
 
-\- Member of the school committee’s Equity, Diversity, and Inclusion Subcommittee
-
-\- Supported Massachusetts Association of School Committees resolution "diversity, inclusion and equality to be practiced in school districts" in 2020
-
-\- Supported School Committee Resolution on School Culture (“Quincy School Committee reaffirms its commitment to ensuring that the qualities of diversity, equity, and inclusion are embedded and practiced for our students, families, faculty, and staff”) in 2020
-
-\- Supports culturally responsive teaching practices, proactive positive behavior intervention and supports, diverse hiring that is reflective of the student body, increased diversity of authors in school books
-
-\- Spoke out about the “Black at Quincy High” Instagram campaign at school committee meetings
-
-\- Supported the “Fight Anti-Asian Hate Rally” in 2021 as well as the first Quincy Pride event in 2018
-
-\- Runs the environmental justice program at the United States Environmental Protection Agency (EPA)
+*  Member of the school committee’s Equity, Diversity, and Inclusion Subcommittee
+*  Supported Massachusetts Association of School Committees resolution "diversity, inclusion and equality to be practiced in school districts" in 2020
+*  Supported School Committee Resolution on School Culture (“Quincy School Committee reaffirms its commitment to ensuring that the qualities of diversity, equity, and inclusion are embedded and practiced for our students, families, faculty, and staff”) in 2020
+*  Supports culturally responsive teaching practices, proactive positive behavior intervention and supports, diverse hiring that is reflective of the student body, increased diversity of authors in school books
+*  Spoke out about the “Black at Quincy High” Instagram campaign at school committee meetings
+*  Supported the “Fight Anti-Asian Hate Rally” in 2021 as well as the first Quincy Pride event in 2018
+*  Runs the environmental justice program at the United States Environmental Protection Agency (EPA)
 
 ##### Environmentalism:
 
-\- Supported exploration of solar arrays on Quincy Public Schools properties and soliciting input about solar carports at Quincy High School and Clifford Marshall in 2021
-
-\- Supports professional development on climate change, integrating it into school curriculum, inviting expert guest speakers, energy efficient buildings, establishing waste diversion and recycling programs, and acquiring cleaner school buses as climate change mitigation strategies
-
-\- Director of Public Affairs at the New England branch of the United States Environmental Protection Agency (EPA)
+*  Supported exploration of solar arrays on Quincy Public Schools properties and soliciting input about solar carports at Quincy High School and Clifford Marshall in 2021
+*  Supports professional development on climate change, integrating it into school curriculum, inviting expert guest speakers, energy efficient buildings, establishing waste diversion and recycling programs, and acquiring cleaner school buses as climate change mitigation strategies
+*  Director of Public Affairs at the New England branch of the United States Environmental Protection Agency (EPA)
 
 ##### Health and disability:
 
-\- Member of the school committee’s Special Education Subcommittee
-
-\- Brought up the issue of Wheelchair Accessibility at Atlantic Middle School in 2021
-
-\- Supports mask mandate
+*  Member of the school committee’s Special Education Subcommittee
+*  Brought up the issue of Wheelchair Accessibility at Atlantic Middle School in 2021
+*  Supports mask mandate
 
 ##### Feminism:
 
-\- Submitted a resolution on Comprehensive Teen Dating Violence Prevention: “Be it resolved that we support implementing DOVE’s comprehensive Youth Speak Teen dating violence prevention in both high schools and all five middle schools to address the issues of sexual harassment, assault or dating abuse.” in 2021
+*  Submitted a resolution on Comprehensive Teen Dating Violence Prevention: “Be it resolved that we support implementing DOVE’s comprehensive Youth Speak Teen dating violence prevention in both high schools and all five middle schools to address the issues of sexual harassment, assault or dating abuse.” in 2021
+*  Previously served as a member of the Board of Directors for DOVE (Domestic Violence Ended)
 
-\- Previously served as a member of the Board of Directors for DOVE (Domestic Violence Ended)
+  ##### LGBTQ+:
 
-##### LGBTQ+:
 
-\- Supported Massachusetts Association of School Committees resolution “expanding protected classes to include sexual orientation and gender identity” in 2020
+*  Supported Massachusetts Association of School Committees resolution “expanding protected classes to include sexual orientation and gender identity” in 2020
+*  Supported the first Quincy Pride event in 2018
 
-\- Supported the first Quincy Pride event in 2018
+  ##### Labor:
 
-##### Labor:
 
-\- Endorsed by Norfolk Central Labor Council AFL-CIO, Local 3 Bricklayers and Allied Craftsmen, Ironworkers Local 7, Local No. 2222, the International Brotherhood of Electrical Workers, Local 133, Laborers' International Union of North America
+*  Endorsed by Norfolk Central Labor Council AFL-CIO, Local 3 Bricklayers and Allied Craftsmen, Ironworkers Local 7, Local No. 2222, the International Brotherhood of Electrical Workers, Local 133, Laborers' International Union of North America
+*  Previous member of the American Federation of Government Employees
 
-\- Previous member of the American Federation of Government Employees
+  ##### Miscellaneous:
 
-##### Miscellaneous:
 
-\- Supports universal pre-kindergarten options
+*  Supports universal pre-kindergarten options
 
 [RETURN TO MAIN LIST](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
 
@@ -88,63 +78,53 @@ Website: [https://www.facebook.com/EmilyLeboForQuincySchoolCommittee](https://ww
 
 ##### Racial justice:
 
-\- Member of school committee’s Equity, Diversity, and Inclusion Subcommittee
-
-\- Supported School Committee Resolution on School Culture (“Quincy School Committee reaffirms its commitment to ensuring that the qualities of diversity, equity, and inclusion are embedded and practiced for our students, families, faculty, and staff”) in 2020
-
-\- Advocated for and acquired additional funding for the “One Book, One School” initiative in 2021
-
-\- Advocates for restorative justice in schools
-
-\- Advocates for consistent integration of Native American history into history and social science curriculum
-
-\- Advocates for increased diversity and inclusivity in school employee recruitment and hiring practices
-
-\- Spoke out against systemic racism in Quincy during the superintendent search in 2020
-
-\- Speaks out on systemic racism and unconscious bias, and encourages QPS staff to read and educate themselves on it (specifically referencing the book Unconscious Bias in Schools)
-
-\- Speaks out about the “Black at Quincy High” Instagram campaign and supports ongoing education about race issues in school curricula
-
-\- Met with Speaker Ron Mariano and students to discuss the use of racist mascots in schools
+*  Member of school committee’s Equity, Diversity, and Inclusion Subcommittee
+*  Supported School Committee Resolution on School Culture (“Quincy School Committee reaffirms its commitment to ensuring that the qualities of diversity, equity, and inclusion are embedded and practiced for our students, families, faculty, and staff”) in 2020
+*  Advocated for and acquired additional funding for the “One Book, One School” initiative in 2021
+*  Advocates for restorative justice in schools
+*  Advocates for consistent integration of Native American history into history and social science curriculum
+*  Advocates for increased diversity and inclusivity in school employee recruitment and hiring practices
+*  Spoke out against systemic racism in Quincy during the superintendent search in 2020
+*  Speaks out on systemic racism and unconscious bias, and encourages QPS staff to read and educate themselves on it (specifically referencing the book Unconscious Bias in Schools)
+*  Speaks out about the “Black at Quincy High” Instagram campaign and supports ongoing education about race issues in school curricula
+*  Met with Speaker Ron Mariano and students to discuss the use of racist mascots in schools
 
 ##### Environmentalism:
 
-\- Supported exploration of solar arrays on Quincy Public Schools properties in 2021
+*  Supported exploration of solar arrays on Quincy Public Schools properties in 2021
+*  Worked to implement composting in schools in 2020
+*  Supports student activities and school campaigns for mitigating climate change, and courses or project-based work on climate issues in middle and high school curricula
 
-\- Worked to implement composting in schools in 2020
+  ##### Health and disability:
 
-\- Supports student activities and school campaigns for mitigating climate change, and courses or project-based work on climate issues in middle and high school curricula
 
-##### Health and disability:
+*  Member of school committee’s Special Education Subcommittee
+*  Advocates for health educators in middle and high school, as well as expanded health and human sexuality education curriculum
+*  Advocates for mental health and wellness staff in schools
+*  Supports mask mandate
 
-\- Member of school committee’s Special Education Subcommittee
+##### Feminism:
 
-\- Advocates for health educators in middle and high school, as well as expanded health and human sexuality education curriculum
+*  Submitted a resolution on Comprehensive Teen Dating Violence Prevention: “Be it resolved that we support implementing DOVE’s comprehensive Youth Speak Teen dating violence prevention in both high schools and all five middle schools to address the issues of sexual harassment, assault or dating abuse.” in 2021
 
-\- Advocates for mental health and wellness staff in schools
+  ##### LGBTQ+:
 
-\- Supports mask mandate
 
-Feminism:
-
-\- Submitted a resolution on Comprehensive Teen Dating Violence Prevention: “Be it resolved that we support implementing DOVE’s comprehensive Youth Speak Teen dating violence prevention in both high schools and all five middle schools to address the issues of sexual harassment, assault or dating abuse.” in 2021
-
-##### LGBTQ+:
-
-\- Supported Massachusetts Association of School Committees resolution “expanding protected classes to include sexual orientation and gender identity” in 2020.
+*  Supported Massachusetts Association of School Committees resolution “expanding protected classes to include sexual orientation and gender identity” in 2020.
 
 ##### Labor:
 
-\- Supports unions and collective bargaining by workers
+*  Supports unions and collective bargaining by workers
 
 ##### Miscellaneous:
 
-\- Consistently advocates for disadvantaged students and accessibility concerns, including students with limited or interrupted formal education (SLIFE), homeless or economically disadvantaged students, English Learner students, students with disabilities
+*  Consistently advocates for disadvantaged students and accessibility concerns, including students with limited or interrupted formal education (SLIFE), homeless or economically disadvantaged students, English Learner students, students with disabilities
 
-\- Supported Massachusetts Association of School Committees resolution "a moratorium on MCAS and high stakes testing" in 2020
 
-\- Endorsed by the Quincy Education Association
+*  Supported Massachusetts Association of School Committees resolution "a moratorium on MCAS and high stakes testing" in 2020
+
+
+*  Endorsed by the Quincy Education Association
 
 [RETURN TO MAIN LIST](https://qftc.org/posts/quincy-school-committee-candidates/ "https://qftc.org/posts/quincy-school-committee-candidates/")
 
