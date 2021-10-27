@@ -1,5 +1,5 @@
 +++
-author = "QFTC Staffer"
+author = "QFTC Organizer"
 date = 2021-10-27T01:27:25Z
 image_url = ""
 layout = "single"
