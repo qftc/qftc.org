@@ -75,6 +75,7 @@ fields:
     - news
   label: Tags
 pages:
+- content/en/posts/2021-quincy-elections.md
 - content/en/posts/at-large-race.md
 - content/en/posts/qftc-statement-on-candidate-endorsement.md
 - content/en/posts/quincy-city-council-candidates.md
