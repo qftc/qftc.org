@@ -35,10 +35,13 @@ Election Day, November 2nd 2021, is coming up soon! Don’t panic – we know it
 
 ##### About this election:
 
-[Why you should vote in the school committee election, whether you have children in the Quincy Public School system or not.](https://qftc.org/posts/why-should-you-care-about-school-committee-elections/)
+QFTC articles:
 
-[Why QFTC is not endorsing political candidates for this election.](https://qftc.org/posts/qftc-statement-on-candidate-endorsement/ "https://qftc.org/posts/qftc-statement-on-candidate-endorsement/")
+* [Why you should vote in the school committee election, whether you have children in the Quincy Public School system or not.](https://qftc.org/posts/why-should-you-care-about-school-committee-elections/)
+* [Why QFTC is not endorsing political candidates for this election.](https://qftc.org/posts/qftc-statement-on-candidate-endorsement/ "https://qftc.org/posts/qftc-statement-on-candidate-endorsement/")
+
+Sample ballots for each ward: [https://qftc.org/uploads/images/specimen-ballots-wards-1-2-3-4-5-6-november-2021.pdf](https://qftc.org/uploads/images/specimen-ballots-wards-1-2-3-4-5-6-november-2021.pdf "https://qftc.org/uploads/images/specimen-ballots-wards-1-2-3-4-5-6-november-2021.pdf")
 
 Find your polling station here: [www.wheredoivotema.com](www.wheredoivotema.com "www.wheredoivotema.com")
 
-Early Voting & Deadlines: [https://www.quincyma.gov/news/displaynews.htm?NewsID=1080&TargetID=1](https://www.quincyma.gov/news/displaynews.htm?NewsID=1080&TargetID=1 "https://www.quincyma.gov/news/displaynews.htm?NewsID=1080&TargetID=1")
+Early Voting & Deadlines: [www.quincyma.gov/news/displaynews.htm?NewsID=1080&TargetID=1](https://www.quincyma.gov/news/displaynews.htm?NewsID=1080&TargetID=1 "https://www.quincyma.gov/news/displaynews.htm?NewsID=1080&TargetID=1")
