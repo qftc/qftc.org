@@ -2,5 +2,5 @@
 {{ $resized := $imageResource.Resize "2880x" }}
 
 <div class="article-image-wrapper" style="text-align: {{ .Get "position" }}">
-  <img src="{{ $resized.RelPermalink | absURL }}" alt="{{ .Get "alt_text" }}" style="width: {{ .Get "width" }}">  
+  <img src="{{ $resized.RelPermalink }}" alt="{{ .Get "alt_text" }}" style="width: {{ .Get "width" }}">  
 </div>

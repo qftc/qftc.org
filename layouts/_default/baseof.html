@@ -8,38 +8,38 @@
   {{ $js := resources.Get "js/main.js" | js.Build }}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ if isset .Params "page_description" }} {{ index .Params "page_description" }}{{ end }}">
-  <link rel="stylesheet" href="{{ $style.Permalink }}">
-  <link rel="icon" type="image/png" href="{{ "images/favicon.png" | absURL }}">
-  <script type="text/javascript" src="{{ $js.Permalink }}" defer></script>
+  <link rel="stylesheet" href="{{ $style.RelPermalink }}">
+  <link rel="icon" type="image/png" href="{{ "/images/favicon.png" }}">
+  <script type="text/javascript" src="{{ $js.RelPermalink }}" defer></script>
 </head>
 <body>
   <nav class="nav">
     <a href="/" class="logo-link">
-      <img src="{{ "/images/qftc-logo.png" | absURL}}" class="logo" alt="Quincy For Transformative Change logo">
+      <img src="{{ "/images/qftc-logo.png" }}" class="logo" alt="Quincy For Transformative Change logo">
     </a>
     <div class="nav-links nav-links-hidden-mobile">
       <div class="close-nav hide-md-up" aria-hidden="true">
-        <img src="{{ "images/close.svg" | absURL }}" aria-hidden="true">
+        <img src="{{ "/images/close.svg" }}" aria-hidden="true">
       </div>
 
       {{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
       {{ range $.Site.Menus.main }}
         {{ if and (not $articles) (eq .Identifier "archive")}}
         {{ else }}
-          <a href="{{ .URL | absLangURL }}" class="nav-link {{ cond (eq $.Page.Title .Name) "active" "" }}">{{ .Name }}</a>
+          <a href="{{ .URL | relLangURL }}" class="nav-link {{ cond (eq $.Page.Title .Name) "active" "" }}">{{ .Name }}</a>
         {{ end }}
       {{ end }}
 
       {{ if .IsTranslated}}
         <div class="language-picker-mobile hide-md-up">
           <div class="nav-link active-language">
-            <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
+            <img src="{{ (print "/images/" $.Page.Language ".png") }}">
             <span>{{ $.Page.Language.Params.languageName }}</span>
           </div>
           {{ with .Translations}}
               {{ range .}}
-                <a href="{{ .Permalink }}" class="nav-link">
-                  <img src="{{ (print "/images/" .Language ".png") | absURL }}">
+                <a href="{{ .RelPermalink }}" class="nav-link">
+                  <img src="{{ (print "/images/" .Language ".png") }}">
                   <span>{{ .Language.Params.languageName }}</span>
                 </a>
               {{ end }}
@@ -48,7 +48,7 @@
       {{ end }}
     </div>
     <div class="open-nav hide-md-up" aria-hidden="true">
-      <img src="{{ "images/hamburger.svg" | absURL }}" aria-hidden="true">
+      <img src="{{ "/images/hamburger.svg" }}" aria-hidden="true">
     </div>
   </nav>
   {{ block "main" . }}
@@ -93,15 +93,15 @@
       {{ with .Translations}}
         <div class="language-picker-translations" id="language-picker-translations">
           {{ range .}}
-            <a href="{{ .Permalink }}" class="language-picker-option">
-              <img src="{{ (print "/images/" .Language ".png") | absURL }}">
+            <a href="{{ .RelPermalink }}" class="language-picker-option">
+              <img src="{{ (print "/images/" .Language ".png") }}">
               <span>{{ .Language.Params.languageName }}</span>
             </a>
           {{ end }}
         </div>
       {{ end }}
       <div class="language-picker-option-current {{ cond ($.Page.IsTranslated) "toggle-picker" "" }}">
-        <img src="{{ (print "/images/" $.Page.Language ".png") | absURL }}">
+        <img src="{{ (print "/images/" $.Page.Language ".png") }}">
         <span>{{ $.Page.Language.Params.languageName }}</span>
       </div>
     </div>

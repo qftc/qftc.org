@@ -1,4 +1,4 @@
-baseURL: "/"
+baseURL: ""
 defaultContentLanguage: en
 params:
   defaultLang: en

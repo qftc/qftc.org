@@ -2,7 +2,7 @@
 <article>
   {{ if $imageResource }}
     {{ $resized := $imageResource.Fill "2880x712" }}
-    <section class="hero" style="background-image: url({{ $resized.RelPermalink | absURL }});">
+    <section class="hero" style="background-image: url({{ $resized.RelPermalink }});">
       <div class="hero-overlay"></div>
   {{ else }}
     <section class="hero">

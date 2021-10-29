@@ -5,8 +5,8 @@
       {{ if $imageResource }}
         {{ $resized := $imageResource.Fill "436x340" }}
         <div class="post-summary-image">
-          <img src="{{ "images/post-summary-image-dots.svg" | absURL }}" class="post-summary-image-dots" aria-hidden="true">
-          <div class="post-summary-image-frame" style="background-image: url({{ $resized.RelPermalink | absURL }});"></div>
+          <img src="{{ "/images/post-summary-image-dots.svg" }}" class="post-summary-image-dots" aria-hidden="true">
+          <div class="post-summary-image-frame" style="background-image: url({{ $resized.RelPermalink }});"></div>
         </div>
       {{ end }}
     {{ end }}
@@ -14,7 +14,7 @@
   <div class="col-md-8 col-12">
     <h5>{{ .Title }}</h5>
     <p>{{ .Params.summary }}</p>
-    <a href="{{.Permalink}}" class="button-secondary">
+    <a href="{{.RelPermalink}}" class="button-secondary">
       <div class="text">
       {{ if eq .Type "campaigns" }} {{ $.Site.Params.campaigns_cta }} {{ end }}
       {{ if eq .Type "posts" }} {{ $.Site.Params.posts_cta }} {{ end }}

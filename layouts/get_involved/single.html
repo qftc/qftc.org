@@ -33,7 +33,7 @@
                   <div class="row action-summary">
                     <div class="col-12">
                       <h5>{{ .Title }}</h5>
-                      <a href="{{.Permalink}}" class="button-secondary">
+                      <a href="{{.RelPermalink}}" class="button-secondary">
                         <div class="text">{{$.Site.Params.campaigns_cta}}</div>
                       </a>
                     </div>
@@ -52,15 +52,15 @@
       </div>
     </section>
   <section class="section-light" id="{{ replace (lower .Params.task_forces.headline) " " "-"}}">
-    <img src="{{ "/images/section-blob-top-left-yellow.svg" | absURL }}" class="section-blob-top-left" aria-hidden="true">
-    <img src="{{ "/images/section-blob-bottom-right-blue.svg" | absURL }}" class="section-blob-bottom-right" aria-hidden="true">
+    <img src="{{ "/images/section-blob-top-left-yellow.svg" }}" class="section-blob-top-left" aria-hidden="true">
+    <img src="{{ "/images/section-blob-bottom-right-blue.svg" }}" class="section-blob-bottom-right" aria-hidden="true">
     <h3 class="center-text"> {{ .Params.task_forces.headline }} </h3>
     <div class="container">
       <div class="row">
         {{ range $.Site.Data.task_forces }}
           {{ $icon_url := print "/images/icon-" (replace (lower .name) " " "-") ".svg" }}
           <div class="task-force col-md-6 col-12 center-text">
-            <img src="{{ $icon_url | absURL }}" aria-hidden="true">
+            <img src="{{ $icon_url }}" aria-hidden="true">
             <h5>{{ .name }}</h5>
             <p>{{ .blurb }}</p>
           </div>
