@@ -6,6 +6,9 @@
   {{ $sass := resources.Get "styles/main.scss" }}
   {{ $style := $sass | resources.ToCSS $options }}
   {{ $js := resources.Get "js/main.js" | js.Build }}
+  {{ with .Params.forestry_instant_preview_id }}
+  {{- safeHTML (printf "<meta property='forestry_instant_preview_id' content='%s'>" .) -}}
+  {{ end -}}
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="description" content="{{ if isset .Params "page_description" }} {{ index .Params "page_description" }}{{ end }}">
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
