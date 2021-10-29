@@ -1,4 +1,5 @@
 baseURL: ""
+enableRobotsTXT: true
 defaultContentLanguage: en
 params:
   defaultLang: en
