@@ -2,8 +2,7 @@ baseURL: ""
 enableRobotsTXT: true
 defaultContentLanguage: en
 params:
-  defaultLang: en
-  mainSections: 
+  mainSections:
     - campaigns
     - posts
 languages:
