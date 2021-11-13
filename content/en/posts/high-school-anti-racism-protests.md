@@ -22,6 +22,12 @@ The long-term and institutional nature of the administration's inability to reck
 
 **We urge everyone - whether you have children in the Quincy public school system or not - to demonstrate solidarity and support for the students who are leading the fight for systemic change.** Lets show the school administration and the city as a whole that we stand with them in creating a more just and inclusive Quincy.
 
-The school administration will be holding another community forum regarding the hate speech incidents in the past week, for parents and guardians to attend on Nov. 15 (Monday) at 5 pm in Quincy High School Auditorium ([citation](https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_12_2021_message_from_superintendent_mulvey "https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_12_2021_message_from_superintendent_mulvey")). 
+##### Things you can do:
+
+1. The school administration will be holding another community forum regarding the hate speech incidents in the past week, for parents and guardians to attend on Nov. 15 (Monday) at 5 pm in Quincy High School Auditorium ([citation](https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_12_2021_message_from_superintendent_mulvey "https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_12_2021_message_from_superintendent_mulvey")). Come stand outside the school with fellow 
+2. Write or call members of the school administration about this issue:
+   * Contact info for school committee members and superintendent [here](https://www.quincypublicschools.com/school_committee/quincy_school_committee_members_2018-2019 "https://www.quincypublicschools.com/school_committee/quincy_school_committee_members_2018-2019")
+   * QHS Principal Larry Taglieri: 617-376-3352 or [**lawrencetaglieri@quincypublicschools.com**](mailto:lawrencetaglieri@quincypublicschools.com)
+   * NQHS Principal Keith Ford: 617-984-8744 or [**keithford@quincypublicschools**](mailto:keithford@quincypublicschools)
 
  
