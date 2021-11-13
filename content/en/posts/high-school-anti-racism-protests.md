@@ -1,7 +1,6 @@
 +++
 author = "QFTC Organizer"
 date = 2021-11-13T06:00:33Z
-draft = true
 image_url = "/uploads/images/image2.jpeg"
 layout = "single"
 subtitle = "Students from Quincy and North Quincy High School are protesting against racism in their school system"
