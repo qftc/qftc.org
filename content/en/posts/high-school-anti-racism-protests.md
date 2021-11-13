@@ -24,7 +24,7 @@ The long-term and institutional nature of the administration's inability to reck
 
 ##### Things you can do:
 
-1. The school administration will be holding another community forum regarding the hate speech incidents in the past week, for parents and guardians to attend on Nov. 15 (Monday) at 5 pm in Quincy High School Auditorium ([citation](https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_12_2021_message_from_superintendent_mulvey "https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_12_2021_message_from_superintendent_mulvey")). Come stand outside the school with fellow 
+1. The school administration will be holding another community forum regarding the hate speech incidents in the past week, for parents and guardians to attend on Nov. 15 (Monday) at 5 pm in Quincy High School Auditorium ([citation](https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_12_2021_message_from_superintendent_mulvey "https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_12_2021_message_from_superintendent_mulvey")). Come stand outside the school with fellow progressive Quincy residents!
 2. Write or call members of the school administration about this issue:
    * Contact info for school committee members and superintendent [here](https://www.quincypublicschools.com/school_committee/quincy_school_committee_members_2018-2019 "https://www.quincypublicschools.com/school_committee/quincy_school_committee_members_2018-2019")
    * QHS Principal Larry Taglieri: 617-376-3352 or [**lawrencetaglieri@quincypublicschools.com**](mailto:lawrencetaglieri@quincypublicschools.com)
