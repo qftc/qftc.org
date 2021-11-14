@@ -30,6 +30,4 @@ The long-term and institutional nature of the administration's inability to reck
    * QHS Principal Larry Taglieri: 617-376-3352 or [**lawrencetaglieri@quincypublicschools.com**](mailto:lawrencetaglieri@quincypublicschools.com)
    * NQHS Principal Keith Ford: 617-984-8744 or [**keithford@quincypublicschools**](mailto:keithford@quincypublicschools)
 
- 
-
 **Postscript**: On 11/13/2021, another racist video created by students at Point Webster Middle School was reported to the school administration. ([citation](https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_13_2021_message_from_p_w_m_s_principal_barrett "https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_13_2021_message_from_p_w_m_s_principal_barrett"))
