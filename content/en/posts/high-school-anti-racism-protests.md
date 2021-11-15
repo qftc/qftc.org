@@ -1,7 +1,7 @@
 +++
 author = "QFTC Organizer"
 date = 2021-11-13T06:00:33Z
-image_url = "/uploads/images/image2.jpeg"
+image_url = "/uploads/images/school-rally-poster-thingy.png"
 layout = "single"
 subtitle = "Students from Quincy and North Quincy High School are protesting against racism in their school system"
 summary = "Students from Quincy and North Quincy High School are protesting against racism in their school system"
