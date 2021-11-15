@@ -52,8 +52,8 @@
       </div>
     </section>
   <section class="section-light" id="{{ replace (lower .Params.task_forces.headline) " " "-"}}">
-    <img src="{{ "/images/section-blob-top-left-yellow.svg" }}" class="section-blob-top-left" aria-hidden="true">
-    <img src="{{ "/images/section-blob-bottom-right-blue.svg" }}" class="section-blob-bottom-right" aria-hidden="true">
+    <img src="{{ "/images/section-blob-top-left-yellow.svg" }}" alt="" class="section-blob-top-left" aria-hidden="true">
+    <img src="{{ "/images/section-blob-bottom-right-blue.svg" }}" alt="" class="section-blob-bottom-right" aria-hidden="true">
     <h3 class="center-text"> {{ .Params.task_forces.headline }} </h3>
     <div class="container">
       <div class="row">
@@ -91,7 +91,7 @@
     </div>
   </section>
 
-  <script type="text/javascript">
+  <script>
     window.onload = (event) => {
       smoothScroll();
     }

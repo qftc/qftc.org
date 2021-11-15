@@ -5,7 +5,7 @@
       {{ if $imageResource }}
         {{ $resized := $imageResource.Fill "436x340" }}
         <div class="post-summary-image">
-          <img src="{{ "/images/post-summary-image-dots.svg" }}" class="post-summary-image-dots" aria-hidden="true">
+          <img src="{{ "/images/post-summary-image-dots.svg" }}" alt="" class="post-summary-image-dots" aria-hidden="true">
           <div class="post-summary-image-frame" style="background-image: url({{ $resized.RelPermalink }});"></div>
         </div>
       {{ end }}

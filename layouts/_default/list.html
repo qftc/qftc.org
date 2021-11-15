@@ -3,14 +3,14 @@
     <h1>{{ .Title }}</h1>
   </section>
   <section class="section-light">
-    <img src="{{ "/images/section-blob-top-left-yellow.svg" }}" class="section-blob-top-left" aria-hidden="true">
-    <img src="{{ "/images/section-blob-bottom-right-blue.svg" }}" class="section-blob-bottom-right" aria-hidden="true">
+    <img src="{{ "/images/section-blob-top-left-yellow.svg" }}" alt="" class="section-blob-top-left" aria-hidden="true">
+    <img src="{{ "/images/section-blob-bottom-right-blue.svg" }}" alt="" class="section-blob-bottom-right" aria-hidden="true">
     <div class="container">
       <div class="row justify-content-center">
         <div class="col-md-12">
           {{ template "_internal/pagination.html" . }}
           <div class="squiggle center-text">
-            <img src="{{ "/images/headline-squiggle.svg" }}" aria-hidden="true">
+            <img src="{{ "/images/headline-squiggle.svg" }}" alt="" aria-hidden="true">
           </div>
           {{ with .Paginator }}
           {{ range .Pages}}
@@ -18,7 +18,7 @@
           {{ end }}
           {{ end }}
           <div class="squiggle center-text">
-            <img src="{{ "/images/headline-squiggle.svg" }}" aria-hidden="true">
+            <img src="{{ "/images/headline-squiggle.svg" }}" alt="" aria-hidden="true">
           </div>
           {{ template "_internal/pagination.html" . }}
         </div>
