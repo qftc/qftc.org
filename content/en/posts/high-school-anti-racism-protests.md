@@ -6,10 +6,10 @@ layout = "single"
 subtitle = "Students from Quincy and North Quincy High School are protesting against racism in their school system"
 summary = "Students from Quincy and North Quincy High School are protesting against racism in their school system"
 tags = ["news", "take action", "protest", "article"]
-title = "Help our high school students fight racism!"
+title = "Support Quincy students against racism!"
 
 +++
-![](/uploads/images/school-rally-poster-thingy.png)
+[![Support Quincy Students Against Racism - Rally at QHS Monday Nov 15 4:30PM](/uploads/images/school-rally-poster-thingy.png)](https://www.facebook.com/events/997638750800359/)
 
 On November 5, 2021, the Quincy Public School administration announced their finding that North Quincy and Quincy High School students had been sharing video and audio files on social media that contained sexual harassment and hate speech ([citation](https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_5_2021_message_from_superintendent_mulvey "https://www.quincypublicschools.com/kindergarten_registration_for_2020-21/11_5_2021_message_from_superintendent_mulvey")). On Nov. 9, a video created by Quincy High School students that contained extreme anti-Black racist hate speech came to light as well ([citation](https://www.quincypublicschools.com/cms/One.aspx?portalId=22782402&pageId=50065059 "https://www.quincypublicschools.com/cms/One.aspx?portalId=22782402&pageId=50065059")). On Nov. 12, hundreds of Quincy High School students walked out in protest of the latter video and the systemic injustice that it highlights, joined by numerous North Quincy High School students (citation [here ](https://www.nbcboston.com/news/local/quincy-high-to-hold-meeting-after-students-fight-over-racist-video/2564846/  "https://www.nbcboston.com/news/local/quincy-high-to-hold-meeting-after-students-fight-over-racist-video/2564846/ ")and [here](https://www.patriotledger.com/story/news/2021/11/12/students-walk-out-quincy-high-protesting-racism-hate-speech/8584489002/ "https://www.patriotledger.com/story/news/2021/11/12/students-walk-out-quincy-high-protesting-racism-hate-speech/8584489002/"), photos [here](https://www.patriotledger.com/picture-gallery/news/2021/11/12/photos-quincy-high-school-students-walk-out-protest-racism-school/8588530002 "https://www.patriotledger.com/picture-gallery/news/2021/11/12/photos-quincy-high-school-students-walk-out-protest-racism-school/8588530002")).
 
