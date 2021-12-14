@@ -36,13 +36,13 @@
       {{ if .IsTranslated}}
         <div class="language-picker-mobile hide-md-up">
           <div class="nav-link active-language">
-            <img src="{{ "/images/" $.Page.Language ".png" }}" alt="">
+            <img src="{{ print "/images/" $.Page.Language ".png" }}" alt="">
             <span>{{ $.Page.Language.Params.languageName }}</span>
           </div>
           {{ with .Translations}}
               {{ range .}}
                 <a href="{{ .RelPermalink }}" class="nav-link">
-                  <img src="{{ "/images/" .Language ".png" }}" alt="">
+                  <img src="{{ print "/images/" .Language ".png" }}" alt="">
                   <span>{{ .Language.Params.languageName }}</span>
                 </a>
               {{ end }}
@@ -96,14 +96,14 @@
         <div class="language-picker-translations" id="language-picker-translations">
           {{ range .}}
             <a href="{{ .RelPermalink }}" class="language-picker-option">
-              <img src="{{ "/images/" .Language ".png" }}" alt="">
+              <img src="{{ print "/images/" .Language ".png" }}" alt="">
               <span>{{ .Language.Params.languageName }}</span>
             </a>
           {{ end }}
         </div>
       {{ end }}
       <div class="language-picker-option-current {{ cond ($.Page.IsTranslated) "toggle-picker" "" }}">
-        <img src="{{ "/images/" $.Page.Language ".png" }}" alt="">
+        <img src="{{ print "/images/" $.Page.Language ".png" }}" alt="">
         <span>{{ $.Page.Language.Params.languageName }}</span>
       </div>
     </div>
