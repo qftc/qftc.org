@@ -1,7 +1,6 @@
 +++
 author = "QFTC Staffer"
 date = 2021-12-14T01:49:59Z
-draft = true
 image_url = "/uploads/images/qhs-chalk-art-poster.png"
 layout = "single"
 subtitle = "Community chalk event at Quincy High School "
