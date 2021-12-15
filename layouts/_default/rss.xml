@@ -37,7 +37,7 @@
       {{- $imageResource := ($.Sites.First.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) -}}
       {{- if $imageResource -}}
       {{- $resized := $imageResource.Fill "436x340 jpg" -}}
-      <enclosure url="{{ $resized.RelPermalink }}" type="image/jpeg" />
+      <enclosure url="{{ $resized.Permalink }}" type="image/jpeg" />
       {{- end -}}
       {{- end }}
     </item>
