@@ -1,8 +1,8 @@
 <!DOCTYPE html>
-<html lang="{{ .Page.Language.Lang}}">
+<html lang="{{ .Page.Language.Lang }}">
 <head>
-	<title>{{.Title}} | {{.Site.Title}}</title>
-  {{ $options := (dict "outputStyle" "compressed")}}
+  <title>{{.Title }} | {{.Site.Title }}</title>
+  {{ $options := (dict "outputStyle" "compressed") }}
   {{ $sass := resources.Get "styles/main.scss" }}
   {{ $style := $sass | resources.ToCSS $options }}
   {{ $js := resources.Get "js/main.js" | js.Build }}
@@ -13,6 +13,9 @@
   <meta name="description" content="{{ if isset .Params "page_description" }} {{ index .Params "page_description" }}{{ end }}">
   <link rel="stylesheet" href="{{ $style.RelPermalink }}">
   <link rel="icon" type="image/png" href="{{ "/images/favicon.png" }}">
+  {{ range .AlternativeOutputFormats -}}
+    {{ printf `<link rel="%s" type="%s" href="%s" title="%s" />` .Rel .MediaType.Type .Permalink $.Site.Title | safeHTML }}
+  {{ end -}}
   <script src="{{ $js.RelPermalink }}" defer></script>
 </head>
 <body>
@@ -27,20 +30,20 @@
 
       {{ $articles := where site.RegularPages "Type" "in" site.Params.mainSections }}
       {{ range $.Site.Menus.main }}
-        {{ if and (not $articles) (eq .Identifier "archive")}}
+        {{ if and (not $articles) (eq .Identifier "archive") }}
         {{ else }}
           <a href="{{ .URL | relLangURL }}" class="nav-link {{ cond (eq $.Page.Title .Name) "active" "" }}">{{ .Name }}</a>
         {{ end }}
       {{ end }}
 
-      {{ if .IsTranslated}}
+      {{ if .IsTranslated }}
         <div class="language-picker-mobile hide-md-up">
           <div class="nav-link active-language">
             <img src="{{ print "/images/" $.Page.Language ".png" }}" alt="">
             <span>{{ $.Page.Language.Params.languageName }}</span>
           </div>
-          {{ with .Translations}}
-              {{ range .}}
+          {{ with .Translations }}
+              {{ range . }}
                 <a href="{{ .RelPermalink }}" class="nav-link">
                   <img src="{{ print "/images/" .Language ".png" }}" alt="">
                   <span>{{ .Language.Params.languageName }}</span>
@@ -92,9 +95,9 @@
   </footer>
   {{ if .IsTranslated }}
     <div class="language-picker">
-      {{ with .Translations}}
+      {{ with .Translations }}
         <div class="language-picker-translations" id="language-picker-translations">
-          {{ range .}}
+          {{ range . }}
             <a href="{{ .RelPermalink }}" class="language-picker-option">
               <img src="{{ print "/images/" .Language ".png" }}" alt="">
               <span>{{ .Language.Params.languageName }}</span>

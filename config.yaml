@@ -1,5 +1,7 @@
 baseURL: ""
 enableRobotsTXT: true
+copyright:  Content on this site is licensed under the Creative Commons Attribution 4.0 International license
+languageCode: en-US
 defaultContentLanguage: en
 params:
   mainSections:
@@ -38,7 +40,7 @@ languages:
       posts_cta: Read More
   zh:
     contentDir: content/zh
-    languagedirection: rtl
+    languageDirection: rtl
     title: QFTC
     weight: 2
     menu:
@@ -69,7 +71,7 @@ languages:
       posts_cta: Read More
   zh-TW:
     contentDir: content/zh-TW
-    languagedirection: rtl
+    languageDirection: rtl
     title: QFTC
     weight: 3
     menu:
@@ -100,7 +102,7 @@ languages:
       posts_cta: Read More
   es:
     contentDir: content/es
-    languagedirection: rtl
+    languageDirection: rtl
     title: QFTC
     weight: 4
     menu:
