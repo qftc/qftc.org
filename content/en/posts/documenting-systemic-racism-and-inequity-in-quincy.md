@@ -10,7 +10,6 @@ tags = ["resources", "blog", "article"]
 title = "Documenting Systemic Racism and Inequity in Quincy"
 
 +++
-
 # **Executive Summary**
 
 This report aims to provide an initial review of systemic racism and inequities within the city of Quincy, analyzed through five main categories: 1. City Government and Services, 2. Healthcare, 3. Housing, 4. Police and Criminal Justice, and 5. Schooling.
@@ -25,7 +24,7 @@ This report finds structural racism and inequities continue to exist throughout 
 
 This report is by no means comprehensive. Instead, it aims to be a starting point for the commission to continue further investigating issues of racism and inequity in Quincy. As a local grass-roots group, our work cannot compare to city-led data analysis and reports on these topics. We urge the city to take responsibility and lead these efforts against systemic racism and inequity.
 
-## **Section 1: City Government & Services**
+# **Section 1: City Government & Services**
 
 ### Research Findings:
 
@@ -35,8 +34,6 @@ This report is by no means comprehensive. Instead, it aims to be a starting poin
   * Quincy has a large community that has limited English proficiency, with 20.35% of the population speaking English “less than very well”. The largest community speaking a language besides English is by far the Chinese speakers, comprising 17.8% of Quincy’s residents, with those speaking English “less than very well” making up 12.75% of the population. ([source](https://www.sec.state.ma.us/census2020/img/umdi-fs/Quincy_The%20Census%202020%20Low%20Response%20Score.pdf))
   * Quincy previously released their [Language Access Plan](https://www.eac.gov/sites/default/files/event_document/files/Voter_Language_Presentation.pdf) that includes increased outreach
   * Given Quincy’s large population with limited English proficiency, continued analysis and growth is needed for language accessible services – in the city, schools, and more.
-
-
 * There is an "Asian Office" with an Asian Liaison in Quincy government. ([source](https://www.quincyma.gov/govt/depts/asian_office.htm)) However, other minorities do not have equivalent liaison access, interpretation information, and referral to assistance programs.
 
 ### To Look Into:
@@ -50,7 +47,7 @@ This report is by no means comprehensive. Instead, it aims to be a starting poin
 * Create and fund Equity, Diversity, and Inclusion initiatives for government, including liaison(s) for other minority races
 * Increase outreach for Quincy’s Language Access Plans
 
-## **Section 2: Health & Healthcare**
+# **Section 2: Health & Healthcare**
 
 ### Research Findings:
 
@@ -82,7 +79,7 @@ This report is by no means comprehensive. Instead, it aims to be a starting poin
 * Assisting with medical outreach to underserved communities, especially with regard to cultural competency or language services (for example, Nina Liang's multilingual COVID vaccine clinic for seniors in early 2021)
 * Identify barriers for grocery store locations in Quincy's food deserts, and what can be done (for instance, zoning changes).
 
-## **Section 3: Housing**
+# **Section 3: Housing**
 
 ### Research Findings:
 
@@ -119,7 +116,7 @@ Source: [Census Scope for Q](https://www.censusscope.org/us/s25/p55745/chart_dis
 
 * Ensure that funds from the Quincy affordable housing trust (from local developers' contributions), as well as federally funded community development block grants, are being equitably allocated to minority races' needs.
 
-## **Section 4: Policing & The Criminal Justice System**
+# **Section 4: Policing & The Criminal Justice System**
 
 ### Research Findings:
 
@@ -140,7 +137,7 @@ Source: [Census Scope for Q](https://www.censusscope.org/us/s25/p55745/chart_dis
   * One particular question of interest: how many people avoid the police or how many incidents go unreported because of perceived potential adverse outcomes from dealing with the police?
 * Increase transparency and oversight over the police department's accounting ([see here](https://www.wcvb.com/article/special-night-pay-for-officers-who-work-days-costs-city-big-money/35601063))
 
-## **Section 5: Schooling**
+# **Section 5: Schooling**
 
 ### Research Findings:
 
@@ -149,9 +146,7 @@ Source: [Census Scope for Q](https://www.censusscope.org/us/s25/p55745/chart_dis
 
 ![](https://lh6.googleusercontent.com/TF7lYRPjI7_4lvppY79yiPwyyVM_ajlCCypQF_LEzXTLXoG7fZLkwX1qCG6AwU0gP_vBIYoNjUVxbQSlSnU6hXGXUCzH65_2LZzQS0QIdPWMfXa-z5pJf5QWM77IMnYE_861AGZc =484x351)
 
-* Caption**:** the figure above shows school staff diversity in 11 neighboring school systems of cities similar in size to Quincy. Quincy is last in the list. ([source](https://docs.google.com/spreadsheets/d/1R7aSAI7qsAbqRLeKYdhu9AYXEPgO0JF6SF1S1bFFzJ8/edit#gid=760314839))
-
-
+* Caption: the figure above shows school staff diversity in 11 neighboring school systems of cities similar in size to Quincy. Quincy is last in the list. ([source](https://docs.google.com/spreadsheets/d/1R7aSAI7qsAbqRLeKYdhu9AYXEPgO0JF6SF1S1bFFzJ8/edit#gid=760314839))
 * Racial inequities exist in Quincy Public School’s discipline rates.
   * In Quincy’s schools, where Black students make up 7% of the student population, they accounted for 20% of all disciplinary incidents in the 2019-2020 school year, representing the largest group of students suspended. ([source](https://profiles.doe.mass.edu/ssdr/?orgcode=02430000&fycode=2020))
   * In 2021, Weymouth High School, Quincy’s South West Middle School, Plymouth as a district, both Plymouth high schools, and Rockland High School were identified by the state and placed into a program for schools that suspend students of color or students with disabilities at a disproportionate rate. ([source](https://www.patriotledger.com/story/news/2021/06/11/black-students-suspended-more-than-white-south-shore-schools/7414000002/))
