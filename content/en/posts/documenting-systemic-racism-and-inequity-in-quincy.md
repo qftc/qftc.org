@@ -1,7 +1,6 @@
 +++
 author = "QFTC Organizer"
 date = 2021-12-10T13:05:32Z
-draft = true
 image_url = "/uploads/images/micheile-henderson-03nmnuqhpde-unsplash.jpg"
 layout = "single"
 subtitle = "A starting point for the Commission on Equity and Inclusion to continue further investigation on issues of racism and inequity in the city, in order to determine what actions can be taken to mitigate them"
