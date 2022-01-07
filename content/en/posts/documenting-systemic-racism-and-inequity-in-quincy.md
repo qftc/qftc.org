@@ -154,7 +154,7 @@ Source: [Census Scope for Q](https://www.censusscope.org/us/s25/p55745/chart_dis
 
 * In the past year, QPS' Racial Climate Assessment was conducted through VISIONS - what are the results of that?
 * Is there a nurse in every school every day? Does their diversity reflect the student body, and are they culturally competent?
-* Perform a comprehensive survey and study on inclusion and anti-racism/hate speech to diagnose long-standing problems of racism and hate in the School District. See [Monroe School District’s comprehensive report ](https://drive.google.com/file/d/1SSwMTcwYlzYlIOxBqF3IycndZZsRMKPa/view)for an example.
+* Perform a comprehensive survey and study on inclusion and anti-racism/hate speech to diagnose long-standing problems of racism and hate in the School District. See [Monroe School District’s comprehensive report ](https://go.boarddocs.com/wa/mpswa/Board.nsf/files/BX729M011BE0/$file/Monroe%20Inclusion%20Collective%20Presentation.pdf)for an example.
 * Request a _full_ report from QPS on demographic data, and data on the rates and types of punishments (in and out of school suspensions) across the school system by race/ethnicity.
 
 ### Action Points:
