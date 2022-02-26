@@ -1,7 +1,6 @@
 +++
 author = "QFTC Organizer"
 date = 2022-02-26T22:34:25Z
-draft = true
 image_url = "/uploads/images/image2.jpeg"
 layout = "single"
 subtitle = "And how does it relate to the Department of Social Justice and Equity?"
