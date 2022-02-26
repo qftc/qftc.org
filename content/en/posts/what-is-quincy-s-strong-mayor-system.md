@@ -26,7 +26,7 @@ This mayoral commission has no public presence or contact information, and is no
 
 Again and again, Quincy residents have testified to their experiences of structural, institutional, and interpersonal racism, and asserted the need for the DSJE. \[7\] In 2021, over 700 people signed a petition in support of the creation of the department. \[8\] At the city council meeting on January 24, city councillors are once again seeking funding for the DSJE that they have already created last year. They are asking the mayor to set aside $75000; a tiny proportion of the city budget, which totalled approx. $350 million last year. \[9\] This proposal is now undergoing further discussion in the council's Oversight and Finance Committee. 
 
-**Write in and show your support for funding the DSJE!**
+**Write or call to show your support for funding the DSJE!**
 
 Contact information for the Mayor's office: [https://www.quincyma.gov/government/elected_officials/mayor_s_office/staff___contacts.php](https://www.quincyma.gov/government/elected_officials/mayor_s_office/staff___contacts.php "https://www.quincyma.gov/government/elected_officials/mayor_s_office/staff___contacts.php")
 
