@@ -32,7 +32,7 @@ Contact information for the Mayor's office: [https://www.quincyma.gov/government
 
 Contact information for city council: [https://www.quincyma.gov/government/elected_officials/city_council/councillor_information/index.php](https://www.quincyma.gov/government/elected_officials/city_council/councillor_information/index.php "https://www.quincyma.gov/government/elected_officials/city_council/councillor_information/index.php")
 
-\* **Note**: General government includes finances, planning and zoning, the health department, and veterans' services department. Public safety includes the police department, fire department, and department of inspectional services. Natural resources includes the park, forestry, recreation, and conservation divisions. Public works includes the sewer, water, and drain department. Public service includes the Thomas Crane Public Library and the Park and Recreation board. Central service includes automotive and maintenance, equipment, printing, and information technology divisions and departments.
+***
 
 ##### Citations:
 
@@ -53,3 +53,7 @@ Contact information for city council: [https://www.quincyma.gov/government/elect
 8\.  [http://bit.ly/qftcequityenglish](http://bit.ly/qftcequityenglish "http://bit.ly/qftcequityenglish")
 
 9\. [https://cms7files1.revize.com/quincyma/Agendas%20&%20Minutes/City%20Council/City%20Council/Minutes/Council_Minutes_2022_01_24.pdf](https://cms7files1.revize.com/quincyma/Agendas%20&%20Minutes/City%20Council/City%20Council/Minutes/Council_Minutes_2022_01_24.pdf "https://cms7files1.revize.com/quincyma/Agendas%20&%20Minutes/City%20Council/City%20Council/Minutes/Council_Minutes_2022_01_24.pdf")
+
+*** Note:** General government includes finances, planning and zoning, the health department, and veterans' services department. Public safety includes the police department, fire department, and department of inspectional services. Natural resources includes the park, forestry, recreation, and conservation divisions. Public works includes the sewer, water, and drain department. Public service includes the Thomas Crane Public Library and the Park and Recreation board. Central service includes automotive and maintenance, equipment, printing, and information technology divisions and departments.
+
+##### 
