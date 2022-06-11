@@ -1,7 +1,6 @@
 +++
 author = "Rev. Mat Thomas"
 date = 2022-06-11T05:48:07Z
-draft = true
 image_url = "/uploads/images/freejaivon-flag-day-1.png"
 layout = "single"
 subtitle = "Jaivon Harris is being unjustly detained for a crime he did not commit"
