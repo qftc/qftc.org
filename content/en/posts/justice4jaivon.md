@@ -13,7 +13,7 @@ Greetings,
 
 I'm Reverend Mat Thomas, pastor of  the Bethel Church of the Nazarene  in the Germantown section of Quincy, Massachusetts.  I also co-lead a few different activist organizations in Quincy (Quincy 4 Justice and Quincy for Transformative Change).
 
-I'm calling on all of you reading this to support an 18 Quincy High School Junior named Jaivon Harris.
+I'm calling on all of you reading this to support an 18 year old Quincy High School Junior named Jaivon Harris.
 
 Jaivon is the oldest of 4 and his parents could not be more proud of the young man he is. He’s played football for the Dorchester Eagles,  Lacrosse for Metro, and basketball for a community team.  Jaivon was studying tradelines in finance with the goal of being an entrepreneur who brings positive change to his own community.  He's a young man who believes in the idea of “each one, teach one.”
 
