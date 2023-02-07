@@ -5,12 +5,12 @@ draft = true
 image_url = "/uploads/images/fb_img_1675732636418.jpg"
 layout = "single"
 subtitle = "Want Social Justice and Equity in the City of Quincy? Please Take Action Now!"
-summary = "Take action on the Quincy Community Liaison, the Mayor's Committee, and the Department of Social Justice and Equity"
+summary = "Take action on the Quincy Community Liaison, the Mayor's Commission, and the Department of Social Justice and Equity"
 tags = ["petition", "take action"]
 title = "Call for Equity and Inclusion in Quincy Government"
 
 +++
-![](/uploads/images/fb_img_1675732636418.jpg)
+![Tell Quincy City Council to demand answers from the mayor's office about stalled efforts to address issues around racism and discrimination in the city. For more information, see https://tinyurl.com/resolve238](/uploads/images/fb_img_1675732636418.jpg "Call to Action")
 
 **Dear Friends of Quincy for Transformative Change,** 
 
