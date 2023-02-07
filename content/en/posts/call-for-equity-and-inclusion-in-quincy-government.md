@@ -12,7 +12,7 @@ title = "Call for Equity and Inclusion in Quincy Government"
 +++
 ![](/uploads/images/fb_img_1675732636418.jpg)
 
-**Dear Friends of Quincy for Transformative Change,**
+**Dear Friends of Quincy for Transformative Change,** 
 
 **As you all remember, the people of Quincy have been asking for a Department of Social Justice and Equity for a long time, and then ultimately, demanded a nearly unanimous vote by City Council, in January 2021. Despite the will of the people, the Mayor, in a very unprecedented rejection, refused to fund the Department. After a long delay, he said that he would fund a liaison position, under his own office. It's been too long, and there's no action. Now we ask you to support Councilors Mahoney and Liang, as we reawaken the will to act. Here's how you participate.**
 
