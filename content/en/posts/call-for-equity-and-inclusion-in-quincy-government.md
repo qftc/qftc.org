@@ -1,7 +1,6 @@
 +++
 author = "Mimi Balsamo, Coordinator for Standout Quincy 4 Black Lives"
 date = 2023-02-07T22:07:58Z
-draft = true
 image_url = "/uploads/images/fb_img_1675732636418.jpg"
 layout = "single"
 subtitle = "Want Social Justice and Equity in the City of Quincy? Please Take Action Now!"
