@@ -12,24 +12,23 @@ title = "Call for Equity and Inclusion in Quincy Government"
 +++
 ![Tell Quincy City Council to demand answers from the mayor's office about stalled efforts to address issues around racism and discrimination in the city. For more information, see https://tinyurl.com/resolve238](/uploads/images/fb_img_1675732636418.jpg "Call to Action")
 
-**Dear Friends of Quincy for Transformative Change,**
+#### Dear Friends of Quincy for Transformative Change,
 
-**As you all remember, the people of Quincy have been asking for a Department of Social Justice and Equity for a long time, and then ultimately, demanded a nearly unanimous vote by City Council, in January 2021. Despite the will of the people, the Mayor, in a very unprecedented rejection, refused to fund the Department. After a long delay, he said that he would fund a liaison position, under his own office. It's been too long, and there's no action. Now we ask you to support Councilors Mahoney and Liang, as we reawaken the will to act. Here's how you participate.**
+As you all remember, the people of Quincy have been asking for a Department of Social Justice and Equity for a long time, and then ultimately, demanded a nearly unanimous vote by City Council, in January 2021. Despite the will of the people, the Mayor, in a very unprecedented rejection, refused to fund the Department. After a long delay, he said that he would fund a liaison position, under his own office. It's been too long, and there's no action. Now we ask you to support Councilors Mahoney and Liang, as we reawaken the will to act. Here's how you participate.
 
-**Action Requested:** Please write and/or call the Mayor and the Quincy City Council to ask them to support pushing forward:
+##### **Action Requested:** Please write and/or call the Mayor and the Quincy City Council to ask them to support pushing forward:
 
 1. The January 30th, 2023 [Resolve (ORDER #2023-008)](https://drive.google.com/file/d/17O-56M1VT8N1E94O17_0ZJsKC1HU7gpJ/view?usp=sharing) that Councillors-at-Large Nina Liang and Ann Mahoney brought forward and that the City Council approved and sent to committee. This Resolve asks the mayor to
    * 1a. update the Council about the status of the unfilled Community Liaison position which was funded by the Mayor in the City budget in June 2022 and
    * 1b.  update the Council on the Mayor’s Committee for Equity and Inclusion’s recommendations.
 2. Voice support for the creation of a citywide Department of Equity and Inclusion
 
-If you want to call the Mayor’s office and the City Councillors, you can [find phone numbers here](https://www.quincyma.gov/government/elected_officials/index.php).
+**If you want to call the Mayor’s office and the City Councillors, you can [find phone numbers here](https://www.quincyma.gov/government/elected_officials/index.php).**
 
-Here's a template letter that you may copy/paste/edit: [https://tinyurl.com/Resolve238](https://tinyurl.com/Resolve238)
+**Here's a template letter that you may copy/paste/edit: [https://tinyurl.com/Resolve238](https://tinyurl.com/Resolve238)**
 
-***
 
-Find your Councilor here and write to the Councilors at large and the Mayor as well as Council President DiBona.
+##### Find your Councilor here and write to the Councilors at large and the Mayor as well as Council President DiBona.
 
 * Nina Liang - At-Large: [nliang@quincyma.gov](mailto:nliang@quincyma.gov)
 * Anne Mahoney - At-Large: [amahoney@quincyma.gov](mailto:amahoney@quincyma.gov)
